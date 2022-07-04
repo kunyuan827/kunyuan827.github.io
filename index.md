@@ -5,14 +5,8 @@ title: ""
 
 <img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
 
-<!-- ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg) -->
 
-<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="kunyuan" align="right" width="200"/> -->
-
-<!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg) -->
-
-&emsp; &emsp; **Kun Yuan (袁 坤)**
-
+&emsp; &emsp; **Kun Yuan (袁 坤)** <br>
 &emsp; &emsp; Staff Algorithm Engineer, DAMO Academy, Alibaba Group
 
 <!-- &emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group -->
