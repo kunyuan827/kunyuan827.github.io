@@ -9,7 +9,7 @@ title: ""
 
 <!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="kunyuan" align="right" width="200"/> -->
 
-![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG)
+![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.jpg)
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
