@@ -6,7 +6,9 @@ title: ""
 <img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
 
 <br>
-&emsp; &emsp; **Kun Yuan (袁 坤)** <br>
+
+&emsp; &emsp; **Kun Yuan (袁 坤)** 
+
 &emsp; &emsp; Staff Algorithm Engineer, DAMO Academy, Alibaba Group
 
 <!-- &emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group -->
