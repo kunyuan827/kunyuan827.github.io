@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="https://www.linkedin.com/in/kun-yuan-626385a1" alt="kunyuan" align="right" width="200"/>
+<img src="https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg" alt="kunyuan" align="right" width="200"/>
 
 
 
