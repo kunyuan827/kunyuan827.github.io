@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![avatar](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG =100x100)
+![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG)
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
