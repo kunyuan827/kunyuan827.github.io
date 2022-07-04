@@ -30,3 +30,4 @@ Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/lab
 ## Experience
 
 - 2021.8 -- Now &emsp; Staff Algorithm Engineer &emsp; Alibaba Group
+- 2019.8 -- 2021.7 &emsp; Senior Algorithm Engineer &emsp; Alibaba Group
