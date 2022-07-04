@@ -5,11 +5,11 @@ title: ""
 
 <!-- <img src="https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg" alt="kunyuan" align="right" width="200"/> -->
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+<!-- ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg) -->
 
 <!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="kunyuan" align="right" width="200"/> -->
 
-<!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG) -->
+![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG)
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
