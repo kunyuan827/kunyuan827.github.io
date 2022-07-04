@@ -13,6 +13,12 @@ title: ""
 
 &emsp; **Kun Yuan**
 
+&emsp; Staff Algorithm Engineer
+
+&emsp; Decision Intelligence Lab, DAMO Academy
+
+&emsp; Alibaba Group
+
 &emsp; kunyuan827 AT gmail.com
 
 
