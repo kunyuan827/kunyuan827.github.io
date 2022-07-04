@@ -31,3 +31,4 @@ Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/lab
 
 - 2021.8 -- Now &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff Algorithm Engineer &emsp;&nbsp;&nbsp;&nbsp; Alibaba Group
 - 2019.8 -- 2021.7 &emsp; Senior Algorithm Engineer &emsp; Alibaba Group
+- 2018.1 -- 2018.6 &emsp; Visiting Researcher &emsp; École Polytechnique Fédérale de Lausanne
