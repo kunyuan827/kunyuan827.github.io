@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
+<img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="100"/>
 
 <!-- ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg) -->
 
