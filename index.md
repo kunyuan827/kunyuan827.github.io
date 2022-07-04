@@ -15,11 +15,11 @@ title: ""
 
 &emsp; Staff Algorithm Engineer
 
-&emsp; Decision Intelligence Lab, DAMO Academy
+&emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group
 
-&emsp; Alibaba Group
+&emsp; Email: kunyuan827 AT gmail.com
 
-&emsp; kunyuan827 AT gmail.com
+&emsp; CV / Google scholar 
 
 
 
