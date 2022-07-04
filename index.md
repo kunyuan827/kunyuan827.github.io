@@ -3,13 +3,13 @@ layout: page
 title: ""
 ---
 
-<!-- <img src="https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg" alt="kunyuan" align="right" width="200"/> -->
+<img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="right" width="200"/>
 
 <!-- ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg) -->
 
 <!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="kunyuan" align="right" width="200"/> -->
 
-![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg)
+<!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg) -->
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
