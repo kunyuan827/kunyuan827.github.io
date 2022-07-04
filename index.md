@@ -19,16 +19,11 @@ title: ""
 
 &emsp; Email: kunyuan827 AT gmail.com
 
-&emsp; CV / Google scholar 
+&emsp; CV / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
 
 <br>
 
 <br>
-
-<br>
-
-
-
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
