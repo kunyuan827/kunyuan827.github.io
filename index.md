@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="drawing" align="right" width="200"/>
+<img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG" alt="kunyuan" align="right" width="200"/>
 
 <!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/images/KunYuan.PNG) -->
 
