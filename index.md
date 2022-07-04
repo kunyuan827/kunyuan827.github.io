@@ -11,9 +11,9 @@ title: ""
 
 <!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg) -->
 
-&emsp **Kun Yuan**
+&emsp; **Kun Yuan**
 
-&emsp kunyuan827 AT gmail.com
+&emsp; kunyuan827 AT gmail.com
 
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
