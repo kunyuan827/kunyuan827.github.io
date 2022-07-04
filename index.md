@@ -11,15 +11,15 @@ title: ""
 
 <!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg) -->
 
-&emsp; **Kun Yuan (袁 坤)**
+&emsp; &emsp; **Kun Yuan (袁 坤)**
 
-&emsp; Staff Algorithm Engineer
+&emsp; &emsp; Staff Algorithm Engineer, DAMO Academy, Alibaba Group
 
-&emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group
+<!-- &emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group -->
 
-&emsp; Email: kunyuan827 AT gmail.com
+&emsp; &emsp; Email: kunyuan827 AT gmail.com
 
-&emsp; CV / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
+&emsp; &emsp; CV / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
 
 <br>
 
