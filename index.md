@@ -11,7 +11,7 @@ title: ""
 
 <!-- ![avatar-w70](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg) -->
 
-&emsp; **Kun Yuan**
+&emsp; **Kun Yuan (袁 坤)**
 
 &emsp; Staff Algorithm Engineer
 
