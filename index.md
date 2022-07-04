@@ -15,6 +15,15 @@ title: ""
 
 &emsp; kunyuan827 AT gmail.com
 
+
+
+
+
+
+
+
+
+
 I am a staff algorithm engineer in DAMO Academy, Alibaba Group. 
 
 My research lies in the theoretical and algorithmic foundations in optimization, signal processing, machine learning, and data science. In particular, I currently focus on the development of fast, scalable, reliable, and distributed algorithms with applications in large-scale optimization, deep neural network training, federated learning, and Internet of things.  
