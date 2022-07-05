@@ -29,6 +29,9 @@ layout: page
 
 - [A unified and refined convergence analysis for non-convex decentralized learning](https://arxiv.org/abs/2110.09993) <br>
   S. A. Alghunaim and K. Yuan &emsp; *IEEE Transactions on Signal Processing*
+  
+- [A Byzantine-resilient dual subgradient method for vertical federated learning](https://ieeexplore.ieee.org/abstract/document/9747270/) <br>
+  K. Yuan, Z. Wu, and Q. Ling &emsp; *ICASSP 2021*
 
 
 
