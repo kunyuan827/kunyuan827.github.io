@@ -150,7 +150,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063) <br>
   K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* <br>
-  <mark> ICCM Distinguished Paper Award </mark> &emsp; <mark style="background-color: lightblue">Highly Cited Paper in SIAM J. Opt.</mark>
+  <mark> ICCM Distinguished Paper Award </mark> &emsp; <mark style="background-color: lightblue">Highly Cited Paper in SIAM Journal on Optimization</mark>
   
 ### 2015
 - [A decentralised linear programming approach to energy–efficient event detection](http://home.ustc.edu.cn/~qingling/papers/J_IJSN2015.pdf)<br>
