@@ -157,5 +157,14 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   K. Yuan, Q. Ling, and Z. Tian  &emsp; *International Journal of Sensor Networks* 
   
 ### 2014
+
+- [Communication-efficient decentralized event monitoring in wireless sensor networks](https://ieeexplore.ieee.org/abstract/document/6881722/) <br>
+  K. Yuan, Q. Ling, and Z. Tian  &emsp; *IEEE Transactions on Parallel and Distributed Systems* 
+  
+- [On the linear convergence of the ADMM in decentralized consensus optimization](https://ieeexplore.ieee.org/abstract/document/6731604/) <br>
+  W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin &emsp; *IEEE Transactions on Signal Processing* 
+  <mark> IEEE Signal Processing Society Yougn Author Best Paper Award </mark> <br> 
+  <mark style="background-color: lightblue">Highly Cited Paper in IEEE TSP </mark> <br>
+  
   
   <!--   <span style="color:blue"> ICCM Distinguished Paper Award </span>  -->
