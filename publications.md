@@ -31,7 +31,10 @@ layout: page
   S. A. Alghunaim and K. Yuan &emsp; *IEEE Transactions on Signal Processing*
   
 - [A Byzantine-resilient dual subgradient method for vertical federated learning](https://ieeexplore.ieee.org/abstract/document/9747270/) <br>
-  K. Yuan, Z. Wu, and Q. Ling &emsp; *ICASSP 2021*
+  K. Yuan, Z. Wu, and Q. Ling &emsp; *ICASSP 2022*
+  
+- [CHEX: Channel exploration for CNN model compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_CHEX_CHannel_EXploration_for_CNN_Model_Compression_CVPR_2022_paper.pdf) <br>
+  Z. Hou, M. Qin, F. Sun, X. Ma, K. Yuan, Y. Xu, Y.-K. Chen, R. Jin, Y. Xie, S.-Y. Kung &emsp; *CVPR 2022*
 
 
 
