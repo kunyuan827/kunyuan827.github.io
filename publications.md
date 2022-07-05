@@ -60,16 +60,16 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [Multiagent fully decentralized value function learning with linear convergence rates](https://ieeexplore.ieee.org/abstract/document/9096575/) <br>
   L. Cassano, K. Yuan, and A. H. Sayed  &emsp; *IEEE Transactions on Automatic Control*
   
-- [Decentralized proximal gradient algorithms with linear convergence rates](https://arxiv.org/abs/1909.06479)
+- [Decentralized proximal gradient algorithms with linear convergence rates](https://arxiv.org/abs/1909.06479)  <br>
   S. A. Alghunaim, E. K. Ryu, K. Yuan, A. H. Sayed &emsp; *IEEE Transactions on Automatic Control*
   
-- [Walkman: A communication-efficient random-walk algorithm for decentralized optimization](https://arxiv.org/abs/1804.06568)
+- [Walkman: A communication-efficient random-walk algorithm for decentralized optimization](https://arxiv.org/abs/1804.06568)  <br>
   X. Mao, K. Yuan, Y. Hu, Y. Gu, A. H. Sayed, W. Yin &emsp; *IEEE Transactions on Signal Processing*
   
-- [Can Primal Methods Outperform Primal-dual Methods in Decentralized Dynamic Optimization?](https://arxiv.org/abs/2003.00816)
+- [Can Primal Methods Outperform Primal-dual Methods in Decentralized Dynamic Optimization?](https://arxiv.org/abs/2003.00816)  <br>
   K. Yuan, W. Xu, Q. Ling &emsp; *IEEE Transactions on Signal Processing*
   
-- [On the Influence of Bias-Correction on Distributed Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/9139399)
+- [On the Influence of Bias-Correction on Distributed Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
   K. Yuan, S. A. Alghunaim, B. Ying, A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 <!-- ## Features
