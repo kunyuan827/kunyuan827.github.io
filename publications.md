@@ -69,7 +69,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [Can Primal Methods Outperform Primal-dual Methods in Decentralized Dynamic Optimization?](https://arxiv.org/abs/2003.00816)  <br>
   K. Yuan, W. Xu, Q. Ling &emsp; *IEEE Transactions on Signal Processing*
   
-- [On the Influence of Bias-Correction on Distributed Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
+- [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
   K. Yuan, S. A. Alghunaim, B. Ying, A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 <!-- ## Features
