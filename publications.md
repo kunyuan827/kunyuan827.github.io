@@ -134,7 +134,12 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   T. Wu, K. Yuan, Q. Ling, W. Yin, and A. H. Sayed  &emsp; *IEEE Transactions on Signal and Information Processing over Networks*
   
 - [On the performance of random reshuffling in stochastic learning](https://ieeexplore.ieee.org/abstract/document/8023470) <br>
-  B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed   &emsp;  *Information Theory and Application Workshop 2017*
+  B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed   &emsp;  *Information Theory and Application Workshop (ITA) 2017*
+  
+### 2016
+
+- [Stochastic gradient descent with finite samples sizes](https://ieeexplore.ieee.org/abstract/document/7738878)<br>
+  K. Yuan, B. Ying, S. Vlaski, and A. H. Sayed  &emsp;  *IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2017*
 
 <!-- ## Features
 
