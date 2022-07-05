@@ -140,3 +140,12 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 
 - [Stochastic gradient descent with finite samples sizes](https://ieeexplore.ieee.org/abstract/document/7738878)<br>
   K. Yuan, B. Ying, S. Vlaski, and A. H. Sayed  &emsp;  *IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2017*
+  
+- [Online dual coordinate ascent learning](https://ieeexplore.ieee.org/abstract/document/7760557)<br>
+  B. Ying, K. Yuan, and A. H. Sayed &emsp; *EUSIPCO 2016*
+  
+- [On the influence of momentum acceleration on online learning](https://www.jmlr.org/papers/volume17/16-157/16-157.pdf)<br>
+  K. Yuan, B. Ying, and A. H. Sayed   &emsp; *Journal of Machine Learning Research*
+  
+- [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063)<br>
+  K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* 
