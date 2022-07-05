@@ -87,6 +87,15 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Decentralized dynamic admm with quantized and censored communications](https://ieeexplore.ieee.org/abstract/document/9048719)<br>
   Y. Liu, K. Yuan, G. Wu, Z. Tian, and Q. Ling &emsp; *Asilomar 2019*
+  
+- [Distributed value-function learning with linear convergence rates](https://ieeexplore.ieee.org/abstract/document/8795670/) <br>
+  L. Cassano, K. Yuan, and A. H. Sayed  &emsp; *European Control Conference (ECC) 2019*
+
+- [COVER: A cluster-based variance reduced method for online learning](https://ieeexplore.ieee.org/abstract/document/8682527) <br>
+  K. Yuan, B. Ying, and A. H. Sayed  &emsp; *ICASSP 2019*
+  
+### 2018
+
 
 <!-- ## Features
 
