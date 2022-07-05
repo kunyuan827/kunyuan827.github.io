@@ -7,12 +7,14 @@ layout: page
 ## Preprints
 
 - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
-  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin &emsp; *arXiv 2111.04287*
+  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
   
 - [Removing data heterogeneity influence enhances network topology dependence of decentralized SGD](https://arxiv.org/abs/2105.08023) <br>
-  K. Yuan, S. A. Alghunaim, and X. Huang  &emsp; *arXiv:2105.08023*
+  K. Yuan, S. A. Alghunaim, and X. Huang 
+  
+- [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
+  B. Ying, K. Yuan, Y. Chen, H. Hu, Y. Zhang, P. Pan, and W. Yin
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Features
 
