@@ -16,7 +16,7 @@ layout: page
   K. Yuan, S. A. Alghunaim, and X. Huang 
   
 - [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
-  B. Ying$^\*$, K. Yuan$^\*$, Y. Chen$^\*$, H. Hu$^\*$, Y. Zhang, P. Pan, and W. Yin
+  B. Ying$^\*$, K. Yuan$^\*$, Y. Chen $^\*$, H. Hu $^\*$, Y. Zhang, P. Pan, and W. Yin
   
 - [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
   Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan
