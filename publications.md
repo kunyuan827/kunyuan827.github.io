@@ -149,4 +149,5 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063) <br>
   K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* <br>
-  <span style="color:blue"> ICCM Distinguished Paper Award </span> 
+<!--   <span style="color:blue"> ICCM Distinguished Paper Award </span>  -->
+  <mark> ICCM Distinguished Paper Award </mark> &emsp; <mark style="background-color: lightblue">Highly Cited Paper in SIAM J. Opt.</mark>
