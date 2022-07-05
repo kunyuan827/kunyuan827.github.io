@@ -112,7 +112,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [Exact diffusion for distributed optimization and learning -- Part I: Algorithm development](https://ieeexplore.ieee.org/abstract/document/8491372)<br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
   
-- [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/)
+- [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/) <br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 
