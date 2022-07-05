@@ -71,6 +71,10 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
   K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  
+- [Variance-reduced stochastic learning under random reshuffling](https://ieeexplore.ieee.org/document/8995475)<br>
+  B. Ying, K. Yuan, and A. H. Sayed <br>
+  *IEEE Transactions on Signal Processing* &emsp; Short version appears in ICASSP 2018
 
 ### 2019
 - [A proximal diffusion strategy for multiagent optimization with sparse affine constraints](https://arxiv.org/abs/1810.02124) <br>
