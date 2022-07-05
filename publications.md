@@ -109,7 +109,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Supervised learning under distributed features](https://arxiv.org/abs/1805.11384) <br>
   B. Ying, K. Yuan, and A. H. Sayed <br>
-  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in IEEE data science workshop 2018
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *IEEE Data Science Workshop 2018*
   
 - [Stochastic learning under random reshuffling with constant step-sizes](https://ieeexplore.ieee.org/abstract/document/8514028)<br>
   B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
