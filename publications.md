@@ -74,7 +74,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Variance-reduced stochastic learning under random reshuffling](https://ieeexplore.ieee.org/document/8995475)<br>
   B. Ying, K. Yuan, and A. H. Sayed <br>
-  *IEEE Transactions on Signal Processing* &emsp; Short version appears in ICASSP 2018
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *ICASSP 2018*
 
 ### 2019
 - [A proximal diffusion strategy for multiagent optimization with sparse affine constraints](https://arxiv.org/abs/1810.02124) <br>
@@ -108,14 +108,15 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   S. A. Alghunaim, K. Yuan, and A. H. Sayed &emsp; *CDC 2018*
   
 - [Supervised learning under distributed features](https://arxiv.org/abs/1805.11384) <br>
-  B. Ying, K. Yuan, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  B. Ying, K. Yuan, and A. H. Sayed <br>
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in IEEE data science workshop 2018
   
 - [Stochastic learning under random reshuffling with constant step-sizes](https://ieeexplore.ieee.org/abstract/document/8514028)<br>
   B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
   
 - [Exact diffusion for distributed optimization and learning -- Part I: Algorithm development](https://ieeexplore.ieee.org/abstract/document/8491372)<br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed <br>
-  *IEEE Transactions on Signal Processing* &emsp; Short version in EUSIPCO 2018
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *EUSIPCO 2018*
   
 - [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/) <br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing* 
