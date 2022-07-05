@@ -4,6 +4,8 @@ permalink: "/publications/"
 layout: page
 ---
 
+The supscript <sup>E</sup> indicates ``Equal contribution'', while supscript <sup>C</sup> indicates ``Corresponding author''.
+
 ### Preprints
 
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
