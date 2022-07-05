@@ -66,7 +66,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [Walkman: A communication-efficient random-walk algorithm for decentralized optimization](https://arxiv.org/abs/1804.06568)  <br>
   X. Mao, K. Yuan, Y. Hu, Y. Gu, A. H. Sayed, W. Yin &emsp; *IEEE Transactions on Signal Processing*
   
-- [Can Primal Methods Outperform Primal-dual Methods in Decentralized Dynamic Optimization?](https://arxiv.org/abs/2003.00816)  <br>
+- [Can primal methods outperform primal-dual methods in decentralized dynamic optimization?](https://arxiv.org/abs/2003.00816)  <br>
   K. Yuan, W. Xu, Q. Ling &emsp; *IEEE Transactions on Signal Processing*
   
 - [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
