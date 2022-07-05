@@ -35,6 +35,9 @@ layout: page
   
 - [CHEX: Channel exploration for CNN model compression](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_CHEX_CHannel_EXploration_for_CNN_Model_Compression_CVPR_2022_paper.pdf) <br>
   Z. Hou, M. Qin, F. Sun, X. Ma, K. Yuan, Y. Xu, Y.-K. Chen, R. Jin, Y. Xie, S.-Y. Kung &emsp; *CVPR 2022*
+  
+- [Effective model sparsification by scheduled Grow-and-Prune methods](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_CHEX_CHannel_EXploration_for_CNN_Model_Compression_CVPR_2022_paper.pdf) <br>
+  X. Ma, M. Qin, F. Sun, Z. Hou, K. Yuan, Y. Xu, Y. Wang, Y.-K. Chen, R. Jin, Y. Xie &emsp; *ICLR 2022*
 
 
 
