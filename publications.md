@@ -7,10 +7,10 @@ layout: page
 ## Preprints
 
 - [*Bluefog: Make decentralized algorithms practical for optimization and deep learning*](https://arxiv.org/abs/2111.04287) <br>
-  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin &emsp   arXiv 2111.04287, 2021. 
+  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin &emsp;   arXiv 2111.04287, 2021. 
   
 - [*Removing data heterogeneity influence enhances network topology dependence of decentralized SGD*](https://arxiv.org/abs/2105.08023) <br>
-  K. Yuan, S. A. Alghunaim, and X. Huang  &emsp arXiv:2105.08023, 2021
+  K. Yuan, S. A. Alghunaim, and X. Huang  &emsp; arXiv:2105.08023, 2021
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
