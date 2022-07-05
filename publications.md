@@ -24,7 +24,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan &emsp; (Authors are listed alphabetically)
   
 - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
-  E. Ryu, K. Yuan, and W. Yin
+  E. K. Ryu, K. Yuan, and W. Yin
 
 
 ### 2022 
@@ -54,6 +54,23 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Accelerating gossip SGD with periodic global averaging](http://proceedings.mlr.press/v139/chen21y/chen21y.pdf) <br>
   Y. Chen<sup>E</sup>, K. Yuan<sup>EC</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin &emsp; *ICML 2021*
+  
+### 2020
+
+- [Multiagent fully decentralized value function learning with linear convergence rates](https://ieeexplore.ieee.org/abstract/document/9096575/) <br>
+  L. Cassano, K. Yuan, and A. H. Sayed  &emsp; *IEEE Transactions on Automatic Control*
+  
+- [Decentralized proximal gradient algorithms with linear convergence rates](https://arxiv.org/abs/1909.06479)
+  S. A. Alghunaim, E. K. Ryu, K. Yuan, A. H. Sayed &emsp; *IEEE Transactions on Automatic Control*
+  
+- [Walkman: A communication-efficient random-walk algorithm for decentralized optimization](https://arxiv.org/abs/1804.06568)
+  X. Mao, K. Yuan, Y. Hu, Y. Gu, A. H. Sayed, W. Yin &emsp; *IEEE Transactions on Signal Processing*
+  
+- [Can Primal Methods Outperform Primal-dual Methods in Decentralized Dynamic Optimization?](https://arxiv.org/abs/2003.00816)
+  K. Yuan, W. Xu, Q. Ling &emsp; *IEEE Transactions on Signal Processing*
+  
+- [On the Influence of Bias-Correction on Distributed Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/9139399)
+  K. Yuan, S. A. Alghunaim, B. Ying, A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 <!-- ## Features
 
