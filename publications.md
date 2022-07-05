@@ -47,6 +47,11 @@ layout: page
 - [Improved analysis and rates for variance reduction under without-replacement sampling orders](https://proceedings.neurips.cc/paper/2021/file/1a3650aedfdd3a21444047ed2d89458f-Paper.pdf) <br>
   X. Huang<sup>E</sup>, K. Yuan<sup>EC</sup>, X. Mao, and W. Yin &emsp; *NeurIPS 2021*
 
+- [DecentLaM: Decentralized momentum SGD for large-batch deep training](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_DecentLaM_Decentralized_Momentum_SGD_for_Large-Batch_Deep_Training_ICCV_2021_paper.pdf) <br>
+  K. Yuan<sup>EC</sup>, Y. Chen<sup>E</sup>, X. Huang<sup>E</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin  &emsp; *ICCV 2021*
+  
+- [Accelerating gossip SGD with periodic global averaging](http://proceedings.mlr.press/v139/chen21y/chen21y.pdf) <br>
+  Y. Chen<sup>E</sup>, K. Yuan<sup>EC</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin &emsp; *ICML 2021*
 
 <!-- ## Features
 
