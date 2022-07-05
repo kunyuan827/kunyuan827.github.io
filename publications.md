@@ -139,7 +139,8 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 ### 2016
 
 - [Stochastic gradient descent with finite samples sizes](https://ieeexplore.ieee.org/abstract/document/7738878)<br>
-  K. Yuan, B. Ying, S. Vlaski, and A. H. Sayed  &emsp;  *IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2017*
+  K. Yuan, B. Ying, S. Vlaski, and A. H. Sayed  <br>
+  *IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2017*
   
 - [Online dual coordinate ascent learning](https://ieeexplore.ieee.org/abstract/document/7760557)<br>
   B. Ying, K. Yuan, and A. H. Sayed &emsp; *EUSIPCO 2016*
@@ -150,5 +151,11 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063) <br>
   K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* <br>
   <mark> ICCM Distinguished Paper Award </mark> &emsp; <mark style="background-color: lightblue">Highly Cited Paper in SIAM J. Opt.</mark>
+  
+### 2015
+- [A decentralised linear programming approach to energy–efficient event detection](http://home.ustc.edu.cn/~qingling/papers/J_IJSN2015.pdf)<br>
+  K. Yuan, Q. Ling, and Z. Tian  &emsp; *International Journal of Sensor Networks* 
+  
+### 2014
   
   <!--   <span style="color:blue"> ICCM Distinguished Paper Award </span>  -->
