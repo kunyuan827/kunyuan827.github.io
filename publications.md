@@ -7,7 +7,7 @@ layout: page
 ### Preprints
 
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
-  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, L. Zhu
+  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, L. Zhu &emsp; (Authors are listed alphabetically)
 
 - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
   B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
@@ -19,7 +19,7 @@ layout: page
   B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu<sup>E</sup>, Y. Zhang, P. Pan, and W. Yin
   
 - [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
-  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan
+  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan &emsp; (Authors are listed alphabetically)
   
 - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
   E. Ryu, K. Yuan, and W. Yin
