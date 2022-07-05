@@ -15,7 +15,7 @@ title: ""
 
 &emsp; &emsp; &emsp; Email: kunyuan827 AT gmail.com
 
-&emsp; &emsp; &emsp; [CV](https://github.com/kunyuan827/kunyuan827.github.io/blob/master/assets/CV%20(2).pdf) / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
+&emsp; &emsp; &emsp; CV / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
 
 <br>
 
