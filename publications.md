@@ -61,16 +61,16 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   L. Cassano, K. Yuan, and A. H. Sayed  &emsp; *IEEE Transactions on Automatic Control*
   
 - [Decentralized proximal gradient algorithms with linear convergence rates](https://arxiv.org/abs/1909.06479)  <br>
-  S. A. Alghunaim, E. K. Ryu, K. Yuan, A. H. Sayed &emsp; *IEEE Transactions on Automatic Control*
+  S. A. Alghunaim, E. K. Ryu, K. Yuan, and A. H. Sayed &emsp; *IEEE Transactions on Automatic Control*
   
 - [Walkman: A communication-efficient random-walk algorithm for decentralized optimization](https://arxiv.org/abs/1804.06568)  <br>
-  X. Mao, K. Yuan, Y. Hu, Y. Gu, A. H. Sayed, W. Yin &emsp; *IEEE Transactions on Signal Processing*
+  X. Mao, K. Yuan, Y. Hu, Y. Gu, and A. H. Sayed, W. Yin &emsp; *IEEE Transactions on Signal Processing*
   
 - [Can primal methods outperform primal-dual methods in decentralized dynamic optimization?](https://arxiv.org/abs/2003.00816)  <br>
-  K. Yuan, W. Xu, Q. Ling &emsp; *IEEE Transactions on Signal Processing*
+  K. Yuan, W. Xu, and Q. Ling &emsp; *IEEE Transactions on Signal Processing*
   
 - [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
-  K. Yuan, S. A. Alghunaim, B. Ying, A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 <!-- ## Features
 
