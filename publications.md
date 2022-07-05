@@ -6,6 +6,9 @@ layout: page
 
 ### Preprints
 
+- [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
+  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, L. Zhu
+
 - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
   B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
   
