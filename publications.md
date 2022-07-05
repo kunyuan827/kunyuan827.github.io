@@ -39,6 +39,10 @@ layout: page
 - [Effective model sparsification by scheduled Grow-and-Prune methods](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_CHEX_CHannel_EXploration_for_CNN_Model_Compression_CVPR_2022_paper.pdf) <br>
   X. Ma, M. Qin, F. Sun, Z. Hou, K. Yuan, Y. Xu, Y. Wang, Y.-K. Chen, R. Jin, Y. Xie &emsp; *ICLR 2022*
 
+### 2021
+
+- [Exponential graph is provably efficient for decentralized deep training](https://arxiv.org/abs/2110.13363) <br>
+  B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu, P. Pan, W. Yin
 
 
 <!-- ## Features
