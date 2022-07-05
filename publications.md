@@ -116,16 +116,25 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Exact diffusion for distributed optimization and learning -- Part I: Algorithm development](https://ieeexplore.ieee.org/abstract/document/8491372)<br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed <br>
-  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *EUSIPCO 2018*
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *EUSIPCO 2017*
   
 - [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/) <br>
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing* 
   
 - [Variance-reduced stochastic learning by networked agents under random reshuffling](https://ieeexplore.ieee.org/abstract/document/8472787)<br>
-  K. Yuan, B. Ying, J. Liu, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  K. Yuan, B. Ying, J. Liu, and A. H. Sayed <br>
+  *IEEE Transactions on Signal Processing* &emsp; Short version appeared in *EUSIPCO 2018*
   
-- []
+### 2017
 
+- [Decentralized exact coupled optimization](https://ieeexplore.ieee.org/abstract/document/8262757)<br>
+  S. A. Alghunaim, K. Yuan, and A. H. Sayed &emsp; *Allerton 2018*
+  
+- [Decentralized consensus optimization with asynchrony and delays](https://ieeexplore.ieee.org/abstract/document/7903733) <br>
+  T. Wu, K. Yuan, Q. Ling, W. Yin, and A. H. Sayed  &emsp; *IEEE Transactions on Signal and Information Processing over Networks*
+  
+- [On the performance of random reshuffling in stochastic learning](https://ieeexplore.ieee.org/abstract/document/8023470) <br>
+  B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed   &emsp;  *Information Theory and Application Workshop 2017*
 
 <!-- ## Features
 
