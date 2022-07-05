@@ -113,7 +113,12 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
   
 - [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/) <br>
-  K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing* &emsp; Short version in EUSIPCO 2018
+  
+- [Variance-reduced stochastic learning by networked agents under random reshuffling](https://ieeexplore.ieee.org/abstract/document/8472787)<br>
+  K. Yuan, B. Ying, J. Liu, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  
+- []
 
 
 <!-- ## Features
