@@ -94,7 +94,17 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [COVER: A cluster-based variance reduced method for online learning](https://ieeexplore.ieee.org/abstract/document/8682527) <br>
   K. Yuan, B. Ying, and A. H. Sayed  &emsp; *ICASSP 2019*
   
+- [A linearly convergent proximal gradient algorithm for decentralized optimization](https://proceedings.neurips.cc/paper/2019/file/e9fd7c2c6623306db59b6aef5c0d5cac-Paper.pdf) <br>
+  S. A. Alghunaim, K. Yuan, and A. H. Sayed &emsp; *NeurIPS 2019*
+  
+  
 ### 2018
+
+- [Dual coupled diffusion for distributed optimization with affine constraints](https://ieeexplore.ieee.org/abstract/document/8619343) <br>
+  S. A. Alghunaim, K. Yuan, and A. H. Sayed &emsp; *CDC 2018*
+  
+- [Supervised learning under distributed features](https://arxiv.org/abs/1805.11384) <br>
+  B. Ying, K. Yuan, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 
 <!-- ## Features
