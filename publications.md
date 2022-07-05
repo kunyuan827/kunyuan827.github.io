@@ -105,6 +105,15 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [Supervised learning under distributed features](https://arxiv.org/abs/1805.11384) <br>
   B. Ying, K. Yuan, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  
+- [Stochastic learning under random reshuffling with constant step-sizes](https://ieeexplore.ieee.org/abstract/document/8514028)<br>
+  B. Ying, K. Yuan, S. Vlaski, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  
+- [Exact diffusion for distributed optimization and learning -- Part I: Algorithm development](https://ieeexplore.ieee.org/abstract/document/8491372)<br>
+  K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  
+- [Exact diffusion for distributed optimization and learning -- Part II: Convergence analysis](https://ieeexplore.ieee.org/abstract/document/8491339/)
+  K. Yuan, B. Ying, X. Zhao, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 
 <!-- ## Features
