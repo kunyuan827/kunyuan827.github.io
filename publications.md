@@ -74,7 +74,7 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 
 ### 2019
 - [A proximal diffusion strategy for multiagent optimization with sparse affine constraints](https://arxiv.org/abs/1810.02124) <br>
-  S. A. Alghunaim, K. Yuan, and A. H. Sayed
+  S. A. Alghunaim, K. Yuan, and A. H. Sayed  &emsp; *IEEE Transactions on Automatic Control*
   
 - [On the performance of exact diffusion over adaptive networks](https://ieeexplore.ieee.org/abstract/document/9029537/) <br>
   K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *Conference on Control and Decision (CDC) 2019*
