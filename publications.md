@@ -147,5 +147,6 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 - [On the influence of momentum acceleration on online learning](https://www.jmlr.org/papers/volume17/16-157/16-157.pdf)<br>
   K. Yuan, B. Ying, and A. H. Sayed   &emsp; *Journal of Machine Learning Research*
   
-- [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063) <span style="color:blue"> Paper Award </span> <br>
-  K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* 
+- [On the convergence of decentralized gradient descent](https://arxiv.org/abs/1310.7063) <br>
+  K. Yuan, Q. Ling, and W. Yin  &emsp; *SIAM Journal on Optimization* <br>
+  <span style="color:blue"> ICCM Distinguished Paper Award </span> 
