@@ -42,7 +42,10 @@ layout: page
 ### 2021
 
 - [Exponential graph is provably efficient for decentralized deep training](https://arxiv.org/abs/2110.13363) <br>
-  B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu, P. Pan, W. Yin
+  B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu, P. Pan, W. Yin &emsp; *NeurIPS 2021*
+  
+- [Improved analysis and rates for variance reduction under without-replacement sampling orders](https://proceedings.neurips.cc/paper/2021/file/1a3650aedfdd3a21444047ed2d89458f-Paper.pdf) <br>
+  X. Huang<sup>E</sup>, K. Yuan<sup>EC</sup>, X. Mao, and W. Yin &emsp; *NeurIPS 2021*
 
 
 <!-- ## Features
