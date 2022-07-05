@@ -6,7 +6,7 @@ layout: page
 
 ## Preprints
 
-- B. Ying, K. Yuan, H. Hu, Y. Chen, W. Yin, *Bluefog: Make decentralized algorithms practical for optimization and deep learning*, arXiv 2111.04287, 2021. [[arxiv]](https://arxiv.org/abs/2111.04287)
+- B. Ying, K. Yuan, H. Hu, Y. Chen, W. Yin, [*Bluefog: Make decentralized algorithms practical for optimization and deep learning*](https://arxiv.org/abs/2111.04287), arXiv 2111.04287, 2021. 
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
