@@ -78,6 +78,15 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
   
 - [On the performance of exact diffusion over adaptive networks](https://ieeexplore.ieee.org/abstract/document/9029537/) <br>
   K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *Conference on Control and Decision (CDC) 2019*
+  
+- [Dynamic average diffusion with randomized coordinate updates](https://ieeexplore.ieee.org/abstract/document/8850112)<br> 
+  B. Ying, K. Yuan, and A. H. Sayed &emsp; *IEEE Transactions on Signal and Information Processing over Networks*
+  
+- [On the comparison between primal and primal-dual methods in decentralized dynamic optimization](https://ieeexplore.ieee.org/abstract/document/9049028) <br>
+  W. Xu, K. Yuan, W. Yin, and Q. Ling &emsp; *Asilomar 2019*
+  
+- [Decentralized dynamic admm with quantized and censored communications](https://ieeexplore.ieee.org/abstract/document/9048719)<br>
+  Y. Liu, K. Yuan, G. Wu, Z. Tian, and Q. Ling &emsp; *Asilomar 2019*
 
 <!-- ## Features
 
