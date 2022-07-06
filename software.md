@@ -53,6 +53,8 @@ The implemented algorithms and system design in BlueFog can be found in the foll
   
 ## Talks
 
+The introduction and usage of BlueFog are reported in the following talks:
+
 - [Distributed Stochastic Optimization](https://www.bilibili.com/video/BV1mQ4y1Y7Pe) <br>
    Kun Yuan, *ZJU-CSE Summer School*, 2021 
    
