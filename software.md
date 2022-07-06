@@ -55,5 +55,8 @@ The implemented algorithms and system design in BlueFog can be found in the foll
 
 - [Faster Learning over Networks and BlueFog](http://www.lamda.nju.edu.cn/conf/mla20/slides/YinWoTao.pdf) <br> 
   BlueFog Team, *China Symposium on Machine Learning and Applications (MLA)*, 2020
+  
+- [Parallel, Distributed, and Decentralized optimization methods](https://math.gmu.edu/~hantil/ECOM/2021/schedule.html) <br>
+   Wotao Yin, *East Coast Optimization Meeting (ECOM)*, 2021 
 
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
