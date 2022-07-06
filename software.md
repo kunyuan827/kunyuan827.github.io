@@ -32,4 +32,10 @@ understand more details about the BlueFog benchmark, checkout the [performance p
 
 BlueFog is an open-source library located at [Github](https://github.com/Bluefog-Lib/bluefog). Jupyter notebook tutorials are availabe at [here](https://github.com/Bluefog-Lib/bluefog-tutorial).
 
+## Papers
+
+The implemented algorithms and system design in BlueFog can be found in the following papers:
+
+- 
+
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
