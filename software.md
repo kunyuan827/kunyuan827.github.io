@@ -12,7 +12,9 @@ MindOpt is an industrial-level solver suite for mathematical optimization proble
 
 <!-- [[Github]](https://github.com/Bluefog-Lib/bluefog) -->
 
- <p align="center"><img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="Logo" width="450"/></p>
+<img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="logo" align="center" width="450"/>
+
+<!--  <p align="center"><img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="Logo" width="450"/></p> -->
 
 ## BlueFog: A Decentralized Framework for Optimization and Deep Learning 
 
@@ -24,7 +26,7 @@ Performance
 Below are the charts representing the performance of BlueFog that was done on ResNet50 benchmark. Each machine has 8 V100 GPUs (64GB memory) with NVLink-enabled and the inter-connected communication speed is 25Gbps. This is the same hardware setup you can get on AWS_. We test the scaling efficiency with a batch size of 64 for a computationally intensive scenario, and a batch size of 32 for a communicationally intensive scenario.
 
 
-<!-- .. raw:: html -->
+.. raw:: html
 
     <p align="center"><img src="https://user-images.githubusercontent.com/16711681/98315290-bce5ee80-1f8c-11eb-931f-297a99d958ed.png" alt="Benchmark 1" width="400"/><img src="https://user-images.githubusercontent.com/16711681/98315305-c2433900-1f8c-11eb-91b8-1b17f31dce68.png" alt="Benchmark 2" width="400"/></p>
 
