@@ -29,7 +29,7 @@ Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/lab
 
 ### Academic Awards
 
-- IEEE Signal Processing Society Young Author Best Paper Award
+- IEEE Signal Processing Society Young Author Best Paper Award [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br>
 
 <!-- ## Experience
 
