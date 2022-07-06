@@ -49,17 +49,20 @@ The implemented algorithms and system design in BlueFog can be found in the foll
   K. Yuan<sup>EC</sup>, Y. Chen<sup>E</sup>, X. Huang<sup>E</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin  &emsp; *ICCV 2021*
   
 - [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
-  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
+  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*, 2021
   
 ## Talks
 
-- [Faster Learning over Networks and BlueFog](http://www.lamda.nju.edu.cn/conf/mla20/slides/YinWoTao.pdf) <br> 
-  BlueFog Team, *China Symposium on Machine Learning and Applications (MLA)*, 2020
-  
-- [Parallel, Distributed, and Decentralized optimization methods](https://math.gmu.edu/~hantil/ECOM/2021/schedule.html) <br>
-   Wotao Yin, *East Coast Optimization Meeting (ECOM)*, 2021 
-   
 - [Distributed Stochastic Optimization](https://www.bilibili.com/video/BV1mQ4y1Y7Pe) <br>
    Kun Yuan, *ZJU-CSE Summer School*, 2021 
+   
+- [Parallel, Distributed, and Decentralized optimization methods](https://math.gmu.edu/~hantil/ECOM/2021/schedule.html) <br>
+   Wotao Yin, *East Coast Optimization Meeting (ECOM)*, 2021 
+
+- [Faster Learning over Networks and BlueFog](http://www.lamda.nju.edu.cn/conf/mla20/slides/YinWoTao.pdf) <br> 
+  BlueFog Team, *China Symposium on Machine Learning and Applications (MLA)*, 2020
+ 
+   
+
 
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
