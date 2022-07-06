@@ -36,6 +36,19 @@ BlueFog is an open-source library located at [Github](https://github.com/Bluefog
 
 The implemented algorithms and system design in BlueFog can be found in the following papers:
 
-- 
+- [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
+  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
+  
+- [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
+  B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu<sup>E</sup>, Y. Zhang, P. Pan, and W. Yin
+  
+- [Exponential graph is provably efficient for decentralized deep training](https://arxiv.org/abs/2110.13363) <br>
+  B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu, P. Pan, and W. Yin &emsp; *NeurIPS 2021*
+  
+- [DecentLaM: Decentralized momentum SGD for large-batch deep training](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_DecentLaM_Decentralized_Momentum_SGD_for_Large-Batch_Deep_Training_ICCV_2021_paper.pdf) <br>
+  K. Yuan<sup>EC</sup>, Y. Chen<sup>E</sup>, X. Huang<sup>E</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin  &emsp; *ICCV 2021*
+  
+- [On the influence of bias-correction on distributed stochastic optimization](https://ieeexplore.ieee.org/abstract/document/9139399)  <br>
+  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *IEEE Transactions on Signal Processing*
 
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
