@@ -11,6 +11,9 @@ layout: page
 
 ## BlueFog: A Decentralized Framework for Optimization and Deep Learning 
 
+Overview
+-----------
+
 Decentralized optimization algorithms are low-communication-overhead alternatives to traditional distributed algorithms using a center to conduct global average. However, the lack of an easy-to-use and efficient software package has kept most decentralized algorithms merely on paper. BlueFog is the first python library for straightforward, high-performance implementations of diverse decentralized algorithms. 
 
 Performance
