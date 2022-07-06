@@ -10,10 +10,11 @@ MindOpt is an industrial-level solver suite for mathematical optimization proble
 
 [To be added] -->
 
-## BlueFog: A Decentralized Framework for Optimization and Deep Learning 
 <!-- [[Github]](https://github.com/Bluefog-Lib/bluefog) -->
 
 <p align="center"><img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="Logo" width="450"/></p>
+
+## BlueFog: A Decentralized Framework for Optimization and Deep Learning 
 
 Decentralized optimization algorithms are low-communication-overhead alternatives to traditional distributed algorithms using a center to conduct global average. However, the lack of an easy-to-use and efficient software package has kept most decentralized algorithms merely on paper. BlueFog is the first python library for straightforward, high-performance implementations of diverse decentralized algorithms. 
 
