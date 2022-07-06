@@ -27,7 +27,7 @@ Below are the charts representing the performance of BlueFog that was done on Re
 <br><br><br><br><br><br><br><br><br><br>
 
 
-In the figures, the black box represents the ideal linear scaling. It is observed that Bluefog can achieve over 95% scaling efficiency while [Horovod](https://github.com/horovod/horovod) reaches around 66% sacling efficiency with batch size 64 on 128 GPUs. For the communicationally intensive scenario with batch size 32, the scaling efficiency gap between Bluefog and Horovod becomes even larger. To 
+In the figures, the black box represents the ideal linear scaling. It is observed that Bluefog can achieve over 95% scaling efficiency while [Horovod](https://github.com/horovod/horovod) (a state-of-the-art distributed deep learning training framework built by Uber AI team) reaches around 66% sacling efficiency with batch size 64 on 128 GPUs. For the communicationally intensive scenario with batch size 32, the scaling efficiency gap between Bluefog and Horovod becomes even larger. To 
 understand more details about the BlueFog benchmark, checkout the [performance page](https://bluefog-lib.github.io/bluefog/performance.html).
 
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
