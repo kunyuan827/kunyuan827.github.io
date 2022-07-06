@@ -7,7 +7,7 @@ layout: page
 
 <!-- [[Github]](https://github.com/Bluefog-Lib/bluefog) -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="logo" align="center" width="450"/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://user-images.githubusercontent.com/65107588/82258821-62d66b80-990f-11ea-9393-bf5456af67e6.png" alt="logo" align="center" width="450"/>
 
 ## BlueFog: A Decentralized Framework for Optimization and Deep Learning 
 
@@ -58,5 +58,8 @@ The implemented algorithms and system design in BlueFog can be found in the foll
   
 - [Parallel, Distributed, and Decentralized optimization methods](https://math.gmu.edu/~hantil/ECOM/2021/schedule.html) <br>
    Wotao Yin, *East Coast Optimization Meeting (ECOM)*, 2021 
+   
+- [Distributed Stochastic Optimization](https://www.bilibili.com/video/BV1mQ4y1Y7Pe) <br>
+   Kun Yuan, *ZJU-CSE Summer School*, 2021 
 
 <!-- It is open source at \url{https://github.com/Bluefog-Lib}. BlueFog was invited to give keynote lectures in the US East Coast Optimization Meeting 2021 and China Symposium on Machine Learning 2020.  -->
