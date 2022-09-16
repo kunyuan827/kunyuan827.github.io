@@ -3,8 +3,8 @@ layout: page
 title: ""
 ---
 
-<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/> -->
-<img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/assets/KunYuan.jpeg" alt="kunyuan" align="left" width="200"/>
+<img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
+<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/assets/KunYuan.jpeg" alt="kunyuan" align="left" width="200"/> -->
 
 <br>
 
