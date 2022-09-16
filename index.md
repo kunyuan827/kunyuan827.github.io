@@ -29,6 +29,9 @@ Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/lab
 
 I was the recipient of the <mark style="background-color: lightblue">2017 IEEE Signal Processing Society Young Author Best Paper Award </mark> <br> (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the **2017 ICCM Distinguished Paper Award**.
 
+  <mark> IEEE Signal Processing Society Yougn Author Best Paper Award </mark> [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br> 
+  <mark style="background-color: lightblue">Highly Cited Paper in IEEE Transactions on Signal Processing </mark> <br>
+
 ### News
 
 - [Papers] Three papers were accepted to NeurIPS 2022 (Sep. 14, 2022).
