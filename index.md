@@ -31,7 +31,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 ### News
 
-- [Papers] Three papers were accepted to NeurIPS 2022 (Sep. 14, 2022).
+- 09/2022 Our work "Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization" has been accepted to NeurIPS 2022.
 
 <!-- I received my M. E. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014 supervised by Prof. [Qing Ling](https://scholar.google.com/citations?user=u70vRDYAAAAJ&hl=en), and B. E. degree from [Xidian University](https://en.xidian.edu.cn/) in 2011.  -->
 
