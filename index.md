@@ -27,11 +27,13 @@ My research lies in the theoretical and algorithmic foundations in optimization,
 
 Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) in Alibaba led by Prof. [Wotao Yin](https://wotaoyin.mathopt.com/). Before that, I completed my Ph.D. in Electrical and Computer Engineering from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) in 2019, where I was fortunate to be advised by Prof. [Ali H. Sayed](https://asl.epfl.ch/biography/). I was a visiting researcher at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) from 2018 January to 2018 June, and a research intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) from 2018 June to 2018 October.
 
+I was the recipient of the 2017 IEEE Signal Processing Society Young Author Best Paper Award [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]], and the 2017 ICCM Distinguished Paper Award.
+
 <!-- I received my M. E. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014 supervised by Prof. [Qing Ling](https://scholar.google.com/citations?user=u70vRDYAAAAJ&hl=en), and B. E. degree from [Xidian University](https://en.xidian.edu.cn/) in 2011.  -->
 
-### Academic Awards
+<!-- ### Academic Awards
 
 - 2017 IEEE Signal Processing Society Young Author Best Paper Award [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br>
 
-- 2017 ICCM Distinguished Paper Award
+- 2017 ICCM Distinguished Paper Award -->
 
