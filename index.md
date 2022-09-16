@@ -31,11 +31,9 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 ### News
 
-- [09/2022] Our work *Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization* has been accepted to NeurIPS 2022.
+- [09/2022] Three papers were accepted to NeurIPS 2022.
 
-- [09/2022] Our work *Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate* has been accepted to NeurIPS 2022.
-
-- [09/2022] Our work *[Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression](https://arxiv.org/abs/2206.03665)* has been accepted to NeurIPS 2022. Prof. Wotao Yin was invited to give a keynote talk on it in the [CrossFL 2022](https://crossfl2022.github.io/) workshop. Please check the [slides](https://crossfl2022.github.io/presentations/OptimalCompression.pdf) and the [Youtube video](https://youtu.be/0mV85uGMpXA?t=19516).  
+- [09/2022] Prof. Wotao Yin was invited to give a keynote talk on our recent work *[Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression](https://arxiv.org/abs/2206.03665)* in the [CrossFL 2022](https://crossfl2022.github.io/) workshop. Please check the [slides](https://crossfl2022.github.io/presentations/OptimalCompression.pdf) and the [Youtube video](https://youtu.be/0mV85uGMpXA?t=19516).  
 
 <!-- I received my M. E. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in 2014 supervised by Prof. [Qing Ling](https://scholar.google.com/citations?user=u70vRDYAAAAJ&hl=en), and B. E. degree from [Xidian University](https://en.xidian.edu.cn/) in 2011.  -->
 
