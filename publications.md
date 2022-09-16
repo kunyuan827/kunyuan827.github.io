@@ -29,6 +29,15 @@ The supscript <sup>E</sup> indicates **Equal contribution**, while supscript <su
 
 ### 2022 
 
+- Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization <br>
+  K. Yuan<sup>EC</sup>, X. Huang<sup>E</sup>, Y. Chen<sup>E</sup>, X. Zhang, Y. Zhang, and P. Pan &emsp; *NeurIPS 2022*
+
+- Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate <br>
+  Z. Song<sup>E</sup>, W. Li<sup>E</sup>, K. Jin<sup>E</sup>, L. Shi, M. Yan, W. Yin, and K. Yuan<sup>C</sup> &emsp; *NeurIPS 2022*
+
+- [Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression](https://arxiv.org/abs/2206.03665) <br>
+  X. Huang<sup>E</sup>, Y. Chen<sup>E</sup>, W. Yin, and K. Yuan<sup>C</sup> &emsp; *NeurIPS 2022*
+
 - [A unified and refined convergence analysis for non-convex decentralized learning](https://arxiv.org/abs/2110.09993) <br>
   S. A. Alghunaim and K. Yuan &emsp; *IEEE Transactions on Signal Processing*
   
