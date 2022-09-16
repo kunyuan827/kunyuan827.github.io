@@ -27,10 +27,7 @@ My research lies in the theoretical and algorithmic foundations in optimization,
 
 Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) in Alibaba led by Prof. [Wotao Yin](https://wotaoyin.mathopt.com/). Before that, I completed my Ph.D. in Electrical and Computer Engineering from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) in 2019, where I was fortunate to be advised by Prof. [Ali H. Sayed](https://asl.epfl.ch/biography/). I was a visiting researcher at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) from 2018 January to 2018 June, and a research intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) from 2018 June to 2018 October.
 
-I was the recipient of the <mark style="background-color: lightblue">2017 IEEE Signal Processing Society Young Author Best Paper Award </mark> <br> (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the **2017 ICCM Distinguished Paper Award**.
-
-  <mark> IEEE Signal Processing Society Yougn Author Best Paper Award </mark> [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br> 
-  <mark style="background-color: lightblue">Highly Cited Paper in IEEE Transactions on Signal Processing </mark> <br>
+I was the recipient of the <font style="background-color: red">2017 IEEE Signal Processing Society Young Author Best Paper Award </font> <br> (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the **2017 ICCM Distinguished Paper Award**.
 
 ### News
 
