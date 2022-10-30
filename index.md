@@ -31,6 +31,7 @@ Now I am working in the [Decision Intelligence Lab](https://damo.alibaba.com/lab
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
 ### News
+- [10/2022] Our paper *Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html).
 
 - [09/2022] Three papers were accepted to NeurIPS 2022.
 
