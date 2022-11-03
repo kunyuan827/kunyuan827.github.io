@@ -44,20 +44,24 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2022 
 
+- [Optimal complexity in non-convex decentralized learning over time-varying networks](https://arxiv.org/abs/2211.00533) <br>
+  X. Huang and K. Yuan <br>
+  *NeurIPS Workshop on Optimization for Machine Learning* <br>
+
 - [Revisiting optimal convergence rate for smooth and non-convex stochastic decentralized optimization](https://arxiv.org/abs/2210.07863) <br>
   K. Yuan, X. Huang, Y. Chen, X. Zhang, Y. Zhang, and P. Pan <br>
-  *The conference on Neural Information Processing Systems (NeurIPS)* <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
   <!--   K. Yuan<sup>EC</sup>, X. Huang<sup>E</sup>, Y. Chen<sup>E</sup>, X. Zhang, Y. Zhang, and P. Pan <br> -->
 
 - [Communication-efficient topologies for decentralized learning with O(1) consensus rate](https://arxiv.org/abs/2210.07881) <br>
   Z. Song, W. Li, K. Jin, L. Shi, M. Yan, W. Yin, and K. Yuan <br>
-  *The conference on Neural Information Processing Systems (NeurIPS)* <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
   [[Code]](https://github.com/kexinjinnn/EquiTopo)
 <!--   Z. Song<sup>E</sup>, W. Li<sup>E</sup>, K. Jin<sup>E</sup>, L. Shi, M. Yan, W. Yin, and K. Yuan<sup>C</sup> <br> -->
 
 - [Lower bounds and nearly optimal algorithms in distributed learning with communication compression](https://arxiv.org/abs/2206.03665) <br>
   X. Huang, Y. Chen, W. Yin, and K. Yuan <br>
-  *The conference on Neural Information Processing Systems (NeurIPS)* 
+  *The Conference on Neural Information Processing Systems (NeurIPS)* 
   <!--   &emsp; *NeurIPS 2022* -->
 <!--   X. Huang<sup>E</sup>, Y. Chen<sup>E</sup>, W. Yin, and K. Yuan<sup>C</sup> <br> -->
 
