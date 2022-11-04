@@ -17,7 +17,7 @@ layout: page
 - [On the linear convergence of the ADMM in decentralized consensus optimization](https://ieeexplore.ieee.org/abstract/document/6731604/) <br>
 W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br> 
 *IEEE Transactions on Signal Processing, 2014* <br>
-<mark> IEEE Signal Processing Society Yougn Author Best Paper Award</mark> [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br> 
+<mark> IEEE Signal Processing Society Young Author Best Paper Award</mark> [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br> 
 <mark style="background-color: lightblue">Highly Cited Paper in IEEE Transactions on Signal Processing </mark> <br>
 
 ### Preprints
@@ -87,22 +87,22 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - [Exponential graph is provably efficient for decentralized deep training](https://arxiv.org/abs/2110.13363) <br>
   B. Ying, K. Yuan, Y. Chen, H. Hu, P. Pan, and W. Yin <br>
-  *The conference on Neural Information Processing Systems (NeurIPS)* <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
   [[Code]](https://github.com/Bluefog-Lib/NeurIPS2021-Exponential-Graph)
   
 - [Improved analysis and rates for variance reduction under without-replacement sampling orders](https://proceedings.neurips.cc/paper/2021/file/1a3650aedfdd3a21444047ed2d89458f-Paper.pdf) <br>
   X. Huang, K. Yuan, X. Mao, and W. Yin <br>
-  *The conference on Neural Information Processing Systems (NeurIPS)* <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
 <!--   X. Huang<sup>E</sup>, K. Yuan<sup>EC</sup>, X. Mao, and W. Yin &emsp; *NeurIPS 2021*  -->
 
 - [DecentLaM: Decentralized momentum SGD for large-batch deep training](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_DecentLaM_Decentralized_Momentum_SGD_for_Large-Batch_Deep_Training_ICCV_2021_paper.pdf) <br>
   K. Yuan, Y. Chen, X. Huang, Y. Zhang, P. Pan, Y. Xu, and W. Yin  <br>
-  *The international converence on computer vision (ICCV)*
+  *The International Conference on Computer Vision (ICCV)*
 <!--   K. Yuan<sup>EC</sup>, Y. Chen<sup>E</sup>, X. Huang<sup>E</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin  &emsp; *ICCV 2021* -->
   
 - [Accelerating gossip SGD with periodic global averaging](http://proceedings.mlr.press/v139/chen21y/chen21y.pdf) <br>
   Y. Chen, K. Yuan, Y. Zhang, P. Pan, Y. Xu, and W. Yin <br>
-  *The international converence on machine learning (ICML)*
+  *The International Conference on Machine Learning (ICML)*
 <!--   Y. Chen<sup>E</sup>, K. Yuan<sup>EC</sup>, Y. Zhang, P. Pan, Y. Xu, and W. Yin &emsp; *ICML 2021* -->
   
 ### 2020
@@ -137,7 +137,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   *IEEE Transactions on Automatic Control*
   
 <!-- - [On the performance of exact diffusion over adaptive networks](https://ieeexplore.ieee.org/abstract/document/9029537/) <br>
-  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *Conference on Control and Decision (CDC) 2019* -->
+  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *The Conference on Control and Decision (CDC) 2019* -->
   
 - [Dynamic average diffusion with randomized coordinate updates](https://ieeexplore.ieee.org/abstract/document/8850112)<br> 
   B. Ying, K. Yuan, and A. H. Sayed <br> 
