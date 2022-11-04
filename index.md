@@ -20,7 +20,7 @@ title: ""
 
 <br>
 
-I am an Assistant Professor in [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
+I am an Assistant Professor at [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
 
 My research lies in the theoretical and algorithmic foundations in optimization, signal processing, machine learning, and data science. I currently focus on the development of fast, scalable, reliable, and distributed algorithms with applications in large-scale optimization, deep neural network training, federated learning, and Internet of things.  
 
