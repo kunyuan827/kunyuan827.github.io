@@ -3,7 +3,8 @@ layout: page
 title: ""
 ---
 
-<img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
+<img src="/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
+<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/> -->
 <!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/assets/KunYuan.jpeg" alt="kunyuan" align="left" width="200"/> -->
 
 <br>
@@ -20,7 +21,7 @@ title: ""
 
 <br>
 
-![KunYuan](/images/KunYuan.jpg)
+<!-- ![KunYuan](/images/KunYuan.jpg) -->
 
 I am an Assistant Professor at [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
 
