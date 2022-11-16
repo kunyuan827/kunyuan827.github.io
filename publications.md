@@ -56,7 +56,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Communication-efficient topologies for decentralized learning with O(1) consensus rate](https://arxiv.org/abs/2210.07881) <br>
   Z. Song, W. Li, K. Jin, L. Shi, M. Yan, W. Yin, and K. Yuan <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
-  [[Code]](https://github.com/kexinjinnn/EquiTopo)
+  [[Code]](https://github.com/kexinjinnn/EquiTopo) [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/350a7f5ee27d22dbe36698b10930ff96.png) [[5-min video presentation]](https://recorder-v3.slideslive.com/?share=74341&s=ac2bd161-4267-4498-89a8-cda286a4b750)
 <!--   Z. Song<sup>E</sup>, W. Li<sup>E</sup>, K. Jin<sup>E</sup>, L. Shi, M. Yan, W. Yin, and K. Yuan<sup>C</sup> <br> -->
 
 - [Lower bounds and nearly optimal algorithms in distributed learning with communication compression](https://arxiv.org/abs/2206.03665) <br>
