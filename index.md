@@ -21,8 +21,6 @@ title: ""
 
 <br>
 
-<!-- ![KunYuan](/images/KunYuan.jpg) -->
-
 I am an Assistant Professor at [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
 
 My research lies in the theoretical and algorithmic foundations in optimization, signal processing, machine learning, and data science. I currently focus on the development of fast, scalable, reliable, and distributed algorithms with applications in large-scale optimization, deep neural network training, federated learning, and Internet of things.  
@@ -34,7 +32,7 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
 ### News
-- [11/2022] We will host *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. Welcome to join us!
+- [11/2022] We will host *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. Welcome to the workshop!
 
 - [10/2022] Our paper *[Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks](https://arxiv.org/abs/2211.00533)* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html).
 
