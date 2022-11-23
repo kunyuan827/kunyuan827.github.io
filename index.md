@@ -31,7 +31,7 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
-[DecentLaM](../../raw/master/resources/DecentLaM.pdf)
+[DecentLaM](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf)
 
 ### News
 - [11/2022] We will host *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. Welcome to the workshop!
