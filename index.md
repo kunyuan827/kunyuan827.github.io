@@ -33,7 +33,9 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 
 ### News
-- [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check the [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) and [Slides](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6).
+<!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check the [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) and [Slides](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
+
+- [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check the [Slides](/resources/DecentLaM.pdf) and [Slides](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6).
 
 - [10/2022] Our paper *[Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks](https://arxiv.org/abs/2211.00533)* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html).
 
