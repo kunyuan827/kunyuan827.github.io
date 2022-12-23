@@ -47,7 +47,6 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
   * [*Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate*](https://arxiv.org/pdf/2210.07881.pdf)
   * [*Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression*](https://arxiv.org/pdf/2206.03665.pdf)
   
--- Revisiting optimal convergence rate for smooth and non-convex stochastic decentralized optimization
 
 - [09/2022] Prof. Wotao Yin was invited to give a keynote talk on our recent work *[Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression](https://arxiv.org/abs/2206.03665)* in the [CrossFL 2022](https://crossfl2022.github.io/) workshop. Please check the [slides](https://crossfl2022.github.io/presentations/OptimalCompression.pdf) and the [Youtube video](https://youtu.be/0mV85uGMpXA?t=19516).  
 
