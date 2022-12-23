@@ -39,9 +39,15 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6).
 
-- [10/2022] Our paper *[Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks](https://arxiv.org/abs/2211.00533)* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html).
+<!-- - [10/2022] Our paper *[Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks](https://arxiv.org/abs/2211.00533)* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html). -->
 
-- [09/2022] Three papers were accepted to NeurIPS 2022.
+- [09/2022] Three papers were accepted to NeurIPS 2022. 
+
+  * [*Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization*](https://arxiv.org/pdf/2210.07863.pdf)
+  * [*Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate*](https://arxiv.org/pdf/2210.07881.pdf)
+  * [*Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression*](https://arxiv.org/pdf/2206.03665.pdf)
+  
+-- Revisiting optimal convergence rate for smooth and non-convex stochastic decentralized optimization
 
 - [09/2022] Prof. Wotao Yin was invited to give a keynote talk on our recent work *[Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression](https://arxiv.org/abs/2206.03665)* in the [CrossFL 2022](https://crossfl2022.github.io/) workshop. Please check the [slides](https://crossfl2022.github.io/presentations/OptimalCompression.pdf) and the [Youtube video](https://youtu.be/0mV85uGMpXA?t=19516).  
 
