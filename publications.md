@@ -44,9 +44,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2022 
 
-- [Optimal complexity in non-convex decentralized learning over time-varying networks](https://arxiv.org/abs/2211.00533) <br>
+<!-- - [Optimal complexity in non-convex decentralized learning over time-varying networks](https://arxiv.org/abs/2211.00533) <br>
   X. Huang and K. Yuan <br>
-  *NeurIPS Workshop on Optimization for Machine Learning* <br>
+  *NeurIPS Workshop on Optimization for Machine Learning* <br> -->
 
 - [Revisiting optimal convergence rate for smooth and non-convex stochastic decentralized optimization](https://arxiv.org/abs/2210.07863) <br>
   K. Yuan, X. Huang, Y. Chen, X. Zhang, Y. Zhang, and P. Pan <br>
