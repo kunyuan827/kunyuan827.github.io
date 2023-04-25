@@ -35,6 +35,15 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [04/2023] Two papers were accepted to ICML 2023. 
+
+  * *DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm*
+  * *AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation*
+ 
+- [02/2023] One paper *[BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498)* were accepted to CVPR 2023.
+
+- [01/2023] A new paper *[An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855)* is on arXiv now. We establish enhanced rates for Gradient Tracking methods under the online stochastic convex settings.
+
 - [11/2022] I gave a talk in *[BICMR](https://bicmr.pku.edu.cn/)* on *Accelerating Decentralized SGD with Sparse and Effecitve Topologies*, which includes our rescent results on *[Exponential Graphs](https://arxiv.org/abs/2110.13363)*, *[EquiToPo Graphs](https://arxiv.org/abs/2210.07881)*, and *[BlueFog](https://arxiv.org/abs/2111.04287)*. Please check [Slides (on Github)](/resources/Topologies_for_decentralized_deep_learning.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1UKEEPiISeNfxySg8-DJe2w?pwd=8849).
 
 - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6).
