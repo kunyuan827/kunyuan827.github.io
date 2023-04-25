@@ -22,6 +22,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855) <br> 
+  S. A. Alghunaim and K. Yuan 
+
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
   M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp; (Authors are listed alphabetically)
 
@@ -42,11 +45,19 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   E. K. Ryu, K. Yuan, and W. Yin
 
 
+### 2023
+- [BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498) <br>
+  L. Yang, K. Yu, T. Tang, J. Li, K. Yuan, L. Wang, X. Zhang, and P. Chen <br>
+  *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)* <br>
+  [[Code]](https://github.com/ADLab-AutoDrive/BEVHeight)
+
+
 ### 2022 
 
 <!-- - [Optimal complexity in non-convex decentralized learning over time-varying networks](https://arxiv.org/abs/2211.00533) <br>
   X. Huang and K. Yuan <br>
   *NeurIPS Workshop on Optimization for Machine Learning* <br> -->
+  
 
 - [Revisiting optimal convergence rate for smooth and non-convex stochastic decentralized optimization](https://arxiv.org/abs/2210.07863) <br>
   K. Yuan, X. Huang, Y. Chen, X. Zhang, Y. Zhang, and P. Pan <br>
