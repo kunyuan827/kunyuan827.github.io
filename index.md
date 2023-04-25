@@ -35,12 +35,12 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
-- [04/2023] Two papers were accepted to ICML 2023. 
+- [04/2023] Two papers are accepted to ICML 2023. 
 
   * *DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm*
   * *AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation*
  
-- [02/2023] One paper *[BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498)* were accepted to CVPR 2023.
+- [02/2023] One paper *[BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498)* is accepted to CVPR 2023.
 
 - [01/2023] A new paper *[An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855)* is on arXiv now. We establish enhanced rates for Gradient Tracking methods under the online stochastic convex settings.
 
@@ -50,7 +50,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [10/2022] Our paper *[Optimal Complexity in Non-Convex Decentralized Learning over Time-Varying Networks](https://arxiv.org/abs/2211.00533)* was accepted to NeurIPS 2022 Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html). -->
 
-- [09/2022] Three papers were accepted to NeurIPS 2022. 
+- [09/2022] Three papers are accepted to NeurIPS 2022. 
 
   * [*Revisiting Optimal Convergence Rate for Smooth and Non-convex Stochastic Decentralized Optimization*](https://arxiv.org/pdf/2210.07863.pdf)
   * [*Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate*](https://arxiv.org/pdf/2210.07881.pdf)
