@@ -22,6 +22,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
+  Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
+
 - [An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855) <br> 
   S. A. Alghunaim and K. Yuan 
 
@@ -46,6 +49,12 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+- [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/pdf/2304.12566.pdf) <br>
+  Y.-F. Zhang, X. Wang, K. Jin, K. Yuan, Z. Zhang, L. Wang, R. Jin, and T. Tan <br>
+  *The International Conference on Machine Learning (ICML)*
+  [[Code]](https://github.com/yfzhang114/AdaNPC)
+  
+
 - [BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498) <br>
   L. Yang, K. Yu, T. Tang, J. Li, K. Yuan, L. Wang, X. Zhang, and P. Chen <br>
   *The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)* <br>
