@@ -51,7 +51,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 ### 2023
 - [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/pdf/2304.12566.pdf) <br>
   Y.-F. Zhang, X. Wang, K. Jin, K. Yuan, Z. Zhang, L. Wang, R. Jin, and T. Tan <br>
-  *The International Conference on Machine Learning (ICML)*
+  *The International Conference on Machine Learning (ICML)* <br>
   [[Code]](https://github.com/yfzhang114/AdaNPC)
   
 
