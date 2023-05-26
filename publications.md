@@ -22,6 +22,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf) <br>
+  Y. He , X. Huang, and K. Yuan
+
 - [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
   Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
 
@@ -29,7 +32,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   S. A. Alghunaim and K. Yuan 
 
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
-  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp; (Authors are listed alphabetically)
+  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp; 
 
 - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
   B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
@@ -37,15 +40,14 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Removing data heterogeneity influence enhances network topology dependence of decentralized SGD](https://arxiv.org/abs/2105.08023) <br>
   K. Yuan, S. A. Alghunaim, and X. Huang 
   
-- [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
-  B. Ying, K. Yuan, Y. Chen, H. Hu, Y. Zhang, P. Pan, and W. Yin
-<!--   B. Ying<sup>E</sup>, K. Yuan<sup>E</sup>, Y. Chen<sup>E</sup>, H. Hu<sup>E</sup>, Y. Zhang, P. Pan, and W. Yin -->
+<!-- - [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
+  B. Ying, K. Yuan, Y. Chen, H. Hu, Y. Zhang, P. Pan, and W. Yin -->
   
-- [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
-  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan 
+<!-- - [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
+  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan  -->
   
-- [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
-  E. K. Ryu, K. Yuan, and W. Yin
+<!-- - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
+  E. K. Ryu, K. Yuan, and W. Yin -->
 
 
 ### 2023
