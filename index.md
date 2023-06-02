@@ -43,7 +43,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 - [04/2023] Two papers are accepted to ICML 2023. 
 
-  * *DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm*
+  * *[DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm](https://arxiv.org/pdf/2306.00256.pdf)*
   * *[AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/pdf/2304.12566.pdf)*
  
 - [02/2023] One paper *[BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection](https://arxiv.org/abs/2303.08498)* is accepted to CVPR 2023.
