@@ -51,6 +51,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+- [DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm](https://arxiv.org/pdf/2306.00256.pdf) <br>
+  L. Ding, K. Jin, B. Ying, K. Yuan, and W. Yin <br>
+  *The International Conference on Machine Learning (ICML)* <br>
+  [[Code]](https://github.com/kexinjinnn/DSGD-CECA)
+
 - [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/pdf/2304.12566.pdf) <br>
   Y.-F. Zhang, X. Wang, K. Jin, K. Yuan, Z. Zhang, L. Wang, R. Jin, and T. Tan <br>
   *The International Conference on Machine Learning (ICML)* <br>
