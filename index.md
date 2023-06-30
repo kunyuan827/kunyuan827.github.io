@@ -37,6 +37,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [06/2023] A new paper *[Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf)* is on arXiv now. An interesting message is that FedAvg can converge without data heterogeneity assumption when incorporating momentum!
+
 - [05/2023] A new paper *[Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf)* is on arXiv now. 
 
 - [05/2023] A new paper *[Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/abs/2305.07612)* is on arXiv now. Please also check [Slides (on Github)](/resources/KunYuan_OptimalCompression.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1q5ROxiIdkqTCiXkNJmJgqg?pwd=atfh) for this paper. Some preliminary results of this paper have been published in NeurIPS 2022, check [this paper](https://arxiv.org/pdf/2206.03665.pdf). 
