@@ -22,6 +22,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
+  Z. Cheng , X. Huang, and K. Yuan
+
 - [Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf) <br>
   Y. He , X. Huang, and K. Yuan
 
