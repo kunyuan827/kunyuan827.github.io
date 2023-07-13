@@ -54,6 +54,16 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+- Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization <br>
+  H. Yuan, S. A. Alghunaim, and K. Yuan <br>
+  *IEEE Conference on Decision and Control (CDC)*
+
+
+- [On the Performance of Gradient Tracking with Local Updates](https://arxiv.org/abs/2210.04757) <br>
+  E. D. H. Nguyen, S. A. Alghunaim, K. Yuan, and C. A. Uribe <br>
+  *IEEE Conference on Decision and Control (CDC)*
+
+
 - [DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm](https://arxiv.org/pdf/2306.00256.pdf) <br>
   L. Ding, K. Jin, B. Ying, K. Yuan, and W. Yin <br>
   *The International Conference on Machine Learning (ICML)* <br>
@@ -167,7 +177,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   *IEEE Transactions on Automatic Control*
   
 <!-- - [On the performance of exact diffusion over adaptive networks](https://ieeexplore.ieee.org/abstract/document/9029537/) <br>
-  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *The Conference on Control and Decision (CDC) 2019* -->
+  K. Yuan, S. A. Alghunaim, B. Ying, and A. H. Sayed &emsp; *The IEEE Conference on Control and Decision (CDC) 2019* -->
   
 - [Dynamic average diffusion with randomized coordinate updates](https://ieeexplore.ieee.org/abstract/document/8850112)<br> 
   B. Ying, K. Yuan, and A. H. Sayed <br> 
