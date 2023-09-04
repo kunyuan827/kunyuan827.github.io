@@ -31,13 +31,13 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
-<mark> We have opennings for PostDocs, PhD students, Master students, and Undergraduate research interns. Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
+<mark> We have opennings for PostDocs, PhD students (2024 Fall ran out), Master students, and Undergraduate research interns. Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
 
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
-- [09/2023] I will be teaching a class on *Optimization for Deep Learning* in 2023 Fall. 
+- [09/2023] I will be teaching a class on *[Optimization for Deep Learning](https://kunyuan827.github.io/teaching/)* in 2023 Fall. 
 
 - [09/2023] One paper is accepted by Journal of Machine Learning Research (JMLR).
   * *[Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD](https://arxiv.org/pdf/2105.08023.pdf)*
