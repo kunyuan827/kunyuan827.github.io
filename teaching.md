@@ -17,12 +17,12 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 Preliminary <br>
 
-Part I: Overview on fundamental algorithms for optimization [Slides] <br>
+Part I: Overview on fundamental algorithms for optimization [[Slides (on Github)]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/introduction_part1.pdf) <br>
 Part II: Overview on fundamental algorithms for training deep neural network <br>
 Part III: Overview on advanced algorithms for training deep neural network <br>
 Part IV: Overview on distributed algorithms for training deep neural network <br>
 
-[Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf)
+
 
 
   
