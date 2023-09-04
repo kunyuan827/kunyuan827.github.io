@@ -37,8 +37,11 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [09/2023] I will be teaching a class on *Optimization for Deep Learning* in 2023 Fall. 
+
 - [09/2023] One paper is accepted by Journal of Machine Learning Research (JMLR).
   * *[Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD](https://arxiv.org/pdf/2105.08023.pdf)*
+
 
 - [07/2023] Two papers are accepted in IEEE CDC 2023.
   * *Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization*
