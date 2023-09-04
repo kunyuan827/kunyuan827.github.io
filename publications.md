@@ -40,9 +40,6 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
   B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
   
-- [Removing data heterogeneity influence enhances network topology dependence of decentralized SGD](https://arxiv.org/abs/2105.08023) <br>
-  K. Yuan, S. A. Alghunaim, and X. Huang 
-  
 <!-- - [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
   B. Ying, K. Yuan, Y. Chen, H. Hu, Y. Zhang, P. Pan, and W. Yin -->
   
@@ -54,6 +51,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+
+- [Removing data heterogeneity influence enhances network topology dependence of decentralized SGD](https://arxiv.org/abs/2105.08023) <br>
+  K. Yuan, S. A. Alghunaim, and X. Huang <br>
+  *Journal of Machine Learning Research (JMLR)*
+
 - Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization <br>
   H. Yuan, S. A. Alghunaim, and K. Yuan <br>
   *IEEE Conference on Decision and Control (CDC)*
