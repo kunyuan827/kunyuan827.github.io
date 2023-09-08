@@ -20,6 +20,12 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part III: Overview on advanced algorithms for training deep neural network [[Slides (on Github)]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_Introduction_03.pdf) <br>
 - Part  IV: Overview on distributed algorithms for training deep neural network [[Slides (on Github)]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_Introduction_04.pdf) <br>
 
+### Lecture 2: Gradient descent <br>
+
+- Slides
+- Notes
+- References
+
 
 
 
