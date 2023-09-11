@@ -4,10 +4,11 @@ permalink: "/teaching/"
 layout: page
 ---
 
-## PKU Class 08403979: Optimizaiton for Deep Learning
+## PKU Class 2023 Fall: Optimizaiton for Deep Learning
 
 Instructor: **Kun Yuan** <br>
-Teaching assistant: **Yutong He, Jinghua Huang, and Hao Yuan**
+Teaching assistant: **[Yutong He](yutonghe@pku.edu.cn), Jinghua Huang, Pengfei Wu, and Hao Yuan** <br>
+Office hour: 2pm - 3pm Thursday, 静园六院220
 
 ## References
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
