@@ -6,8 +6,14 @@ layout: page
 
 ## PKU Class 2023 Fall: Optimizaiton for Deep Learning
 
-Instructor: **Kun Yuan** <br>
-Teaching assistants: **[Yutong He](yutonghe@pku.edu.cn), Jinghua Huang, Pengfei Wu, and Hao Yuan** <br>
+Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
+
+Teaching assistants: 
+- **Yutong He** (yutonghe@pku.edu.cn) <br>
+- **Jinghua Huang** (jinghua@stu.pku.edu.cn) <br>
+- **Pengfei Wu** (pengfeiwu1999@stu.pku.edu.cn) <br> 
+- **Hao Yuan** (pkuyuanhao@pku.edu.cn) <br>
+
 Office hour: 2pm - 3pm Thursday, 静园六院220
 
 ## References
