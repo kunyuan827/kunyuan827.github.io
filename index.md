@@ -33,7 +33,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> We have opennings for PostDocs, PhD students, Master students, and Undergraduate research interns. Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
-<mark> 我们课题组在2023 Fall还有一个轮转名额，欢迎2023届博士生同学联系！</mark> <br> 
+<mark style="background-color: lightblue">我们课题组在2023 Fall还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br>
+
 
 
 ### News
