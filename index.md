@@ -33,6 +33,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> We have opennings for PostDocs, PhD students, Master students, and Undergraduate research interns. Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
+<mark> 我们课题组在2023 Fall还有一个轮转名额，欢迎2023届博士生同学联系！</mark> <br> 
+
 
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
