@@ -35,7 +35,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 ### Lecture 2: Gradient descent <br>
 
 - Notes: Gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch1.pdf) [[Notes_BD]](https://pan.baidu.com/s/1JD51_j9T8wKN98z9pBXLyw?pwd=8ncm) <br>
-- Slides
+- Slides: Gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_gradient_descent.pdf) [[Slides_BD]](https://pan.baidu.com/s/1MvLBLWoJzHD4CaowN8gmww?pwd=2x7r)  <br> 
 - References
 
 
