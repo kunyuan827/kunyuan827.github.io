@@ -34,9 +34,12 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 2: Gradient descent <br>
 
-- Notes: Gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch1.pdf) [[Notes_BD]](https://pan.baidu.com/s/1JD51_j9T8wKN98z9pBXLyw?pwd=8ncm) <br>
-- Slides: Gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec2_gradient_descent.pdf) [[Slides_BD]](https://pan.baidu.com/s/1MvLBLWoJzHD4CaowN8gmww?pwd=2x7r)  <br> 
-- References
+- Notes: Gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch1.pdf) [[Notes_BD]](https://pan.baidu.com/s/1FlAAZwhMAkoScx4LDURrPg?pwd=sbwk) <br>
+- Slides: Gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec2_gradient_descent.pdf) [[Slides_BD]](https://pan.baidu.com/s/1QgNjBzOeqJFq5QFVFLBIgw?pwd=ec6j)  <br> 
+- References: <br>
+    - Stephen Boyd and Lieven Vandenberghe, *Convex Optimization*, Cambridge university press, 2004. [Ch. 2 and 3] <br>
+    - Yurii Nesterov, *Introductory lectures on convex optimization: A basic course*, Springer Science & Business Media, 2003 [Sec. 2.1.1, 2.1.3, and 2.1.5] <br>
+    - Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola, *[Dive into Deep Learning](https://d2l.ai/index.html)*, [Sec. 5.3]
 
 
   
