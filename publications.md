@@ -25,9 +25,6 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
   Z. Cheng , X. Huang, and K. Yuan
 
-- [Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf) <br>
-  Y. He , X. Huang, and K. Yuan
-
 - [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
   Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
 
@@ -51,6 +48,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+
+- [Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf) <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
+  Y. He , X. Huang, and K. Yuan
 
 - [Removing data heterogeneity influence enhances network topology dependence of decentralized SGD](https://arxiv.org/abs/2105.08023) <br>
   K. Yuan, S. A. Alghunaim, and X. Huang <br>
