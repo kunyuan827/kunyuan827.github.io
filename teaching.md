@@ -42,5 +42,10 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
     - Yurii Nesterov, *Introductory lectures on convex optimization: A basic course*, Springer Science & Business Media, 2003 [Sec. 2.1.1, 2.1.3, and 2.1.5] <br>
     - Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola, *[Dive into Deep Learning](https://d2l.ai/index.html)*, [Sec. 5.3]
 
+### Lecture 3: Accelerated gradient descent <br>
 
+- Notes: Accelerated gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) [[Notes_BD]](https://pan.baidu.com/s/1FlAAZwhMAkoScx4LDURrPg?pwd=sbwk) <br>
+- Part  I: Polyak momentum; Nesterov momentum; Anderson acceleration; Lower bound [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec3_1_acc_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1QgNjBzOeqJFq5QFVFLBIgw?pwd=ec6j)  <br>
+- Part II: Preconditoned GD [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec3_2_precond_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1QgNjBzOeqJFq5QFVFLBIgw?pwd=ec6j)  <br>
+- **Homework 3**: To be announced <br> 
   
