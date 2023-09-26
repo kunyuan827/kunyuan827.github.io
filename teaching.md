@@ -44,8 +44,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 3: Accelerated gradient descent <br>
 
-- Notes: Accelerated gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
+- Notes: Accelerated gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf)[[Notes_BD]](https://pan.baidu.com/s/1hxAKGKpiaRTGyKCRymrU5A?pwd=nery) <br>
 - Part  I: Polyak momentum; Nesterov momentum; Anderson acceleration; Lower bound [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec3_1_acc_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1sefTbKt7AEMZmEfNRNvMXA?pwd=gc27)  <br>
-- Part II: Preconditoned GD [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec3_2_precond_GD.pdf)  <br>
+- Part II: Preconditoned GD [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec3_2_precond_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1ackF2-iU2yFiP-ixhXa6wg?pwd=nc77)  <br>
 - **Homework 3**: To be announced <br> 
-  
