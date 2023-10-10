@@ -54,6 +54,6 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 4: Projected gradient descent and Proximal gradient descent <br>
 
-- Notes: Projected gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1h9UNjfLXSaRSmP2qkw-KeA?pwd=n55u); Proximal gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1AlgaCL9IBnQroGWO4TFInw?pwd=wkn3) <br>
+- Notes: Projected gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1z5pxGqRZLlfnCq6LbM2PPg?pwd=ut8r); Proximal gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1AlgaCL9IBnQroGWO4TFInw?pwd=wkn3) <br>
 - Part  I: Projection; Constrained minimization; Projected gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_1_Projected_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1_z-KtyxBjP_5H05fneNKqw?pwd=9p7u)  <br>
 - Part II: Regularizers; Proximity operator; Proximal gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_2_Prox_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/14YWUlhm9ZhDMdUWQ9Cbl9g?pwd=k9pd)  <br>
