@@ -51,3 +51,9 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Reading: <br>
     - Yurii Nesterov, *Introductory lectures on convex optimization: A basic course*, Springer Science & Business Media, 2003 [Sec. 2.1.2, 2.1.4, and 2.2] <br>
     - Vien V. Mai and Mikael Johansson, *[Anderson Acceleration of Proximal Gradient Methods](https://arxiv.org/abs/1910.08590)*, International Conference on Machine Learning (ICML), 2020
+
+### Lecture 4: Projected gradient descent and Proximal gradient descent <br>
+
+- Notes: Projected gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1hxAKGKpiaRTGyKCRymrU5A?pwd=nery); Proximal gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1hxAKGKpiaRTGyKCRymrU5A?pwd=nery) <br>
+- Part  I: Projection; Constrained minimization; Projected gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_1_Projected_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1sefTbKt7AEMZmEfNRNvMXA?pwd=gc27)  <br>
+- Part II: Regularizers; Proximity operator; Proximal gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_2_Prox_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1ackF2-iU2yFiP-ixhXa6wg?pwd=nc77)  <br>
