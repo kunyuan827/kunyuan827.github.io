@@ -57,4 +57,14 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes: Projected gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1z5pxGqRZLlfnCq6LbM2PPg?pwd=ut8r); Proximal gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch4_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1AlgaCL9IBnQroGWO4TFInw?pwd=wkn3) <br>
 - Part  I: Projection; Constrained minimization; Projected gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_1_Projected_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1_z-KtyxBjP_5H05fneNKqw?pwd=9p7u)  <br>
 - Part II: Regularizers; Proximity operator; Proximal gradient descent [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec4_2_Prox_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/14YWUlhm9ZhDMdUWQ9Cbl9g?pwd=k9pd)  <br>
-- **Homework 4**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw4.pdf) [[Homework_BD]](https://pan.baidu.com/s/1qtKFoyB-qvZzBAhJxprP7w?pwd=b6r9)  <br> 
+- **Homework 4**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw4.pdf) [[Homework_BD]](https://pan.baidu.com/s/1qtKFoyB-qvZzBAhJxprP7w?pwd=b6r9)  <br>
+
+### Lecture 5: Zeroth-order optimization <br>
+
+- Notes: Zeroth-order optimization [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch5.pdf)[[Notes_BD]](https://pan.baidu.com/s/1HmcdYHP_VuYsojv_dJuWXw?pwd=c59t)
+- Slides: Zeroth-order gradient descent; Finite difference; Linear interpolation; Sphere smoothing [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec5_ZO_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/14ZaQoEpS7ou9laIK9vg_qA?pwd=yk3b)  <br>
+- Reading: <br>
+    - Yujie Tang, *[Introduction to Zeroth-Order Optimization](https://tyj518.github.io/files/lecture_notes_zo.pdf)*, 2022
+    - Ahmad Ajalloeian and Sebastian U. Stich, *[On the Convergence of SGD with Biased Gradients](https://arxiv.org/abs/2008.00051)*, 2021
+    - Sijia Liu et. al., *[A Primer on Zeroth-Order Optimization in Signal Processing and Machine Learning](https://arxiv.org/abs/2006.06224)*, 2020
+    - Sadhika Malladi et. al., *[Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333)*,2023
