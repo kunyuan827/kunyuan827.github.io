@@ -64,6 +64,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes: Zeroth-order optimization [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch5.pdf)[[Notes_BD]](https://pan.baidu.com/s/1HmcdYHP_VuYsojv_dJuWXw?pwd=c59t)
 - Notes: ZO-GD with sphere smoothing [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch5_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1eS5hkqeDHW3otQ2HLHHsUA?pwd=g1rf)
 - Slides: Zeroth-order gradient descent; Finite difference; Linear interpolation; Sphere smoothing [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec5_ZO_GD.pdf) [[Slides_BD]](https://pan.baidu.com/s/14ZaQoEpS7ou9laIK9vg_qA?pwd=yk3b)  <br>
+- **Homework 5**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw5.pdf) [[Homework_BD]](https://pan.baidu.com/s/19I-EpqvqtQpqxiUJD_bWCQ?pwd=nqwu)  <br>
 - Reading: <br>
     - Yujie Tang, *[Introduction to Zeroth-Order Optimization](https://tyj518.github.io/files/lecture_notes_zo.pdf)*, 2022
     - Ahmad Ajalloeian and Sebastian U. Stich, *[On the Convergence of SGD with Biased Gradients](https://arxiv.org/abs/2008.00051)*, 2021
