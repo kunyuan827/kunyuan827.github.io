@@ -70,3 +70,15 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
     - Ahmad Ajalloeian and Sebastian U. Stich, *[On the Convergence of SGD with Biased Gradients](https://arxiv.org/abs/2008.00051)*, 2021
     - Sijia Liu et. al., *[A Primer on Zeroth-Order Optimization in Signal Processing and Machine Learning](https://arxiv.org/abs/2006.06224)*, 2020
     - Sadhika Malladi et. al., *[Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333)*,2023
+
+### Lecture 6: Stochastic gradient descent <br>
+
+- Notes: Stochastic gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch6.pdf)[[Notes_BD]](https://pan.baidu.com/s/1PVrSZAMJhOnkpUbqnXYhPA?pwd=ubss)
+- Part I: Stochastic optimization; Stochastic gradient descent; Mini-batch SGD [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec6_1_SGD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1Xvc0ov5IvdVNsOffPX1m6Q?pwd=ivpm)  <br>
+- Part II: Introduction to convolutional neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec6_2_CNN.pdf) [[Slides_BD]](https://pan.baidu.com/s/1d_ouKEHfLyBuM9kGcgynIQ?pwd=ccd2)  <br>
+- **Homework 6**: To be announced  <br>
+- Reading: <br>
+    - Rong Ge et al., *[Escaping from saddle points—online stochastic gradient for tensor decomposition](http://proceedings.mlr.press/v40/Ge15.pdf)*, Conference on learning theory, 2015
+    - Chi Jin et al., *[How to escape saddle points efficiently](https://proceedings.mlr.press/v70/jin17a.html)*, International conference on machine learning, 2017.
+    - *[Student Notes: Convolutional Neural Networks (CNN) Introduction](https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/)*
+    - Andrew Ng, *[Convolutional Neural Networks](https://www.bilibili.com/video/BV1BF411w7xQ/?spm_id_from=333.337.search-card.all.click)*
