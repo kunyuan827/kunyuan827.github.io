@@ -76,7 +76,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes: Stochastic gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch6.pdf)[[Notes_BD]](https://pan.baidu.com/s/1PVrSZAMJhOnkpUbqnXYhPA?pwd=ubss)
 - Part I: Stochastic optimization; Stochastic gradient descent; Mini-batch SGD [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec6_1_SGD.pdf) [[Slides_BD]](https://pan.baidu.com/s/1Xvc0ov5IvdVNsOffPX1m6Q?pwd=ivpm)  <br>
 - Part II: Introduction to convolutional neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec6_2_CNN.pdf) [[Slides_BD]](https://pan.baidu.com/s/1d_ouKEHfLyBuM9kGcgynIQ?pwd=ccd2)  <br>
-- **Homework 6**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw6.pdf) [[Homework_BD]](https://pan.baidu.com/s/1eS78IPptQZB_kLkzWfZZMw?pwd=vvvi)  <br>
+- **Homework 6**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw6.pdf) [[Homework_BD]](https://pan.baidu.com/s/1y7gSopjEB4c1_vB7vd5FLg?pwd=zn2z)  <br>
 - Reading: <br>
     - Rong Ge et al., *[Escaping from saddle points—online stochastic gradient for tensor decomposition](http://proceedings.mlr.press/v40/Ge15.pdf)*, Conference on learning theory, 2015
     - Chi Jin et al., *[How to escape saddle points efficiently](https://proceedings.mlr.press/v70/jin17a.html)*, International conference on machine learning, 2017.
