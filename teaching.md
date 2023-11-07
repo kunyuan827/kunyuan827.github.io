@@ -85,6 +85,6 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
  
 ### Lecture 7: Stochastic gradient descent: sampling strategy and stability <br>
 
-- Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch6.pdf)[[Notes_BD]](https://pan.baidu.com/s/1PVrSZAMJhOnkpUbqnXYhPA?pwd=ubss)
-- Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf) [[Slides_BD]](https://pan.baidu.com/s/1Xvc0ov5IvdVNsOffPX1m6Q?pwd=ivpm)  <br>
-- Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf) [[Slides_BD]](https://pan.baidu.com/s/1d_ouKEHfLyBuM9kGcgynIQ?pwd=ccd2)  <br>
+- Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch7.pdf)
+- Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf)  <br>
+- Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf)  <br>
