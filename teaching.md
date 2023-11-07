@@ -82,3 +82,9 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
     - Chi Jin et al., *[How to escape saddle points efficiently](https://proceedings.mlr.press/v70/jin17a.html)*, International conference on machine learning, 2017.
     - *[Student Notes: Convolutional Neural Networks (CNN) Introduction](https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/)*
     - Andrew Ng, *[Convolutional Neural Networks](https://www.bilibili.com/video/BV1BF411w7xQ/?spm_id_from=333.337.search-card.all.click)*
+ 
+### Lecture 7: Stochastic gradient descent: sampling strategy and stability <br>
+
+- Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch6.pdf)[[Notes_BD]](https://pan.baidu.com/s/1PVrSZAMJhOnkpUbqnXYhPA?pwd=ubss)
+- Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf) [[Slides_BD]](https://pan.baidu.com/s/1Xvc0ov5IvdVNsOffPX1m6Q?pwd=ivpm)  <br>
+- Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf) [[Slides_BD]](https://pan.baidu.com/s/1d_ouKEHfLyBuM9kGcgynIQ?pwd=ccd2)  <br>
