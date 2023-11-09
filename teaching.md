@@ -88,6 +88,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch7.pdf)[[Notes_BD]](https://pan.baidu.com/s/1WUkqEOV4pOIQoruFn2MjCw?pwd=8rku)
 - Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1IxV1awpa-BYnMT_ww1r8uQ?pwd=a9ni) <br>
 - Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1HYncozXFxVeGLGKkSShvhw?pwd=6at9)<br>
+- **Homework 7**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw7.pdf) [[Homework_BD]](https://pan.baidu.com/s/18lj6tEy2Ps7m_gsFnJrOMg?pwd=2huk)  <br>
 - Reading: <br>
     - Kun Yuan et al., *[Stochastic gradient descent with finite samples sizes](https://ieeexplore.ieee.org/document/7738878)*, IEEE Workshop on Machine Learning for Signal Processing, 2016
     - Peilin Zhao and Tong Zhang, *[Stochastic Optimization with Importance Sampling for Regularized Loss Minimization](https://proceedings.mlr.press/v37/zhaoa15.html)*, ICML, 2015.
