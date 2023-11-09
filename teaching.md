@@ -85,6 +85,13 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
  
 ### Lecture 7: Stochastic gradient descent: sampling strategy and stability <br>
 
-- Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch7.pdf)
-- Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf)  <br>
-- Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf)  <br>
+- Notes: Sampling and Stability [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch7.pdf)[[Notes_BD]](https://pan.baidu.com/s/1WUkqEOV4pOIQoruFn2MjCw?pwd=8rku)
+- Part I: SGD with finite sample size; importance sampling; random reshuffling [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_1_sampling.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1IxV1awpa-BYnMT_ww1r8uQ?pwd=a9ni) <br>
+- Part II: GD stability; SGD stability; Sharpness-aware minimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec7_2_stability.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1HYncozXFxVeGLGKkSShvhw?pwd=6at9)<br>
+- Reading: <br>
+    - Kun Yuan et al., *[Stochastic gradient descent with finite samples sizes](https://ieeexplore.ieee.org/document/7738878)*, IEEE Workshop on Machine Learning for Signal Processing, 2016
+    - Peilin Zhao and Tong Zhang, *[Stochastic Optimization with Importance Sampling for Regularized Loss Minimization](https://proceedings.mlr.press/v37/zhaoa15.html)*, ICML, 2015.
+    - Bicheng Ying et al., *[Stochastic Learning under Random Reshuffling with Constant Step-sizes](https://arxiv.org/abs/1803.07964)*, IEEE Transactions on Signal Processing, 2018
+    - Lei Wu et al., *[How SGD selects the global minima in over-parameterized learning: A dynamical stability perspective](https://papers.nips.cc/paper_files/paper/2018/hash/6651526b6fb8f29a00507de6a49ce30f-Abstract.html)*, NeurIPS 2018
+    - Lei Wu et al., *[The alignment property of sgd noise and how it helps select flat minima: A stability analysis](https://arxiv.org/abs/2207.02628)*, NeurIPS 2022
+    - Pierre Foret et al., *[Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)*, ICML, 2020
