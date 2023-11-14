@@ -96,3 +96,12 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
     - Lei Wu et al., *[How SGD selects the global minima in over-parameterized learning: A dynamical stability perspective](https://papers.nips.cc/paper_files/paper/2018/hash/6651526b6fb8f29a00507de6a49ce30f-Abstract.html)*, NeurIPS 2018
     - Lei Wu et al., *[The alignment property of sgd noise and how it helps select flat minima: A stability analysis](https://arxiv.org/abs/2207.02628)*, NeurIPS 2022
     - Pierre Foret et al., *[Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)*, ICML, 2020
+
+### Lecture 8: Momentum and Adaptive SGD <br>
+
+- Notes I: Momentum SGD [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1EEV-n-UoDN_0PVSsBvUOSg?pwd=gaxf) <br>
+- Notes II: Adaptive SGD [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1eFHbWuFRaaibWJ9wNOly_g?pwd=799k) <br>
+- Part I: Momentum SGD; SGD with Nesterov momentum; lower bound in stochastic optimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_1_mSGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1FJVoDRMLU6iZa76Bf87e0g?pwd=feex) <br>
+- Part II: Preconditioned SGD; AdaGrad; RMSProp; Adam; AdamW [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
+- Part III: Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- **Homework 8**: To be announced  <br>
