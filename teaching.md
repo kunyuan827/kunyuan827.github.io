@@ -103,7 +103,6 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes II: Adaptive SGD [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1eFHbWuFRaaibWJ9wNOly_g?pwd=799k) <br>
 - Part I: Momentum SGD; SGD with Nesterov momentum; lower bound in stochastic optimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_1_mSGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1FJVoDRMLU6iZa76Bf87e0g?pwd=feex) <br>
 - Part II: Preconditioned SGD; AdaGrad; RMSProp; Adam; AdamW [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
-- Part III: Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - **Homework 8**: No homework  <br>
 - Reading: <br>
    - Ilya Sutskever et al., *[On the importance of initialization and momentum in deep learning](http://proceedings.mlr.press/v28/sutskever13.html)*, ICML, 2013
