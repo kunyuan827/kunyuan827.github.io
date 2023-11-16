@@ -106,4 +106,9 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part III: Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - **Homework 8**: No homework  <br>
 - Reading: <br>
-  
+   - Ilya Sutskever et al., *[On the importance of initialization and momentum in deep learning](http://proceedings.mlr.press/v28/sutskever13.html)*, ICML, 2013
+   - Kun Yuan et al., *[On the influence of momentum acceleration on online learning](https://jmlr.org/papers/v17/16-157.html)*, JMLR, 2016
+   - John Duchi et al., *[Adaptive subgradient methods for online learning and stochastic optimization](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)*, JMLR, 2011
+   - Diederik P. Kingma et al., *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)*, 2014
+   - Zhishuai Guo et al., *[A novel convergence analysis for algorithms of the adam family](https://arxiv.org/abs/2112.03459)*, 2021
+   - Ilya Loshchilov et al., *[Decoupled Weight Decay Regularization](https://openreview.net/forum?id=Bkg6RiCqY7)*, ICLR, 2019
