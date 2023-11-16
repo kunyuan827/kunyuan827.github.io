@@ -105,3 +105,5 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part II: Preconditioned SGD; AdaGrad; RMSProp; Adam; AdamW [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
 - Part III: Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - **Homework 8**: No homework  <br>
+- Reading: <br>
+  
