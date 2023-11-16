@@ -115,12 +115,14 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 9: Variance reduction <br>
 
-- Notes I: Variance reduction[[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1EEV-n-UoDN_0PVSsBvUOSg?pwd=gaxf) <br>
-- Part I: SAGA; SVRG [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_1_mSGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1FJVoDRMLU6iZa76Bf87e0g?pwd=feex) <br>
-- Part II: Recurrent Neural Network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
-- Part III: Attention [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
+- Notes I: Variance reduction[[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch9.pdf)[[Notes_BD]](https://pan.baidu.com/s/1EEV-n-UoDN_0PVSsBvUOSg?pwd=gaxf) <br>
+- Part I: SAGA; SVRG [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_1_VR.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1XZ33pflapuqZS5LrplcRzA?pwd=jr5i) <br>
+- Part II: Recurrent Neural Network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_2_RNN.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1TNGnpDqF3SwlHE1ccb4T-w?pwd=exdw)<br>
+- Part III: Attention [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_3_attention.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1ZfNHKd710sDqcI8OArsUBg?pwd=gs3q)<br>
 - **Homework 9**: To be announced  <br>
 - Reading: <br>
    - Rie Johnson et al., *[Accelerating stochastic gradient descent using predictive variance reduction](https://proceedings.neurips.cc/paper_files/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf)*, NeurIPS 2013
    - Aaron Defazio et al., *[SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives](https://proceedings.neurips.cc/paper_files/paper/2014/hash/ede7e2b6d13a41ddf9f4bdef84fdc737-Abstract.html)*, NeurIPS 2014
-   - Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+   - [Introduction to recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+   - [Dive into deep learning: RNN](https://d2l.ai/chapter_recurrent-neural-networks/index.html)
+   - [Dive into deep learning: Attention](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
