@@ -112,3 +112,15 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
    - Diederik P. Kingma et al., *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)*, 2014
    - Zhishuai Guo et al., *[A novel convergence analysis for algorithms of the adam family](https://arxiv.org/abs/2112.03459)*, 2021
    - Ilya Loshchilov et al., *[Decoupled Weight Decay Regularization](https://openreview.net/forum?id=Bkg6RiCqY7)*, ICLR, 2019
+
+### Lecture 9: Variance reduction <br>
+
+- Notes I: Variance reduction[[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf)[[Notes_BD]](https://pan.baidu.com/s/1EEV-n-UoDN_0PVSsBvUOSg?pwd=gaxf) <br>
+- Part I: SAGA; SVRG [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_1_mSGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1FJVoDRMLU6iZa76Bf87e0g?pwd=feex) <br>
+- Part II: Recurrent Neural Network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
+- Part III: Attention [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
+- **Homework 9**: To be announced  <br>
+- Reading: <br>
+   - Rie Johnson et al., *[Accelerating stochastic gradient descent using predictive variance reduction](https://proceedings.neurips.cc/paper_files/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf)*, NeurIPS 2013
+   - Aaron Defazio et al., *[SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives](https://proceedings.neurips.cc/paper_files/paper/2014/hash/ede7e2b6d13a41ddf9f4bdef84fdc737-Abstract.html)*, NeurIPS 2014
+   - Introduction to [recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
