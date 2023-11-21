@@ -118,10 +118,16 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part I: SAGA; SVRG [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_1_VR.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1XZ33pflapuqZS5LrplcRzA?pwd=jr5i) <br>
 - Part II: Recurrent Neural Network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_2_RNN.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1TNGnpDqF3SwlHE1ccb4T-w?pwd=exdw)<br>
 - Part III: Attention [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_3_attention.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1ZfNHKd710sDqcI8OArsUBg?pwd=gs3q)<br>
-- **Homework 9**: To be announced  <br>
+- **Homework 9**: No homework  <br>
 - Reading: <br>
    - Rie Johnson et al., *[Accelerating stochastic gradient descent using predictive variance reduction](https://proceedings.neurips.cc/paper_files/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf)*, NeurIPS 2013
    - Aaron Defazio et al., *[SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives](https://proceedings.neurips.cc/paper_files/paper/2014/hash/ede7e2b6d13a41ddf9f4bdef84fdc737-Abstract.html)*, NeurIPS 2014
    - [Introduction to recurrent neural network](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
    - [Dive into deep learning: RNN](https://d2l.ai/chapter_recurrent-neural-networks/index.html)
    - [Dive into deep learning: Attention](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
+
+### Lecture 10-1: Adversarial learning <br>
+- Adversarial attacks; FGSM; PGD; Adversarial learning [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_1_adversarial_learning.pdf)  [[Slides_BD]](https://pan.baidu.com/s/14dUPmJnW1Ckg83djgTffog?pwd=4jm1) <br>
+
+### Lecture 10-2: Gradient clipping <br>
+- Gradient exploding; Gradient clipping; L0-L1 smoothness [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_2_Grad_clip.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1P61f-jlDLVABGaNjdqy_rw?pwd=8pff) <br>
