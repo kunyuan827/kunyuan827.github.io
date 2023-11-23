@@ -103,7 +103,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Notes II: Adaptive SGD [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_2.pdf)[[Notes_BD]](https://pan.baidu.com/s/1eFHbWuFRaaibWJ9wNOly_g?pwd=799k) <br>
 - Part I: Momentum SGD; SGD with Nesterov momentum; lower bound in stochastic optimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_1_mSGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1FJVoDRMLU6iZa76Bf87e0g?pwd=feex) <br>
 - Part II: Preconditioned SGD; AdaGrad; RMSProp; Adam; AdamW [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec8_2_Adaptive_SGD.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1DRdv77mSLZTN-ifFn5GuGA?pwd=cvke)<br>
-- **Homework 8**: No homework  <br>
+- **Homework**: No homework  <br>
 - Reading: <br>
    - Ilya Sutskever et al., *[On the importance of initialization and momentum in deep learning](http://proceedings.mlr.press/v28/sutskever13.html)*, ICML, 2013
    - Kun Yuan et al., *[On the influence of momentum acceleration on online learning](https://jmlr.org/papers/v17/16-157.html)*, JMLR, 2016
@@ -118,7 +118,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part I: SAGA; SVRG [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_1_VR.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1XZ33pflapuqZS5LrplcRzA?pwd=jr5i) <br>
 - Part II: Recurrent Neural Network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_2_RNN.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1TNGnpDqF3SwlHE1ccb4T-w?pwd=exdw)<br>
 - Part III: Attention [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec9_3_attention.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1ZfNHKd710sDqcI8OArsUBg?pwd=gs3q)<br>
-- **Homework 9**: No homework  <br>
+- **Homework**: No homework  <br>
 - Reading: <br>
    - Rie Johnson et al., *[Accelerating stochastic gradient descent using predictive variance reduction](https://proceedings.neurips.cc/paper_files/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf)*, NeurIPS 2013
    - Aaron Defazio et al., *[SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives](https://proceedings.neurips.cc/paper_files/paper/2014/hash/ede7e2b6d13a41ddf9f4bdef84fdc737-Abstract.html)*, NeurIPS 2014
@@ -131,3 +131,4 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 10-2: Gradient clipping <br>
 - Gradient exploding; Gradient clipping; L0-L1 smoothness [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_2_Grad_clip.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1P61f-jlDLVABGaNjdqy_rw?pwd=8pff) <br>
+- **Homework 8**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw8.pdf) [[Homework_BD]](https://pan.baidu.com/s/1b31wjwbZDXBCqX0v4I2UVw?pwd=4vfh)  <br>
