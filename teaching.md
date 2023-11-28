@@ -132,3 +132,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 ### Lecture 10-2: Gradient clipping <br>
 - Gradient exploding; Gradient clipping; L0-L1 smoothness [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_2_Grad_clip.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1P61f-jlDLVABGaNjdqy_rw?pwd=8pff) <br>
 - **Homework 8**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw8.pdf) [[Homework_BD]](https://pan.baidu.com/s/1b31wjwbZDXBCqX0v4I2UVw?pwd=4vfh)  <br>
+
+### Lecture 11: Mixed-Precision Training <br>
+- FP32; FP16; Mixed-precision training; 8 bit Adam optimizer; SGD with mixed precision [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec11_mixed_precision.pdf)[[Slides_BD]](https://pan.baidu.com/s/1y7M1Wi4EeFcBNW3w_wJiFA?pwd=yh5x) <br>
+- **Homework 9**: To be announced
