@@ -135,4 +135,5 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 11: Mixed-Precision Training <br>
 - FP32; FP16; Mixed-precision training; 8 bit Adam optimizer; SGD with mixed precision [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec11_mixed_precision.pdf)[[Slides_BD]](https://pan.baidu.com/s/1y7M1Wi4EeFcBNW3w_wJiFA?pwd=yh5x) <br>
+- Transformer [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Transformer.pdf)[[Slides_BD]](https://pan.baidu.com/s/1nBquf_qLoVjgUkQ0_bcQVw?pwd=wdsi) <br>
 - **Homework 9**: To be announced
