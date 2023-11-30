@@ -137,6 +137,11 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 ### Lecture 10-2: Gradient clipping <br>
 - Gradient exploding; Gradient clipping; L0-L1 smoothness [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_2_Grad_clip.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1P61f-jlDLVABGaNjdqy_rw?pwd=8pff) <br>
 - **Homework 8**: [[Homework_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/hw8.pdf) [[Homework_BD]](https://pan.baidu.com/s/1b31wjwbZDXBCqX0v4I2UVw?pwd=4vfh)  <br>
+- Reading: <br>
+   - Jingzhao Zhang et al., *[Why gradient clipping accelerates training: A theoretical justification for adaptivity](https://arxiv.org/abs/1905.11881)*, ICLR 2019.
+   - Bohang Zhang et al., *[Improved analysis of clipping algorithms for non-convex optimization](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b282d1735283e8eea45bce393cefe265-Abstract.html)*, NeurIPS 2020.
+   - Anastasia Koloskova et al., *[Revisiting Gradient Clipping: Stochastic bias and tight convergence guarantees](https://arxiv.org/abs/2305.01588)*, ICML 2023.
+
 
 ### Lecture 11: Mixed-Precision Training <br>
 - FP32; FP16; Mixed-precision training; 8 bit Adam optimizer; SGD with mixed precision [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec11_mixed_precision.pdf)[[Slides_BD]](https://pan.baidu.com/s/1y7M1Wi4EeFcBNW3w_wJiFA?pwd=yh5x) <br>
