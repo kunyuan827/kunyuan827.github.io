@@ -128,6 +128,11 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ### Lecture 10-1: Adversarial learning <br>
 - Adversarial attacks; FGSM; PGD; Adversarial learning [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_1_adversarial_learning.pdf)  [[Slides_BD]](https://pan.baidu.com/s/14dUPmJnW1Ckg83djgTffog?pwd=4jm1) <br>
+- Reading: <br>
+   - Ian J. Goodfellow et al., *[Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)*, 2014.
+   - Aleksander Madry et al., *[Towards Deep Learning Models Resistant to Adversarial Attacks](https://openreview.net/pdf?id=rJzIBfZAb)*, ICLR 2018.
+   - Ali Shafahi et al., *[Adversarial training for free!](https://proceedings.neurips.cc/paper_files/paper/2019/hash/7503cfacd12053d309b6bed5c89de212-Abstract.html)*, NeurIPS 2019.
+   - Eric Wong et al., *[Fast is better than free: Revisiting adversarial training](https://arxiv.org/abs/2001.03994)*, ICLR 2019.
 
 ### Lecture 10-2: Gradient clipping <br>
 - Gradient exploding; Gradient clipping; L0-L1 smoothness [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec10_2_Grad_clip.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1P61f-jlDLVABGaNjdqy_rw?pwd=8pff) <br>
@@ -140,4 +145,5 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Reading: <br>
    - Paulius Micikevicius et al., *[Mixed Precision Training](https://arxiv.org/abs/1710.03740)*, ICLR 2018.
    - Tim Dettmers et al., *[8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)*, ICLR 2022.
-   - Dan Alistarh et.al., *[QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding](https://arxiv.org/abs/1610.02132)*, NeurIPS 2017. 
+   - Dan Alistarh et.al., *[QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding](https://arxiv.org/abs/1610.02132)*, NeurIPS 2017.
+   - *[Transformer模型详解](https://zhuanlan.zhihu.com/p/338817680)*.
