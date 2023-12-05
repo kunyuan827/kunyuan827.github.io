@@ -152,3 +152,8 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
    - Tim Dettmers et al., *[8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)*, ICLR 2022.
    - Dan Alistarh et.al., *[QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding](https://arxiv.org/abs/1610.02132)*, NeurIPS 2017.
    - *[Transformer模型详解](https://zhuanlan.zhihu.com/p/338817680)*.
+
+### Lecture 12: Meta Learning <br>
+- Part I: Introduction to Meta Learning (We will use the great [Slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/meta_v3.pdf) from Prof. Hung-Yi Lee) <br>
+- Part II: Learning to Initilize; MAML; Reptile [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec12_1_MAML.pdf)[[Slides_BD]](https://pan.baidu.com/s/1oJ50zAMo4bK5Q7GFkcckCw?pwd=r76z) <br>
+- Part III: Learning to Optimize [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec12_2_learning_to_learn.pdf)[[Slides_BD]](https://pan.baidu.com/s/1Z6NWa2mFUKeZhaK-Y8B9sQ?pwd=npft) <br>
