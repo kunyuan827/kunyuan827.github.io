@@ -165,3 +165,9 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part I: Introduction to Meta Learning (We will use the great [Slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/meta_v3.pdf) from Prof. Hung-Yi Lee) <br>
 - Part II: Learning to Initilize; MAML; Reptile [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec12_1_MAML.pdf)[[Slides_BD]](https://pan.baidu.com/s/1oJ50zAMo4bK5Q7GFkcckCw?pwd=r76z) <br>
 - Part III: Learning to Optimize [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec12_2_learning_to_learn.pdf)[[Slides_BD]](https://pan.baidu.com/s/1Z6NWa2mFUKeZhaK-Y8B9sQ?pwd=npft) <br>
+- Reading: <br>
+   - Chelsea Finn et al., *[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)*, ICML 2017
+   - Antreas Antoniou et al., *[How to train your MAML](https://arxiv.org/abs/1810.09502)*, ICLR 2019.
+   - Alex Nichol et al., *[On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999)*, 2018.
+   - Marcin Andrychowicz et.al., *[Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)*, NIPS 2016.
+   - Karol Gregor et.al., *[Learning Fast Approximations of Sparse Coding](https://icml.cc/Conferences/2010/papers/449.pdf)*, ICML 2010.
