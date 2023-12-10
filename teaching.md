@@ -24,9 +24,9 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DLOPT_projects.pdf) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
 
-Presentation materials are due by 11:59 AM on December 26, 2023.
+<mark> Presentation materials are due by 11:59 AM on December 26, 2023. </mark> 
 
-Project codes and reports are due by 11:59 PM on January 14, 2023.
+<mark> Project codes and reports are due by 11:59 PM on January 14, 2023. </mark> 
 
 ## Materials
 
