@@ -26,7 +26,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 <mark> Presentation materials are due by 11:59 AM on December 26, 2023. </mark> 
 
-<mark> Project codes and reports are due by 11:59 PM on January 14, 2023. </mark> 
+<mark> Project codes and reports are due by 11:59 PM on January 14, 2024. </mark> 
 
 ## Materials
 
