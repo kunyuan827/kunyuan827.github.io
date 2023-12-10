@@ -20,6 +20,14 @@ Office hour: 2pm - 3pm Thursday, 静园六院220
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
 Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/courses/cs6787/2021fa/)*, Cornell CS6787
 
+## Projects
+
+[[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DLOPT_projects.pdf) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
+
+Presentation materials are due by 11:59 AM on December 26, 2023.
+
+Project codes and reports are due by 11:59 PM on January 14, 2023.
+
 ## Materials
 
 **Remark**: All materials can be retrieved from two sources: GitHub and Baidu Wangpan. <br>
