@@ -22,14 +22,14 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
+  Y. Chen, L. Cao, K. Yuan, and Z. Wen
+
 - [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
   Z. Cheng , X. Huang, and K. Yuan
 
 - [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
   Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
-
-- [An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855) <br> 
-  S. A. Alghunaim and K. Yuan 
 
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
   M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp; 
@@ -48,6 +48,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 
 ### 2023
+
+- [An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855) <br> 
+  S. A. Alghunaim and K. Yuan <br>
+  *Signal Processing*
 
 - [Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?](https://arxiv.org/pdf/2305.16297.pdf) <br>
   Y. He , X. Huang, and K. Yuan <br>
