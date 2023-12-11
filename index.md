@@ -40,6 +40,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [12/2023] A new paper *[Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf)* is on arXiv now. Surprisingly, we find that spectral gap is not enough to capture the influence of directed networks and the equilibrium skewness matters a lot! We also establish the lower bound for decentralized algorithms with clomun-stochastic mixing matrices. 
+
 - [11/2023] We will organize a session on [Decentralized Optimization and Learning](https://css.paperplaza.net/conferences/conferences/CDC23/program/CDC23_ContentListWeb_1.html#wea05) in IEEE CDC 2023. 
 
 - [11/2023] One paper is accepted by Signal Processing.
