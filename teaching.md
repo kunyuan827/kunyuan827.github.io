@@ -171,3 +171,10 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
    - Alex Nichol et al., *[On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999)*, 2018.
    - Marcin Andrychowicz et.al., *[Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)*, NIPS 2016.
    - Karol Gregor et.al., *[Learning Fast Approximations of Sparse Coding](https://icml.cc/Conferences/2010/papers/449.pdf)*, ICML 2010.
+ 
+### Lecture 13: Decentralized Learning <br>
+- Part I: [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_1_DistLearning.pdf) <br>
+- Part II: [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_2_AvgCns.pdf) <br>
+- Part III: [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_3_DeterministicAlgs.pdf) <br>
+- Part IV: [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_4_StoAlgs.pdf) <br>
+- Part V: [Slides](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_5_Graphs.pdf) <br>
