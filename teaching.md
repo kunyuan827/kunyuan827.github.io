@@ -179,3 +179,6 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part IV: Transient stage; Stochastic decentralized algorithms [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_4_StoAlgs.pdf)[[Slides_BD]](https://pan.baidu.com/s/1splUfg7exWfbGP1GrTAd1Q?pwd=4wda) <br>
 - Part V: Exponential graph; One-peer exponential graph; EquiTopo graph [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_5_Graphs.pdf)[[Slides_BD]](https://pan.baidu.com/s/1uBrOTN6bMEtLBS9m_T7XJg?pwd=6qcv) <br>
 - Part VI: BlueFog library [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_6_BlueFog.pdf)[[Slides_BD]](https://pan.baidu.com/s/1F74_NR9FMGd5QaJMD6PDSQ?pwd=dkej) <br>
+
+### Lecture 14: Federated Learning <br>
+- Motivation; Local update; FedAvg; Scaffold; Partial client participation [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec14_FL.pdf)[[Slides_BD]](https://pan.baidu.com/s/1-kZ5WLj8uR8nNPU_lHN7XA?pwd=kr26)<br>
