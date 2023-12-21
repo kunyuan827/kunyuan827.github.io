@@ -54,7 +54,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
   
   Congratulations to my student Yutong He on publishing his first paper! 
 
-- [09/2023] I will be teaching a class on *[Optimization for Deep Learning](https://kunyuan827.github.io/teaching/)* in 2023 Fall. 
+- [09/2023] I will be teaching a course on *[Optimization for Deep Learning](https://kunyuan827.github.io/teaching/)* in 2023 Fall. 
 
 - [09/2023] One paper is accepted by Journal of Machine Learning Research (JMLR).
   * *[Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD](https://arxiv.org/pdf/2105.08023.pdf)*
