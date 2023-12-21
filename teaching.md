@@ -179,6 +179,17 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part IV: Transient stage; Stochastic decentralized algorithms [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_4_StoAlgs.pdf)[[Slides_BD]](https://pan.baidu.com/s/1splUfg7exWfbGP1GrTAd1Q?pwd=4wda) <br>
 - Part V: Exponential graph; One-peer exponential graph; EquiTopo graph [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_5_Graphs.pdf)[[Slides_BD]](https://pan.baidu.com/s/1uBrOTN6bMEtLBS9m_T7XJg?pwd=6qcv) <br>
 - Part VI: BlueFog library [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec13_6_BlueFog.pdf)[[Slides_BD]](https://pan.baidu.com/s/1F74_NR9FMGd5QaJMD6PDSQ?pwd=dkej) <br>
+- Reading: <br>
+   - Kun Yuan et al. *[On the convergence of decentralized gradient descent](https://arxiv.org/pdf/1310.7063.pdf)*, SIAM Journal on Optimization, 2016.
+   - Wei Shi et al., *[EXTRA: An Exact First-Order Algorithm for Decentralized Consensus Optimization](https://arxiv.org/abs/1404.6264)*, SIAM Journal on Optimization, 2015.
+   - Angelia Nedich et al., *[Achieving Geometric Convergence for Distributed Optimization over Time-Varying Graphs](https://arxiv.org/abs/1607.03218)*, SIAM Journal on Optimization, 2017.
+   - Anastasia Koloskova et al., *[A Unified Theory of Decentralized SGD with Changing Topology and Local Updates](https://arxiv.org/abs/2003.10422)*, ICML 2020.
+   - Kun Yuan et al., *[Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD](https://arxiv.org/abs/2105.08023)*, JMLR 2023.
+   - Bicheng Ying et al., *[Exponential Graph is Provably Efficient for Decentralized Deep Training](https://arxiv.org/abs/2110.13363)*, NeurIPS 2021.
+   - Bicheng Ying et al., *[BlueFog: Make Decentralized Algorithms Practical for Optimization and Deep Learning](https://arxiv.org/pdf/2111.04287.pdf)*, 2021.
 
 ### Lecture 14: Federated Learning <br>
 - Motivation; Local update; FedAvg; Scaffold; Partial client participation [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec14_FL.pdf)[[Slides_BD]](https://pan.baidu.com/s/1-kZ5WLj8uR8nNPU_lHN7XA?pwd=kr26)<br>
+- Reading: <br>
+    - Jakub Konečný et al. *[Federated Optimization: Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575)*, 2015.
+    - Sai Praneeth Karimireddy et al. *[SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)*, ICML 2020.
