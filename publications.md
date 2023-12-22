@@ -22,6 +22,9 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### Preprints
 
+- [Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf) <br>
+  L. Liang, X. Huang, R. Xin, K. Yuan
+
 - [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
   Y. Chen, L. Cao, K. Yuan, and Z. Wen
 
