@@ -24,7 +24,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 Final exam [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/23Fall_finals/Final_2023Fall.pdf) [[Projects_BD]](https://pan.baidu.com/s/1_rw2R5XM0wMzcQwLroH-uw?pwd=k3zs) <br>
 
-Associated code [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/23Fall_finals/prob4.ipynb.zip) [[Projects_BD]](https://pan.baidu.com/s/12LL26gyDPN22_Okayn5a-A?pwd=2q81) <br>
+Code for Problem 4 [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/23Fall_finals/prob4.ipynb.zip) [[Projects_BD]](https://pan.baidu.com/s/12LL26gyDPN22_Okayn5a-A?pwd=2q81) <br>
 
 <mark style="background-color: lightblue"> Please turn in your exam paper and code by 11:59 PM on January 14, 2024. </mark> <br>
 
