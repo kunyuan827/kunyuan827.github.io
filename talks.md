@@ -11,3 +11,16 @@ layout: page
 - [Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Network_independent_learning_rate[CDC2023].pdf) <br>
   The 62nd IEEE Conference on Decision and Control, Singapore  <br> 
   December 13, 2023 <br>
+
+- [A Unified Algorithm for Non-IID Decentralized Learning](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Unified_Decentralized_Learning[Shenzhen].pdf) <br>
+  Shenzhen University, Shenzhen, China  <br> 
+  November 26, 2023 <br>
+
+
+- [Lower Bounds and Accelerated Algorithms in Distributed Optimization with Communication Compression](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/OptimalCompression[CAS].pdf) <br>
+  Chinese Academy of Sciences, Beijing, China  <br> 
+  November 23, 2023 <br>
+
+- [Accelerating Decentralized Deep Training with Sparse and Effective Topologies](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Topologies_for_decentralized_deep_learning[CAS].pdf) <br>
+  Chinese Academy of Sciences, Beijing, China  <br> 
+  November 9, 2023 <br>
