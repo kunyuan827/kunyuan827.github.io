@@ -20,6 +20,14 @@ Office hour: 2pm - 3pm Thursday, 静园六院220
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
 Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/courses/cs6787/2021fa/)*, Cornell CS6787
 
+## Final exam
+
+Final exam [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Final_2023Fall.pdf) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
+
+Associated code [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/prob4.ipynb) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
+
+<mark style="background-color: lightblue"> Please turn in your exam paper by 11:59 PM on January 14, 2024. </mark> <br>
+
 ## Projects
 
 [[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DLOPT_Projects.pdf) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
