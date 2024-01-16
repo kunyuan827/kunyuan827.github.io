@@ -31,14 +31,19 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
-<mark> We have opennings for PostDocs and undergraduate research interns. Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
+<mark> We are hiring PostDocs and undergraduate research interns!!! Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
-<!-- <mark style="background-color: lightblue">我们课题组在2023 Fall还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br>  -->
+<mark style="background-color: lightblue">我们课题组在2024 Spring还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br> 
 
 
 
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
+
+- [01/2024] One paper is accepted to ICLR 2024.
+  * *[Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf)* <br>
+  
+  Congratulations to my student Ziheng Cheng and all collaborators! 
 
 - [12/2023] A new paper *[Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf)* is on arXiv now. Surprisingly, we find that spectral gap is not enough to capture the influence of directed networks and the equilibrium skewness matters a lot! We also establish the lower bound for decentralized algorithms with clomun-stochastic mixing matrices. 
 
