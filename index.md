@@ -31,7 +31,9 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 
 I was the recipient of the *2017 IEEE Signal Processing Society Young Author Best Paper Award* (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the *2017 ICCM Distinguished Paper Award*.
 
-<mark> We are hiring PostDocs and undergraduate research interns!!! Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
+<mark> We are hiring PostDocs and Undergraduate Research Interns!!! </mark> <br> 
+
+<mark> Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
 <mark style="background-color: lightblue">我们课题组在2024 Spring还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br> 
 
