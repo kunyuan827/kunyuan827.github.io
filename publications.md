@@ -28,8 +28,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
   Y. Chen, L. Cao, K. Yuan, and Z. Wen
 
-- [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
-  Z. Cheng , X. Huang, and K. Yuan
+
 
 - [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
   Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
@@ -48,6 +47,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   
 <!-- - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
+
+### 2024
+- [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
+  Z. Cheng , X. Huang, Pengfei Wu, and K. Yuan <br>
+  *International Conference on Learning Representations (ICLR)* <br>
 
 
 ### 2023
