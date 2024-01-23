@@ -69,7 +69,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   K. Yuan, S. A. Alghunaim, and X. Huang <br>
   *Journal of Machine Learning Research (JMLR)*
 
-- Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization <br>
+- [Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/10384058) <br>
   H. Yuan, S. A. Alghunaim, and K. Yuan <br>
   *IEEE Conference on Decision and Control (CDC)*
 
