@@ -68,7 +68,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 
 - [07/2023] Two papers are accepted to IEEE CDC 2023.
-  * *Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization*
+  * *[Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Stochastic Optimization](https://ieeexplore.ieee.org/abstract/document/10384058)*
   * *[On the Performance of Gradient Tracking with Local Updates](https://arxiv.org/abs/2210.04757)*
     
   Congratulations to my student Hao Yuan and my collaborator Edward Nguyen on publishing their first papers! 
