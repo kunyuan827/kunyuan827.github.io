@@ -42,6 +42,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [02/2024] I will be teaching a course on *[Large Language Models in Decision Intelligence](./llm2024)* in 2024 Spring. 
+
 - [02/2024] A new paper *[Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/pdf/2402.03167.pdf)* is on arXiv now. We have calrified the joint influence of network topology and data heterogeneity on decentralized bilevel optimization.
   
 - [01/2024] One paper is accepted to ICLR 2024.
@@ -63,7 +65,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
   
   Congratulations to my student Yutong He on publishing his first paper! 
 
-- [09/2023] I will be teaching a course on *[Optimization for Deep Learning](https://kunyuan827.github.io/teaching/)* in 2023 Fall. 
+- [09/2023] I will be teaching a course on *[Optimization for Deep Learning](./DLOpt2023/)* in 2023 Fall. 
 
 - [09/2023] One paper is accepted by Journal of Machine Learning Research (JMLR).
   * *[Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD](https://arxiv.org/pdf/2105.08023.pdf)*
