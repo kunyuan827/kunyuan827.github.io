@@ -42,6 +42,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [02/2024] I will give a tutorial lecture on Distributed Machine Learning at [MLSS 2024](https://groups.oist.jp/mlss). 
+
 - [02/2024] I will be teaching a course on *[Large Language Models in Decision Intelligence](./llm2024)* in 2024 Spring. 
 
 - [02/2024] A new paper *[Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/pdf/2402.03167.pdf)* is on arXiv now. We have calrified the joint influence of network topology and data heterogeneity on decentralized bilevel optimization.
