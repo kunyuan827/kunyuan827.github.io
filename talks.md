@@ -4,6 +4,14 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [Distributed Machine Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-PartI[Okinawa].pdf) <br>
+  OIST, Okinawa, Japan  <br> 
+  March, 2024 <br>
+
+- [Distributed Machine Learning: Part II](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-Part2[Okinawa].pdf) <br>
+  OIST, Okinawa, Japan  <br> 
+  March, 2024 <br>
+
 - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/column_digraphs.pdf) <br>
   Sun Yat-sen University, Guangzhou, China  <br> 
   December, 2023 <br>
