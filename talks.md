@@ -5,10 +5,12 @@ layout: page
 ---
 
 - [Distributed Machine Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-PartI[Okinawa].pdf) <br>
+  Machine Learning Summer School <br>
   OIST, Okinawa, Japan  <br> 
   March, 2024 <br>
 
 - [Distributed Machine Learning: Part II](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-Part2[Okinawa].pdf) <br>
+  Machine Learning Summer School <br>
   OIST, Okinawa, Japan  <br> 
   March, 2024 <br>
 
