@@ -42,6 +42,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- [03/2024] I will server as an Area Chair for [NeurIPS 2024](https://neurips.cc/).
+
 - [03/2024] I will give a tutorial lecture on Distributed Machine Learning at [MLSS 2024](https://groups.oist.jp/mlss). Lecture slides can be found at [Distributed Machine Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-PartI[Okinawa].pdf) and [Distributed Machine Learning: Part II](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-Part2[Okinawa].pdf).
 
 - [02/2024] I will be teaching a course on *[Large Language Models in Decision Intelligence](./llm2024)* in 2024 Spring. 
