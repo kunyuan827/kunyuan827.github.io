@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/ICASSP2024.pdf) <br>
+  IEEE International Conference on Acoustics, Speech and Signal Processing <br>
+  Seoul, Korea  <br> 
+  April, 2024 <br>
+
 - [Distributed Machine Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DistributedML-PartI[Okinawa].pdf) <br>
   Machine Learning Summer School <br>
   OIST, Okinawa, Japan  <br> 
