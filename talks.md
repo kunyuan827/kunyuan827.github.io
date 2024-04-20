@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Jilin].pdf) <br>
+  Seminar on Advancements in Optimization <br>
+  Jilin, China  <br> 
+  April, 2024 <br>
+
 - [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/ICASSP2024.pdf) <br>
   IEEE International Conference on Acoustics, Speech and Signal Processing <br>
   Seoul, Korea  <br> 
