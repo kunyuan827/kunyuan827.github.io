@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Xiangtan].pdf) <br>
+  International Workshop on Stochastic Optimization <br>
+  Xiangtan, China  <br> 
+  April, 2024 <br>
+
 - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Jilin].pdf) <br>
   Seminar on Advancements in Optimization <br>
   Jilin, China  <br> 
