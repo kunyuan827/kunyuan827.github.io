@@ -25,7 +25,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
   B. Kong, S. Zhu, S. Lu, X. Huang, K. Yuan
 
-- [Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf) <br>
+- [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
   L. Liang, X. Huang, R. Xin, K. Yuan
 
 - [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
