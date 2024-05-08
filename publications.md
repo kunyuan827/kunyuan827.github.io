@@ -50,8 +50,12 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
 ### 2024
+- Distributed Bilevel Optimization with Communication Compression <br>
+  Y. He, J. Hu, X. Huang, S. Lu, B. Wang, and K. Yuan <br>
+  *International Conference on Machine Learning (ICML)* <br>
+
 - [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
-  Z. Cheng , X. Huang, Pengfei Wu, and K. Yuan <br>
+  Z. Cheng , X. Huang, P. Wu, and K. Yuan <br>
   *International Conference on Learning Representations (ICLR)* <br>
 
 
