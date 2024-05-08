@@ -42,11 +42,11 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
-- [01/2024] One paper is accepted to ICML 2024.
+- [05/2024] I will teach a short summer course titled *Efficient Optimization for Large Language Models* at *[Beijing Jiaotong University](https://www.bjtu.edu.cn/)* from July 7th to July 9th. It will be a condensed mix of my two regular classes *[Optimization for Deep Learning](./DLOpt2023/)* and *[Large Language Models in Decision Intelligence](./llm2024)*. The syllabus is coming soon. 
+
+- [05/2024] One paper is accepted to ICML 2024. Congratulations to my student Yutong He, Jie Hu, and all collaborators! 
   * *Distributed Bilevel Optimization with Communication Compression* <br>
   
-  Congratulations to my student Yutong He, Jie Hu, and all collaborators ! 
-
 - [04/2024] My undergraduate students, [Ziheng Cheng](https://openreview.net/profile?id=~Ziheng_Cheng4) and Liyuan Liang, have been admitted to the UC Berkeley PhD Program. Additionally, Lujing Zhang has been admitted to the Carnegie Mellon University (CMU) PhD Program. Congratulations to all of them! <mark> We are currently hiring undergraduate research interns. We are committed to providing abundant resources and comprehensive instructions to support their involvement in cutting-edge research projects. </mark> <br>
 
 - [04/2024] I will give a talk on [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/ICASSP2014.pdf) at [IEEE ICASSP 2024]([https://groups.oist.jp/mlss](https://2024.ieeeicassp.org/program-schedule/)).
@@ -59,10 +59,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 - [02/2024] A new paper *[Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/pdf/2402.03167.pdf)* is on arXiv now. We have calrified the joint influence of network topology and data heterogeneity on decentralized bilevel optimization.
   
-- [01/2024] One paper is accepted to ICLR 2024.
-  * *[Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf)* <br>
-  
-  Congratulations to my student Ziheng Cheng and all collaborators! 
+- [01/2024] One paper is accepted to ICLR 2024. Congratulations to my student Ziheng Cheng and all collaborators! 
+  * *[Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf)* <br>  
 
 - [12/2023] A new paper *[Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf)* is on arXiv now. Surprisingly, we find that spectral gap is not enough to capture the influence of directed networks and the equilibrium skewness matters a lot! We also establish the lower bound for decentralized algorithms with clomun-stochastic mixing matrices. 
 
