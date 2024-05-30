@@ -50,7 +50,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
 ### 2024
-- Distributed Bilevel Optimization with Communication Compression <br>
+- [Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858) <br>
   Y. He, J. Hu, X. Huang, S. Lu, B. Wang, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* <br>
 
