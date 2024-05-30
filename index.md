@@ -45,7 +45,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 - [05/2024] I will teach a short summer course titled *Efficient Optimization for Large Language Models* at *[Beijing Jiaotong University](https://www.bjtu.edu.cn/)* from July 7th to July 9th. It will be a condensed mix of my two regular classes *[Optimization for Deep Learning](./dlopt2023/)* and *[Large Language Models in Decision Intelligence](./llm2024)*. The syllabus is coming soon. 
 
 - [05/2024] One paper is accepted to ICML 2024. Congratulations to my student Yutong He, Jie Hu, and all collaborators! 
-  * *Distributed Bilevel Optimization with Communication Compression* <br>
+  * *[Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858)* <br>
   
 - [04/2024] My undergraduate students, [Ziheng Cheng](https://openreview.net/profile?id=~Ziheng_Cheng4) and Liyuan Liang, have been admitted to the UC Berkeley PhD Program. Additionally, Lujing Zhang has been admitted to the Carnegie Mellon University (CMU) PhD Program. Congratulations to all of them! <mark> We are currently hiring undergraduate research interns. We are committed to providing abundant resources and comprehensive instructions to support their involvement in cutting-edge research projects. </mark> <br>
 
