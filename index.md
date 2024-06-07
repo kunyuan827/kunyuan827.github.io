@@ -35,7 +35,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
-<mark> 正在招募2024年暑期科研实习生。项目简介及要求请参看该[文档](./resources/SummerIntern.pdf)。 </mark> <br> 
+<mark> 正在招收2024年暑期科研实习生。项目简介及要求请参看该[文档](./resources/SummerIntern.pdf)。 </mark> <br> 
 
 <!-- <mark style="background-color: lightblue">我们课题组在2024 Spring还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br> -->
 
@@ -51,7 +51,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 - [05/2024] One paper is accepted to ICML 2024. Congratulations to my student Yutong He, Jie Hu, and all collaborators! 
   * *[Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858)* <br>
   
-- [04/2024] My undergraduate students, [Ziheng Cheng](https://openreview.net/profile?id=~Ziheng_Cheng4) and Liyuan Liang, have been admitted to the UC Berkeley PhD Program. Additionally, Lujing Zhang has been admitted to the Carnegie Mellon University (CMU) PhD Program. Congratulations to all of them! <mark> We are currently hiring undergraduate research interns. We are committed to providing abundant resources and comprehensive instructions to support their involvement in cutting-edge research projects. </mark> <br>
+- [04/2024] My undergraduate students, [Ziheng Cheng](https://openreview.net/profile?id=~Ziheng_Cheng4) and Liyuan Liang, have been admitted to the UC Berkeley PhD Program. Additionally, Lujing Zhang has been admitted to the Carnegie Mellon University (CMU) PhD Program. Congratulations to all of them! We are currently hiring undergraduate research interns. We are committed to providing abundant resources and comprehensive instructions to support their involvement in cutting-edge research projects. <br>
 
 - [04/2024] I will give a talk on [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/ICASSP2014.pdf) at [IEEE ICASSP 2024]([https://groups.oist.jp/mlss](https://2024.ieeeicassp.org/program-schedule/)).
 
