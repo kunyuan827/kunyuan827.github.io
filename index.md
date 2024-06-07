@@ -33,7 +33,9 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> We are hiring PostDocs and Undergraduate Research Interns!!! </mark> <br> 
 
-<mark> Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
+<mark> Drop me an email if you are interested in machine learning, optimization, and AI systems. </mark> <br> 
+
+<mark> 正在招收2024年暑期实习生. 项目简介及要求请参看该[文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  </mark> <br> 
 
 <!-- <mark> 正在招收2024年暑期科研实习生。项目简介及要求请参看该文档 [SummerIntern.pdf](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf)。 </mark> <br> -->
 
@@ -46,7 +48,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - <mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br> -->
 
-- [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).
+<!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
 - [06/2024] I will give a 3-hour tutorial on *Efficient Optimization for Deep Learning* at *[Fudan University](https://www.bjtu.edu.cn/)* on June 8th. Please check the *[slides](./talks)*.
 
