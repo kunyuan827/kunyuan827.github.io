@@ -3,16 +3,16 @@ title: ""
 permalink: "/talks/"
 layout: page
 ---
-- [Effective Optimization for Deep Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartI[Fudan].pdf) <br>
+- [Efficient Optimization for Deep Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartI[Fudan].pdf) <br>
 [Adaptive SGD](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Adaptive_SGD_Fudan.pdf) <br>
   Fudan University, Shanghai, China  <br> 
   June, 2024 <br>
 
-- [Effective Optimization for Deep Learning: Part II](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartII[Fudan].pdf) <br>
+- [Efficient Optimization for Deep Learning: Part II](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartII[Fudan].pdf) <br>
   Fudan University, Shanghai, China  <br> 
   June, 2024 <br>
 
-- [Effective Optimization for Deep Learning: Part III](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartIII[Fudan].pdf) <br>
+- [Efficient Optimization for Deep Learning: Part III](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartIII[Fudan].pdf) <br>
 [Mixed-Precision Training](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Mixed_precision_Fudan.pdf) <br>
   Fudan University, Shanghai, China  <br> 
   June, 2024 <br>
