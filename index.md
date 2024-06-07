@@ -35,7 +35,9 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
-<mark> 正在招收2024年暑期科研实习生。项目简介及要求请参看该文档 [SummerIntern.pdf](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf)。 </mark> <br> 
+<mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br> 
+
+<!-- <mark> 正在招收2024年暑期科研实习生。项目简介及要求请参看该文档 [SummerIntern.pdf](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf)。 </mark> <br> -->
 
 <!-- <mark style="background-color: lightblue">我们课题组在2024 Spring还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br> -->
 
