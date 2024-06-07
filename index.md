@@ -35,8 +35,6 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <mark> Drop me an email if you are interested in machine learning, optimization, and AI systems.</mark> <br> 
 
-<mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br> 
-
 <!-- <mark> 正在招收2024年暑期科研实习生。项目简介及要求请参看该文档 [SummerIntern.pdf](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf)。 </mark> <br> -->
 
 <!-- <mark style="background-color: lightblue">我们课题组在2024 Spring还有一个轮转名额，欢迎叉院2023届博士生同学联系！</mark> <br> -->
@@ -46,6 +44,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 ### News
 <!-- - [11/2022] We hosted *[2022 PKU Workshop on Operations Research and Machine Learning](http://conference.bicmr.pku.edu.cn/meeting/index?id=102)* online on Nov. 21 and Nov. 22. I gave a talk on *[DecentLaM: Decentralized Momentum SGD for Large-Batch Deep Training](https://arxiv.org/abs/2104.11981)*. Please check [Slides (on Github)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DecentLaM.pdf) or [Slides (on Baidu Wangpan)](https://pan.baidu.com/s/1-p7JBdI7ctIZ1-4VbwAL-Q?pwd=bjb6). -->
 
+- <mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br>
+  
 - [06/2024] I will give a 3-hour tutorial on *Efficient Optimization for Deep Learning* at *[Fudan University](https://www.bjtu.edu.cn/)* on June 8th. Please check the *[slides](./talks)*.
 
 - [05/2024] I will teach a short summer course titled *Efficient Optimization for Large Language Models* at *[Beijing Jiaotong University](https://www.bjtu.edu.cn/)* from July 7th to July 9th. It will be a condensed mix of my two regular classes *[Optimization for Deep Learning](./dlopt2023/)* and *[Large Language Models in Decision Intelligence](./llm2024)*. The syllabus is coming soon. 
