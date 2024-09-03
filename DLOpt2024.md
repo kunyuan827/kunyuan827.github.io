@@ -9,32 +9,17 @@ layout: page
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
 Teaching assistants: 
-- **Yutong He** (yutonghe@pku.edu.cn) <br>
-- **Jinghua Huang** (jinghua@stu.pku.edu.cn) <br>
-- **Pengfei Wu** (pengfeiwu1999@stu.pku.edu.cn) <br> 
-- **Hao Yuan** (pkuyuanhao@pku.edu.cn) <br>
+- **Boao Kong** (kongboao@stu.pku.edu.cn) <br> 
+- **Ziling Lin** (linzl@stu.pku.edu.cn) <br>
+- **Yongqi Qiao** (miraclefalls@stu.pku.edu.cn) <br>
+- **Yilong Song** (2301213059@pku.edu.cn) <br>
+- **Baihao Wu** (baihaowu@pku.edu.cn) <br>
 
 Office hour: 2pm - 3pm Thursday, 静园六院220
 
 ## References
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
 Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/courses/cs6787/2021fa/)*, Cornell CS6787
-
-## Final exam
-
-Final exam [[Exam_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/23Fall_finals/Final_2023Fall.pdf) [[Exam_BD]](https://pan.baidu.com/s/1_rw2R5XM0wMzcQwLroH-uw?pwd=k3zs) <br>
-
-Code for Problem 4 [[Code_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/23Fall_finals/prob4.ipynb.zip) [[Code_BD]](https://pan.baidu.com/s/12LL26gyDPN22_Okayn5a-A?pwd=2q81) <br>
-
-<mark style="background-color: lightblue"> Please turn in your exam paper and code by 11:59 PM on January 14, 2024. </mark> <br>
-
-## Projects
-
-[[Projects_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/DLOPT_Projects.pdf) [[Projects_BD]](https://pan.baidu.com/s/1oLsf-GGrEgO1j8A1iLriJA?pwd=vru7) <br>
-
-<mark> Presentation materials are due by 11:59 AM on December 26, 2023. </mark> 
-
-<mark> Project codes and reports are due by 11:59 PM on January 14, 2024. </mark> 
 
 ## Materials
 
