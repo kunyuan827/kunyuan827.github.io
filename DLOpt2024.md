@@ -11,6 +11,7 @@ Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 Teaching assistants: 
 - **Boao Kong** (kongboao@stu.pku.edu.cn) <br> 
 - **Ziling Lin** (linzl@stu.pku.edu.cn) <br>
+- **Yuxi Liu** (yuxiliu666@stu.pku.edu.cn) <br>
 - **Yongqi Qiao** (miraclefalls@stu.pku.edu.cn) <br>
 - **Yilong Song** (2301213059@pku.edu.cn) <br>
 - **Baihao Wu** (baihaowu@pku.edu.cn) <br>
