@@ -23,8 +23,6 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 
 ## Materials
 
-**Remark**: All materials can be retrieved from two sources: GitHub and Baidu Wangpan. <br>
-
 ### Lecture 1: Introduction <br>
 - Warm up: Preliminary [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) [[Notes_BD]](https://pan.baidu.com/s/1CRjewPuz9m11FzzG0AIU3g?pwd=35ic) <br>
 - Part   I: Overview on fundamental algorithms for optimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_01.pdf) [[Slides_BD]](https://pan.baidu.com/s/1mqNOB_8094OETo7nsI3QCw?pwd=jbu6)  <br> 
@@ -33,6 +31,7 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Part  IV: Overview on distributed algorithms for training deep neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_04.pdf) [[Slides_BD]](https://pan.baidu.com/s/1okoQ-xbnrjY_ej97IDHFOQ?pwd=tt9m)<br>
 - **Homework 1**: Review the preliminary notes.  
 
+<!--
 ### Lecture 2: Gradient descent <br>
 
 - Notes: Gradient descent [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch1.pdf) [[Notes_BD]](https://pan.baidu.com/s/1FlAAZwhMAkoScx4LDURrPg?pwd=sbwk) <br>
@@ -186,3 +185,4 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 - Reading: <br>
     - Jakub Konečný et al. *[Federated Optimization: Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575)*, 2015.
     - Sai Praneeth Karimireddy et al. *[SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)*, ICML 2020.
+-->
