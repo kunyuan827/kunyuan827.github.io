@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: "/dlopt2023/"
+permalink: "/dlopt2024/"
 layout: page
 ---
 
