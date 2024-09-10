@@ -18,6 +18,8 @@ Teaching assistants:
 - **Guangzhengao Yang** (gzayang@stu.pku.edu.cn) <br>
 - **Yuan Zhang** (zy1002@stu.pku.edu.cn) <br>
 
+Classroom: 3pm - 6pm Tuesday, 三教403
+
 Office hour: 4pm - 5pm Thursday, 静园六院220
 
 ## References
