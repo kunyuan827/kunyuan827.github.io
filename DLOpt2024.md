@@ -18,7 +18,7 @@ Teaching assistants:
 - **Guangzhengao Yang** (gzayang@stu.pku.edu.cn) <br>
 - **Yuan Zhang** (zy1002@stu.pku.edu.cn) <br>
 
-Office hour: 2pm - 3pm Thursday, 静园六院220
+Office hour: 4pm - 5pm Thursday, 静园六院220
 
 ## References
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
@@ -28,12 +28,9 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 ## Materials
 
 ### Lecture 1: Introduction <br>
-- Warm up: Preliminary [[Notes_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) [[Notes_BD]](https://pan.baidu.com/s/1CRjewPuz9m11FzzG0AIU3g?pwd=35ic) <br>
-- Part   I: Overview on fundamental algorithms for optimization [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_01.pdf) [[Slides_BD]](https://pan.baidu.com/s/1mqNOB_8094OETo7nsI3QCw?pwd=jbu6)  <br> 
-- Part  II: Overview on fundamental algorithms for training deep neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_02.pdf)  [[Slides_BD]](https://pan.baidu.com/s/1N8yWWyx2z6NhKGiqg5fVZQ?pwd=pzw9) <br> 
-- Part III: Overview on advanced algorithms for training deep neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_03.pdf) [[Slides_BD]](https://pan.baidu.com/s/140bkncOmR7CHoodw7zBAcQ?pwd=b8ei) <br> 
-- Part  IV: Overview on distributed algorithms for training deep neural network [[Slides_GH]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Lec1_introduction_04.pdf) [[Slides_BD]](https://pan.baidu.com/s/1okoQ-xbnrjY_ej97IDHFOQ?pwd=tt9m)<br>
-- **Homework 1**: Review the preliminary notes.  
+- Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br>
+- Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) <br> 
+- Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro2.pdf)
 
 <!--
 ### Lecture 2: Gradient descent <br>
