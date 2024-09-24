@@ -34,6 +34,13 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) <br> 
 - Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro2.pdf)
 
+### Lecture 2: Basics in Machine Learning and Langugae Models <br>
+- Part   I: Basics in Machine Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/02_MLBasics.pdf) <br> 
+- Part  II: Basics in Language models [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
+
+### Lecture 3: Transformers <br>
+- Part   I: Transformers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf) <br> 
+
 <!--
 ### Lecture 2: Gradient descent <br>
 
