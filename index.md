@@ -48,6 +48,11 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [09/2024] One paper is accepted to NeurIPS 2024. Congratulations to my student Shuchen Zhu, Boao Kong, and all collaborators!
+  * *SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization* <br>
+
+- [09/2024] I will be teaching a course on *[Optimization for Deep Learning](./DLOpt2024)* in 2024 Fall. 
+
 - [06/2024] I will give a 3-hour tutorial on *Efficient Optimization for Deep Learning* at *[Fudan University](https://www.fudan.edu.cn/)* on June 8th. Please check the *[slides](./talks)*.
 
 - [05/2024] I will teach a short summer course titled *Efficient Optimization for Large Language Models* at *[Beijing Jiaotong University](https://www.bjtu.edu.cn/)* from July 7th to July 9th. It will be a condensed mix of my two regular classes *[Optimization for Deep Learning](./dlopt2023/)* and *[Large Language Models in Decision Intelligence](./llm2024)*. The syllabus is coming soon. 
