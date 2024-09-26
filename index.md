@@ -51,7 +51,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 - [09/2024] One paper is accepted to NeurIPS 2024. Congratulations to my student Shuchen Zhu, Boao Kong, and all collaborators!
   * *SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization* <br>
 
-- [09/2024] I will be teaching a course on *[Optimization for Deep Learning](./DLOpt2024)* in 2024 Fall. 
+- [09/2024] I will be teaching a course on *[Optimization for Deep Learning](./dlopt2024)* in 2024 Fall. 
 
 - [06/2024] I will give a 3-hour tutorial on *Efficient Optimization for Deep Learning* at *[Fudan University](https://www.fudan.edu.cn/)* on June 8th. Please check the *[slides](./talks)*.
 
