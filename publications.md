@@ -20,36 +20,33 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 <mark> IEEE Signal Processing Society Young Author Best Paper Award</mark> [[Awardee list]](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/awards/Young_Author_Best_Paper.pdf) [[News]](https://sist.ustc.edu.cn/2018/0423/c5146a257808/page.htm) <br> 
 <mark style="background-color: lightblue">Highly Cited Paper in IEEE Transactions on Signal Processing </mark> <br> -->
 
-### Preprints
+<!-- ### Preprints -->
 
-- [Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
-  B. Kong, S. Zhu, S. Lu, X. Huang, K. Yuan
+<!--  - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
+  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp;  -->
 
-- [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
-  L. Liang, X. Huang, R. Xin, K. Yuan
-
-- [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
-  Y. Chen, L. Cao, K. Yuan, and Z. Wen
-
-- [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
-  Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan
-
-- [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
-  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp; 
-
-- [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
-  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin 
+<!--  - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
+  B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin -->
   
 <!-- - [Communicate then adapt: An effective decentralized adaptive method for deep training](https://openreview.net/forum?id=m716e-0clj&referrer=%5Bthe%20profile%20of%20Wotao%20Yin%5D(%2Fprofile%3Fid%3D~Wotao_Yin1)) <br>
   B. Ying, K. Yuan, Y. Chen, H. Hu, Y. Zhang, P. Pan, and W. Yin -->
   
-- [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
-  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan
+<!-- - [Decentralized composite optimization with compression](https://arxiv.org/abs/2108.04448) <br>
+  Y. Li, X. Liu, J. Tang, M. Yan, and K. Yuan -->
   
 <!-- - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
 ### 2024
+
+- SPARKLE: A Unified Single-Loop Primal-Dual  Framework for Decentralized Bilevel Optimization <br>
+  S. Zhu, B. Kong, S. Lu, X. Huang, and K. Yuan <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
+
+- [S3 Attention: Improving Long Sequence Attention with Smoothed Skeleton Sketching](https://www.arxiv.org/pdf/2408.08567) <br>
+  X. Wang, T. Zhou, J. Zhu, J. Liu, K. Yuan, T. Yao, W. Yin, R. Jin, H. Cai <br>
+  *IEEE Journal of Selected Topics in Signal Processing* <br> 
+
 - [Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858) <br>
   Y. He, J. Hu, X. Huang, S. Lu, B. Wang, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* <br>
@@ -58,8 +55,24 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   Z. Cheng , X. Huang, P. Wu, and K. Yuan <br>
   *International Conference on Learning Representations (ICLR)* <br>
 
+- [Decentralized Bilevel Optimization over Graphs: Loopless Algorithmic Update and Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
+  B. Kong, S. Zhu, S. Lu, X. Huang, K. Yuan <br>
+  *arXiv preprint: 2402.03167* <br>
+
+- [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
+  L. Liang, X. Huang, R. Xin, K. Yuan <br>
+  *arXiv preprint: 2312.04928* <br>
+
 
 ### 2023
+
+- [Sharper Convergence Guarantees for Federated Learning with Partial Model Personalization](https://arxiv.org/abs/2309.17409) <br>
+  Y. Chen, L. Cao, K. Yuan, and Z. Wen <br>
+  *arXiv preprint: 2309.17409* <br>
+
+- [Lower Bounds and Accelerated Algorithms in Distributed Stochastic Optimization with Communication Compression](https://arxiv.org/pdf/2305.07612.pdf) <br>
+  Y. He , X. Huang, Y. Chen, W. Yin, and K. Yuan <br>
+  *arXiv preprint: 2305.07612* <br>
 
 - [An Enhanced Gradient-Tracking Bound for Distributed Online Stochastic Convex Optimization](https://arxiv.org/abs/2301.02855) <br> 
   S. A. Alghunaim and K. Yuan <br>
