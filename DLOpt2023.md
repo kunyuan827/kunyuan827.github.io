@@ -4,7 +4,7 @@ permalink: "/dlopt2023/"
 layout: page
 ---
 
-## PKU Class 2023 Fall: Optimizaiton for Deep Learning (test)
+## PKU Class 2023 Fall: Optimizaiton for Deep Learning
 
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
