@@ -48,6 +48,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [10/2024] A new paper *[A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/pdf/2410.01700)* is now available on arXiv. In this work, we present the first learning-to-optimize framework that surpasses state-of-the-art hand-crafted decentralized algorithms.
+
 - [09/2024] One paper is accepted to NeurIPS 2024. Congratulations to my student Shuchen Zhu, Boao Kong, and all collaborators!
   * *SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization* <br>
 
