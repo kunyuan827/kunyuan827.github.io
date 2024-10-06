@@ -39,6 +39,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2024
 
+- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/pdf/2410.01700) <br>
+  Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
+  *arXiv preprint: 2410.01700v1* <br>
+
 - SPARKLE: A Unified Single-Loop Primal-Dual  Framework for Decentralized Bilevel Optimization <br>
   S. Zhu, B. Kong, S. Lu, X. Huang, and K. Yuan <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
