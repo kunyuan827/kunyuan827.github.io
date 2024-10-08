@@ -39,7 +39,10 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Part  II: Basics in Language models [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
 
 ### Lecture 3: Transformers <br>
-- Part   I: Transformers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf) <br> 
+- Part   I: Transformers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf) <br>
+- Part   II: BERT and GPTs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Bert_and_GPT.pdf)
+
+### Lecture 4: Parameters and Computations in Decoder-only LLMs <br>
 
 <!--
 ### Lecture 2: Gradient descent <br>
