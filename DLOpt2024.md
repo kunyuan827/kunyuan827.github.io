@@ -43,7 +43,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Part   II: BERT and GPTs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Bert_and_GPT.pdf)
 
 ### Lecture 4: Parameters and Computations in Decoder-only LLMs <br>
-- Parameters and computatoins analysis [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_Parameter_analysis.pdf)  <br>
+- Parameters and Computations analysis [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_Parameter_analysis.pdf)  <br>
 
 ### Lecture 5: Stochastic Gradient Descent <br>
 - Gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/05_GD.pdf)  <br>
