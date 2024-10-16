@@ -48,6 +48,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [10/2024] A new paper *[Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289)* is now available on arXiv. In this paper, we unexpectedly discover that GaLore does not always converge to the optimal solution and substantiate this finding with an explicit counterexample. We further propose a novel variant of GaLore that provably converges in stochastic optimization.
+
 - [10/2024] A new paper *[Enhancing Zeroth-Order Fine-Tuning for Language Models with Low-Rank Structures](https://arxiv.org/pdf/2410.07698)* is now available on arXiv. In this work, we propose a low-rank zeroth-order gradient estimator and introduces a novel low-rank ZO algorithm to effectively fine-tune LLMs. It outperforms MeZO significantly.
 
 - [10/2024] A new paper *[A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/pdf/2410.01700)* is now available on arXiv. In this work, we present the first learning-to-optimize framework that surpasses state-of-the-art hand-crafted decentralized algorithms.
