@@ -22,9 +22,6 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 <!-- ### Preprints -->
 
-<!--  - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
-  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu &emsp;  -->
-
 <!--  - [Bluefog: Make decentralized algorithms practical for optimization and deep learning](https://arxiv.org/abs/2111.04287) <br>
   B. Ying, K. Yuan, H. Hu, Y. Chen, and W. Yin -->
   
@@ -38,6 +35,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
 ### 2024
+
+- [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
+  M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu <br>
+  *IISE Transactions* <br>
 
 - [Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289) <br>
   Y. He, P. Li, Y. Hu, C. Chen, and K. Yuan <br>
