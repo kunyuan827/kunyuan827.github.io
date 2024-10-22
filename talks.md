@@ -3,6 +3,13 @@ title: ""
 permalink: "/talks/"
 layout: page
 ---
+
+MiLoDo[Guiyang].pdf
+- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MiLoDo[Guiyang].pdf) <br>
+  ORSC 2024  <br>
+  Guiyang, China
+  October, 2024 <br>
+
 - [Efficient Optimization for Deep Learning: Part I](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Opt4DL-PartI[Fudan].pdf) <br>
 [Adaptive SGD](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Adaptive_SGD_Fudan.pdf) <br>
   Fudan University, Shanghai, China  <br> 
