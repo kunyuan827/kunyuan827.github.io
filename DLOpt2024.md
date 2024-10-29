@@ -54,7 +54,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Sampling in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/07_SGD_sampling.pdf)
 - Stability in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/09_SGD_stability.pdf)
 
-### Lecture 6: Momentum SGD <br>
+### Lecture 7: Momentum SGD <br>
 - Accelerated gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
 - Momentum SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/10_ACC_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf) <br>
 
