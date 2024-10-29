@@ -49,7 +49,10 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/05_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Notes_GD.pdf)  <br>
 - Stochastic gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Notes_SGD.pdf)  <br>
 - Forward backward propagation [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Notes_FB_prop.pdf) <br>
+
+### Lecture 6: Advances in SGD <br>
 - Sampling in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/07_SGD_sampling.pdf)
+- Stability in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/09_SGD_stability.pdf)
 
 ### Lecture 6: Momentum SGD <br>
 - Accelerated gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) <br>
@@ -106,6 +109,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
     - Chi Jin et al., *[How to escape saddle points efficiently](https://proceedings.mlr.press/v70/jin17a.html)*, International conference on machine learning, 2017.
     - *[Student Notes: Convolutional Neural Networks (CNN) Introduction](https://indoml.com/2018/03/07/student-notes-convolutional-neural-networks-cnn-introduction/)*
     - Andrew Ng, *[Convolutional Neural Networks](https://www.bilibili.com/video/BV1BF411w7xQ/?spm_id_from=333.337.search-card.all.click)*
+
  
 ### Lecture 7: Stochastic gradient descent: sampling strategy and stability <br>
 
