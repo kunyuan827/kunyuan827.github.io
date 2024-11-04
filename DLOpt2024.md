@@ -63,6 +63,8 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 ### Lecture 8: Adaptive SGD <br>
 - AdaGrad; RMSProp; Adam [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
 
+### Midterm Exam: Good Luck :)
+
 <!--
 ### Lecture 2: Gradient descent <br>
 
