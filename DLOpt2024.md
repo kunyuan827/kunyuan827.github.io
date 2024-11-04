@@ -58,6 +58,9 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Accelerated gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
 - Momentum SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/10_ACC_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf) <br>
 
+### Lecture 8: Adaptive SGD <br>
+- AdaGrad; RMSProp; Adam [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
+
 <!--
 ### Lecture 2: Gradient descent <br>
 
