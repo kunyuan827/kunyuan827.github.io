@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [Subspace Optimization for Large Language Models with Convergence Guarantees](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/GoLore[NUS].pdf) <br>
+  The NUS-PKU-SJTU Workshop on  Data Science and Machine Learning  <br>
+  National University of Singapore, Singapore <br>
+  November, 2024 <br>
+
 - [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MiLoDo[Guiyang].pdf) <br>
   ORSC 2024  <br>
   Guiyang, China <br>
