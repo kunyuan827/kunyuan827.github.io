@@ -9,7 +9,7 @@ layout: page
   National University of Singapore, Singapore <br>
   November, 2024 <br>
 
-- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MiLoDo[Guiyang].pdf) <br>
+- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MiLoDo_Guiyang.pdf) <br>
   ORSC 2024  <br>
   Guiyang, China <br>
   October, 2024 <br>
