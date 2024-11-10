@@ -4,7 +4,7 @@ permalink: "/talks/"
 layout: page
 ---
 
-- [Subspace Optimization for Large Language Models with Convergence Guarantees](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/GoLore[NUS].pdf) <br>
+- [Subspace Optimization for Large Language Models with Convergence Guarantees](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/GoLore_NUS.pdf) <br>
   The NUS-PKU-SJTU Workshop on  Data Science and Machine Learning  <br>
   National University of Singapore, Singapore <br>
   November, 2024 <br>
