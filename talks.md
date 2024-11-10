@@ -28,19 +28,19 @@ layout: page
   Fudan University, Shanghai, China  <br> 
   June, 2024 <br>
 
-- [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Xiangtan].pdf) <br>
+<!-- - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Xiangtan].pdf) <br>
   The Chinese University of Hong Kong (CUHK), Online talk  <br> 
-  June, 2024 <br>
+  June, 2024 <br> -->
 
 - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Xiangtan].pdf) <br>
   International Workshop on Stochastic Optimization <br>
   Xiangtan, China  <br> 
   April, 2024 <br>
 
-- [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Jilin].pdf) <br>
+<!-- - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DecentOPT_over_digraphs[Jilin].pdf) <br>
   Seminar on Advancements in Optimization <br>
   Jilin, China  <br> 
-  April, 2024 <br>
+  April, 2024 <br> -->
 
 - [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/ICASSP2024.pdf) <br>
   IEEE International Conference on Acoustics, Speech and Signal Processing <br>
@@ -57,9 +57,9 @@ layout: page
   OIST, Okinawa, Japan  <br> 
   March, 2024 <br>
 
-- [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/column_digraphs.pdf) <br>
+<!--  - [Towards Decentralized Optimization over Digraphs: Effective metrics, lower bound, and optimal algorithms](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/column_digraphs.pdf) <br>
   Sun Yat-sen University, Guangzhou, China  <br> 
-  December, 2023 <br>
+  December, 2023 <br> -->
 
 - [Achieving Linear Speedup with Network-Independent Learning Rates in Decentralized Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Network_independent_learning_rate[CDC2023].pdf) <br>
   The 62nd IEEE Conference on Decision and Control, Singapore  <br> 
