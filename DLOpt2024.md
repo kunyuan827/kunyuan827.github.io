@@ -65,6 +65,14 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 
 ### Midterm Exam: Good Luck :)
 
+### Lecture 9: Mixed-Precision Training <br>
+- FP16; FP32; Mixed-Precision [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/13_mixed.pdf)
+
+### Lecture 10: Block Coordinate Descent <br>
+- Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
+- Block-wise training in LLMs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
+
+
 <!--
 ### Lecture 2: Gradient descent <br>
 
