@@ -72,6 +72,11 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
 - Block-wise training in LLMs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
 
+### Lecture 11: Subspace Optimization <br>
+- Subspace optimization; GaLore; GoLore [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/17_Subspace.pdf)
+
+### Lecture 12: Zeroth-order Optimization <br>
+- Finite difference; linear interpolation; sphere smoothing [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/16_ZO_GD.pdf)
 
 <!--
 ### Lecture 2: Gradient descent <br>
