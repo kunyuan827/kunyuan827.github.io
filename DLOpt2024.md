@@ -77,6 +77,11 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 
 ### Lecture 12: Zeroth-order Optimization <br>
 - Finite difference; linear interpolation; sphere smoothing [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/16_ZO_GD.pdf)
+- MeZO; LOZO [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/18_MeZO_LoZO.pdf)
+
+### Lecture 13: Distributed Optimization <br>
+- Data Parallelism; Pipeline Parallelism; Tensor Parallelism [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
+- Decentralized Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/20_Decentralized.pdf)
 
 <!--
 ### Lecture 2: Gradient descent <br>
