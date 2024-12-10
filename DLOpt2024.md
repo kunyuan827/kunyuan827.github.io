@@ -82,6 +82,10 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 ### Lecture 13: Distributed Optimization <br>
 - Data Parallelism; Pipeline Parallelism; Tensor Parallelism [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
 - Decentralized Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/20_Decentralized.pdf)
+- Communication Compression; Local Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/21_Local_Compressed.pdf)
+
+### Lecture 14: Flash Attention <br>
+- Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
 
 <!--
 ### Lecture 2: Gradient descent <br>
