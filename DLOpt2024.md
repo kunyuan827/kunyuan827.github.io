@@ -87,6 +87,12 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 ### Lecture 14: Flash Attention <br>
 - Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
 
+### Lecture 15: Fine-tuning <br>
+- Motivation; Adapter; LoRA; DoRA; LISA [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/23_fine_tune.pdf)
+
+### Lecture 16: Efficient inference <br>
+- KV Cache; Streaming LLM; Quest; vLLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/24_efficient_inference.pdf)
+
 <!--
 ### Lecture 2: Gradient descent <br>
 
