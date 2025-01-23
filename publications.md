@@ -34,6 +34,12 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 <!-- - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
+### 2025
+
+- [Enhancing Zeroth-Order Fine-Tuning for Language Models with Low-Rank Structures](https://arxiv.org/pdf/2410.07698) <br>
+  Y. Chen, Y. Zhang, L. Cao, K. Yuan, and Z. Wen <br>
+   *International Conference on Learning Representations (ICLR)* <br>
+
 ### 2024
 
 - [Heavy-Tail phenomenon in decentralized SGD](https://arxiv.org/abs/2205.06689) <br>
@@ -43,10 +49,6 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289) <br>
   Y. He, P. Li, Y. Hu, C. Chen, and K. Yuan <br>
   *arXiv preprint: 2410.11289* <br>
-
-- [Enhancing Zeroth-Order Fine-Tuning for Language Models with Low-Rank Structures](https://arxiv.org/pdf/2410.07698) <br>
-  Y. Chen, Y. Zhang, L. Cao, K. Yuan, and Z. Wen <br>
-  *arXiv preprint: 2410.07698* <br>
 
 - [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/pdf/2410.01700) <br>
   Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
