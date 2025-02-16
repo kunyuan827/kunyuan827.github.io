@@ -36,6 +36,14 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/pdf/2502.07222) <br>
+  Y. Chen, Y. Zhang, Y. Liu, K. Yuan, and Z. Wen <br>
+  *arXiv preprint: 2502.07222* <br>
+
+- [CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378) <br>
+  G. Chen, Y. He, Y. Hu, K. Yuan, and B. Yuan <br>
+  *arXiv preprint: 2502.01378* <br>
+
 - [Enhancing Zeroth-Order Fine-Tuning for Language Models with Low-Rank Structures](https://arxiv.org/pdf/2410.07698) <br>
   Y. Chen, Y. Zhang, L. Cao, K. Yuan, and Z. Wen <br>
    *International Conference on Learning Representations (ICLR)* <br>
