@@ -48,12 +48,18 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [02/2025] I will teach a course on *[Introduction to Foundation Models](./llm2025)* in Spring 2025.
+
+- [02/2025] I will server as an Area Chair for [NeurIPS 2025](https://neurips.cc/).
+
 - [02/2025] A new paper *[CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378)* is now available on arXiv. In this work, we propose a computation-efficient LoRA variant to enhance computational efficiency while preserving memory efficiency.
 
 - [02/2025] A new paper *[A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/pdf/2502.07222)* is now available on arXiv. In this work, we propose a Randomized Subspace Optimization framework for pre-training and fine-tuning LLMs with strong convergence guarantees.
 
 - [01/2025] One paper is accepted to ICLR 2025. Congratulations to all collaborators!
   * *[Enhancing Zeroth-Order Fine-Tuning for Language Models with Low-Rank Structures](https://arxiv.org/pdf/2410.07698)* <br>
+
+- [11/2024] I will server as an Area Chair for [ICML 2025](https://icml.cc/).
 
 - [10/2024] A new paper *[Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289)* is now available on arXiv. In this paper, we unexpectedly discover that GaLore does not always converge to the optimal solution and substantiate this finding with an explicit counterexample. We further propose a novel variant of GaLore that provably converges in stochastic optimization.
 
