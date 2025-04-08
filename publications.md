@@ -78,6 +78,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
   Y. He, J. Hu, X. Huang, S. Lu, B. Wang, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* <br>
 
+- [Asynchronous Diffusion Learning with Agent Subsampling and Local Updates](https://arxiv.org/abs/2402.05529) <br>
+Elsa Rizk, Kun Yuan, Ali H. Sayed <br>
+*The IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*
+
 - [Momentum Benefits Non-IID Federated Learning Simply and Provably](https://arxiv.org/pdf/2306.16504.pdf) <br>
   Z. Cheng , X. Huang, P. Wu, and K. Yuan <br>
   *International Conference on Learning Representations (ICLR)* <br>
