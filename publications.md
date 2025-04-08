@@ -36,6 +36,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179) <br>
+L. Yang, T. Tang, J. Li, K. Yuan, K. Wu, P. Chen, L. Wang, Y. Huang, L. Li, X. Zhang, K. Yu <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+
 - [A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/pdf/2502.07222) <br>
   Y. Chen, Y. Zhang, Y. Liu, K. Yuan, and Z. Wen <br>
   *arXiv preprint: 2502.07222* <br>
