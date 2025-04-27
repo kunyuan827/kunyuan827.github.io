@@ -36,6 +36,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
+  L. Liang, X. Huang, R. Xin, K. Yuan <br>
+  *SIAM Journal on Optimization* <br>
+
 - [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179) <br>
 L. Yang, T. Tang, J. Li, K. Yuan, K. Wu, P. Chen, L. Wang, Y. Huang, L. Li, X. Zhang, K. Yu <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
@@ -90,9 +94,7 @@ Elsa Rizk, Kun Yuan, Ali H. Sayed <br>
   B. Kong, S. Zhu, S. Lu, X. Huang, K. Yuan <br>
   *arXiv preprint: 2402.03167* <br>
 
-- [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
-  L. Liang, X. Huang, R. Xin, K. Yuan <br>
-  *arXiv preprint: 2312.04928* <br>
+
 
 
 ### 2023
