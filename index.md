@@ -48,6 +48,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [04/2025] Our paper *[Towards Better Understanding the Influence of Directed Networks on Decentralized Stochastic Optimization](https://arxiv.org/pdf/2312.04928.pdf)* has been accepted by SIAM Journal on Optimization. 
+
 - [02/2025] I will teach a course on *[Introduction to Foundation Models](./llm2025)* in Spring 2025.
 
 - [02/2025] I will server as an Area Chair for [NeurIPS 2025](https://neurips.cc/).
