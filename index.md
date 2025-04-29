@@ -3,23 +3,15 @@ layout: page
 title: ""
 ---
 
-<img src="/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/>
-<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/images/KunYuan.jpg" alt="kunyuan" align="left" width="200"/> -->
-<!-- <img src="https://github.com/kunyuan827/kunyuan827.github.io/blob/master/assets/KunYuan.jpeg" alt="kunyuan" align="left" width="200"/> -->
-
-<br>
-
-&emsp; &emsp; &emsp; **Kun Yuan (袁 坤)** 
-
-&emsp; &emsp; &emsp; Assistant Professor, Center for Machine Learning Research, Peking University
-
-<!-- &emsp; Decision Intelligence Lab, DAMO Academy, Alibaba Group -->
-
-&emsp; &emsp; &emsp; Email: kunyuan AT pku.edu.cn
-
-&emsp; &emsp; &emsp; CV / [Google scholar](https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en) 
-
-<br>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img src="/images/KunYuan.jpg" alt="kunyuan" style="width: 150px; height: auto; margin-right: 20px; margin-bottom: 10px;">
+  <div>
+    <strong>Kun Yuan (袁 坤)</strong><br>
+    Assistant Professor, Center for Machine Learning Research, Peking University<br>
+    Email: kunyuan AT pku.edu.cn<br>
+    <a href="CV">CV</a> / <a href="https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en">Google scholar</a>
+  </div>
+</div>
 
 I am an Assistant Professor at [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
 
