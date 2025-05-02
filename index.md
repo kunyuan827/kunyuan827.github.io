@@ -40,6 +40,13 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [04/2025] Five papers have been accepted to ICML 2025. Congratulations to all collaborators and students.
+  * *[Efficient Multi-Objective Learning under Preference Guidance: A First-Order Penalty Approach](https://arxiv.org/abs/2504.02854)* [Spotlight]
+  * *Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks* [Spotlight]
+  * *[Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289)*
+  * *[A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/abs/2502.07222)*
+  * *Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold*
+
 - [04/2025] Our paper *[Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf)* is accepted by SIAM Journal on Optimization. 
 
 - [02/2025] I will teach a course on *[Introduction to Foundation Models](./llm2025)* in Spring 2025.
