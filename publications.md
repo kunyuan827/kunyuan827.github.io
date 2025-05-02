@@ -36,6 +36,26 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289) <br>
+  Y. He, P. Li, Y. Hu, C. Chen, and K. Yuan <br>
+  *International Conference on Machine Learning (ICML)* <br>
+
+- [A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/pdf/2502.07222) <br>
+  Y. Chen, Y. Zhang, Y. Liu, K. Yuan, and Z. Wen <br>
+  *International Conference on Machine Learning (ICML)* <br>
+
+- Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold <br>
+  Y. Song, P. Li, B. Gao, and K. Yuan <br>
+  *International Conference on Machine Learning (ICML)* <br>
+
+- Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks <br>
+  L. Liang, G. Luo, X. Chen, and K. Yuan <br>
+  *International Conference on Machine Learning (ICML), <mark style="background-color: lightblue"> SPOTLIGHT </mark>* <br>
+
+- [Efficient Multi-Objective Learning under Preference Guidance: A First-Order Penalty Approach](https://arxiv.org/abs/2504.02854) <br>
+  L. Chen, Q. Xiao, E. H. Fukuda, X. Chen, K. Yuan, T. Chen <br>
+  *International Conference on Machine Learning (ICML), <mark style="background-color: lightblue"> SPOTLIGHT </mark>* <br>
+
 - [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
   L. Liang, X. Huang, R. Xin, K. Yuan <br>
   *SIAM Journal on Optimization* <br>
@@ -43,10 +63,6 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 - [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179) <br>
 L. Yang, T. Tang, J. Li, K. Yuan, K. Wu, P. Chen, L. Wang, Y. Huang, L. Li, X. Zhang, K. Yu <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
-
-- [A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/pdf/2502.07222) <br>
-  Y. Chen, Y. Zhang, Y. Liu, K. Yuan, and Z. Wen <br>
-  *arXiv preprint: 2502.07222* <br>
 
 - [CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378) <br>
   G. Chen, Y. He, Y. Hu, K. Yuan, and B. Yuan <br>
@@ -62,9 +78,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
   M. Gurbuzbalaban, Y. Hu, U. Simsekli, K. Yuan, and L. Zhu <br>
   *IISE Transactions* <br>
 
-- [Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289) <br>
-  Y. He, P. Li, Y. Hu, C. Chen, and K. Yuan <br>
-  *arXiv preprint: 2410.11289* <br>
 
 - [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/pdf/2410.01700) <br>
   Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
