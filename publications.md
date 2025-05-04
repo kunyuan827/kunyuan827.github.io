@@ -50,11 +50,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks <br>
   L. Liang, G. Luo, X. Chen, and K. Yuan <br>
-  *International Conference on Machine Learning (ICML),  <mark style="background-color: lightblue"> SPOTLIGHT </mark>* <br>
+  *International Conference on Machine Learning (ICML), &nbsp; <span style="color:red">[Spotlight]</span>
 
 - [Efficient Multi-Objective Learning under Preference Guidance: A First-Order Penalty Approach](https://arxiv.org/abs/2504.02854) <br>
   L. Chen, Q. Xiao, E. H. Fukuda, X. Chen, K. Yuan, and T. Chen <br>
-  *International Conference on Machine Learning (ICML),  <mark style="background-color: lightblue"> SPOTLIGHT </mark>* <br>
+  *International Conference on Machine Learning (ICML), &nbsp; <span style="color:red">[Spotlight]</span>
 
 - [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
   L. Liang, X. Huang, R. Xin, K. Yuan <br>
