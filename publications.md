@@ -50,11 +50,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks <br>
   L. Liang, G. Luo, X. Chen, and K. Yuan <br>
-  *International Conference on Machine Learning (ICML), &nbsp; <span style="color:red">[Spotlight]</span>
+  *International Conference on Machine Learning (ICML)* &nbsp; <span style="color:red">Spotlight</span>
 
 - [Efficient Multi-Objective Learning under Preference Guidance: A First-Order Penalty Approach](https://arxiv.org/abs/2504.02854) <br>
   L. Chen, Q. Xiao, E. H. Fukuda, X. Chen, K. Yuan, and T. Chen <br>
-  *International Conference on Machine Learning (ICML), &nbsp; <span style="color:red">[Spotlight]</span>
+  *International Conference on Machine Learning (ICML)* &nbsp; <span style="color:red">Spotlight</span>
 
 - [Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf) <br>
   L. Liang, X. Huang, R. Xin, K. Yuan <br>
@@ -62,7 +62,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179) <br>
 L. Yang, T. Tang, J. Li, K. Yuan, K. Wu, P. Chen, L. Wang, Y. Huang, L. Li, X. Zhang, K. Yu <br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence <br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <br>
 
 - [CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378) <br>
   G. Chen, Y. He, Y. Hu, K. Yuan, and B. Yuan <br>
