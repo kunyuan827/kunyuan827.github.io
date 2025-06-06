@@ -44,11 +44,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   Y. Chen, Y. Zhang, Y. Liu, K. Yuan, and Z. Wen <br>
   *International Conference on Machine Learning (ICML)* <br>
 
-- Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold <br>
+- [Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold](https://arxiv.org/abs/2506.02879) <br>
   Y. Song, P. Li, B. Gao, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* <br>
 
-- Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks <br>
+- [Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks](http://arxiv.org/abs/2506.04600) <br>
   L. Liang, G. Luo, X. Chen, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* &nbsp; <span style="color:red">Spotlight</span>
 
