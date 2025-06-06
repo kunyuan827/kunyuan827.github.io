@@ -42,10 +42,10 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 - [05/2025] The following papers are accepted to ICML 2025. Congratulations to all collaborators and students.
   * *[Efficient Multi-Objective Learning under Preference Guidance: A First-Order Penalty Approach](https://arxiv.org/abs/2504.02854)* <span style="color:red">[Spotlight]</span>
-  * *Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks* <span style="color:red">[Spotlight]</span>
+  * *[Achieving Linear Speedup and Optimal Complexity for Decentralized Optimization over Row-stochastic Networks](http://arxiv.org/abs/2506.04600)* <span style="color:red">[Spotlight]</span>
   * *[Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289)*
   * *[A Memory Efficient Randomized Subspace Optimization Method for Training Large Language Models](https://arxiv.org/abs/2502.07222)*
-  * *Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold*
+  * *[Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold](https://arxiv.org/abs/2506.02879)*
 
 - [04/2025] Our paper *[Understanding the Influence of Digraphs on Decentralized Optimization: Effective Metrics, Lower Bound, and Optimal Algorithm](https://arxiv.org/pdf/2312.04928.pdf)* is accepted by SIAM Journal on Optimization. 
 
