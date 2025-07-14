@@ -36,6 +36,14 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/pdf/2507.08784) <br>
+  C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
+  *arXiv preprint: 2507.08784* <br>
+
+- [On the Linear Speedup of the Push-Pull Method for Decentralized Optimization over Digraphs](https://arxiv.org/pdf/2506.18075) <br>
+  L. Liang, G. Luo, and K. Yuan <br>
+  *arXiv preprint: 2506.18075* <br>
+
 - [Subspace Optimization for Large Language Models with Convergence Guarantees](https://arxiv.org/pdf/2410.11289) <br>
   Y. He, P. Li, Y. Hu, C. Chen, and K. Yuan <br>
   *International Conference on Machine Learning (ICML)* <br>
