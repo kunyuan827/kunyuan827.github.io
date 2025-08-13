@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="/images/KunYuan.jpg" alt="kunyuan" style="width: 150px; height: auto; margin-right: 20px; margin-bottom: 10px;">
+  <img src="/images/kun_homepage.jpg" alt="kunyuan" style="width: 150px; height: auto; margin-right: 20px; margin-bottom: 10px;">
   <div>
     <strong>Kun Yuan (袁 坤)</strong><br>
     Assistant Professor, Center for Machine Learning Research, Peking University<br>
