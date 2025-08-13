@@ -4,6 +4,10 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/SPARKLE.pdf) <br>
+  Great Bay University, Dongguan, China <br>
+  August, 2025 <br>
+
 - [A Memory Efficient Subspace Optimization Method for Training Large Language Models](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Yuan_RSO_PKU.pdf) <br>
   PKU Workshop on Optimization Theory and Methods  <br>
   Peking University, Beijing, China <br>
