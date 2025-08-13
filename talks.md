@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [A Memory Efficient Subspace Optimization Method for Training Large Language Models](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/Yuan_RSO_PKU.pdf) <br>
+  PKU Workshop on Optimization Theory and Methods  <br>
+  Peking University, Beijing, China <br>
+  June, 2025 <br>
+
 - [Subspace Optimization for Large Language Models with Convergence Guarantees](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/GoLore_NUS.pdf) <br>
   The NUS-PKU-SJTU Workshop on  Data Science and Machine Learning  <br>
   National University of Singapore, Singapore <br>
