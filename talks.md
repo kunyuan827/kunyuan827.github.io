@@ -4,7 +4,7 @@ permalink: "/talks/"
 layout: page
 ---
 
-- [Memeory Efficient Structures and Methods For LLMs Pre-Training (面向显存优化的大模型训练新方法)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MemoryEfficientLLMs.pdf) <br>
+- [Memeory Efficient Pre-Training For LLMs (面向显存优化的大模型训练新方法)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MemoryEfficientLLMs.pdf) <br>
   Shenzhen, China <br>
   August, 2025 <br>
 
