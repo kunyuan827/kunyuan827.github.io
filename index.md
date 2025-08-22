@@ -40,6 +40,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [08/2025] We have a 90-min tutorial talk on our recent results for memory-efficient LLM pre-training. Slides are [here](./talks).
+
 - [07/2025] Our new paper, *[Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/pdf/2507.08784)*, is now available on arXiv. In this work, we propose **GreedyLore**—the first greedy low-rank gradient compression algorithm for distributed learning with rigorous convergence guarantees.
 
 - [06/2025] Our new paper, *[On the Linear Speedup of the Push-Pull Method for Decentralized Optimization over Digraphs](https://arxiv.org/pdf/2506.18075)*, is now available on arXiv. In this work, we establish for the first time that the Push-Pull method can achieve linear speedup in iteration complexity over directed graphs.
