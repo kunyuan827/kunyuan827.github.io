@@ -4,7 +4,7 @@ permalink: "/dlopt2025/"
 layout: page
 ---
 
-## PKU Class 2025 Fall: Optimizaiton in Deep Learning
+## PKU Class 2025 Fall: Optimizaiton for Deep Learning
 
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
@@ -20,8 +20,8 @@ Office hour: 4pm - 5pm Thursday, 静园六院220
 ## References
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
 Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/courses/cs6787/2021fa/)*, Cornell CS6787 <br>
-Zaiwen Wen, *[Optimization Methods](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)*, PKU <br>
-Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU
+Zaiwen Wen, *[Optimization Methods](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)*, PKU 2024 Fall<br>
+Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 2025 Spring
 
 ## Announcement
 
