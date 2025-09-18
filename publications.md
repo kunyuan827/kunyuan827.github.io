@@ -36,6 +36,18 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization <br>
+  R. Hu, Y. He, R. Yan, M. Sun, B. Yuan, and K. Yuan <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
+
+- MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling <br>
+  Y. Liu, R. Deng, Y. He, X. Wang, T. Yao, and K. Yuan <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
+
+- Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads <br>
+  Z. Wu, Y. Zhang, Y. Dong, C. Zhang, C. Fang, K. Yuan, and Z. Lin <br>
+  *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
+  
 - [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/pdf/2507.08784) <br>
   C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
   *arXiv preprint: 2507.08784* <br>
