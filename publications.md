@@ -52,6 +52,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
   *arXiv preprint: 2507.08784* <br>
 
+- [On the Trade-off between Flatness and Optimization in Distributed Learning](https://arxiv.org/pdf/2406.20006) <br>
+  Y. Cao, Z. Wu, K. Yuan, and A. H. Sayed <br>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* <br>
+
 - [On the Linear Speedup of the Push-Pull Method for Decentralized Optimization over Digraphs](https://arxiv.org/pdf/2506.18075) <br>
   L. Liang, G. Luo, and K. Yuan <br>
   *arXiv preprint: 2506.18075* <br>
