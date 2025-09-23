@@ -4,7 +4,12 @@ permalink: "/talks/"
 layout: page
 ---
 
-- [Memeory Efficient Pre-Training For LLMs (面向显存优化的大模型训练新方法)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MemoryEfficientLLMs.pdf) <br>
+- [A Single-Loop Decentralized Bilevel Algorithm with Transient Complexity Analysis](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/DSOBA%5BEUSIPCO%202025%5D.pdf) <br>
+  EUSIPCO 2025 <br>
+  Palermo, Italy <br>
+  September, 2025 <br>
+
+- [Memeory Efficient Pre-Training For LLMs (面向显存优化的大模型训练新方法)](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/talk/MemoryEfficientLLMs.pdf) [90mins] <br>
   Shenzhen, China <br>
   August, 2025 <br>
 
