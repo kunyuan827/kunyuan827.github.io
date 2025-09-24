@@ -36,11 +36,11 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
-- [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/pdf/2509.18993) <br>
+- [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993) <br>
   B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
   *arXiv preprint: 2509.18993* <br>
 
-- [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/pdf/2509.19029) <br>
+- [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/abs/2509.19029) <br>
   B. Kong, X. Huang, Y. Xu, Y. Liang, B. Wang, and K. Yuan <br>
   *arXiv preprint: 2509.19029* <br>
 
