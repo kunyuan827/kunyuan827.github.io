@@ -40,6 +40,10 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [09/2025] Our new paper, [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993), is online now. It introduces CR-Net, a cross-layer low-rank residual network for efficient LLM pre-training. By exploiting low-rank activation residuals, CR-Net outperforms state-of-the-art low-rank methods while cutting parameters, compute, and memory usage.
+
+- [09/2025] Our new paper, [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/abs/2509.19029), is online now. It introduces Clapping, a communication-efficient algorithm for pipeline-parallel distributed optimization. By reusing data through lazy sampling, Clapping overcomes the sample-wise memory barrier, achieves convergence without unbiased gradient assumptions, and delivers strong accuracy–efficiency trade-offs across diverse learning tasks.
+
 - [09/2025] The following papers are accepted to NeurIPS 2025. Congratulations to all collaborators and students.
   * MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization
   * Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads 
