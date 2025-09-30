@@ -43,7 +43,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Part II: Parameters, Computations, and Memory Costs in Transformer [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_Parameter_analysis.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/12_memory_analysis.pdf)
 
 ### Lecture 4: Some LLM Models <br>
-- Teacher forcing; Pretrain and Finetuning; BERT; GPTs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Bert_and_GPT.pdf)
+- Teacher forcing; Pretrain and Finetuning; BERT; GPTs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/11_Bert_and_GPT.pdf)
 - DeepSeek [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
 
 ### Lecture 5: Gradient descent <br>
