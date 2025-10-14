@@ -46,6 +46,9 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Teacher forcing; Pretrain and Finetuning; BERT; GPTs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/11_Bert_and_GPT.pdf)
 - DeepSeek [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
 
-### Lecture 5: Gradient descent <br>
+### Lecture 5: Gradient Descent <br>
 - Convex set; Convex functions; Convex problems; Gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_1.pdf)
 - Forward-backward propagation [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_2.pdf)
+
+### Lecture 6: Accelerated Gradient Descent <br>
+- Momentum gradient descent; Nesterov acceleration; Anderson acceleration [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
