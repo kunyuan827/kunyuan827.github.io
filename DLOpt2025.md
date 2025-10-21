@@ -52,3 +52,8 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 
 ### Lecture 6: Accelerated Gradient Descent <br>
 - Momentum gradient descent; Nesterov acceleration; Anderson acceleration [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
+
+### Lecture 7: Stochastic Gradient Descent <br>
+- Stochastic gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Notes_SGD.pdf)  <br>
+- Sampling in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/07_SGD_sampling.pdf)
+- Stability in SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/09_SGD_stability.pdf)
