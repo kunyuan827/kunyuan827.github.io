@@ -45,8 +45,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 - [09/2025] Our new paper, [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/abs/2509.19029), is online now. It introduces Clapping, a communication-efficient algorithm for pipeline-parallel distributed optimization. By reusing data through lazy sampling, Clapping overcomes the sample-wise memory barrier, achieves convergence without unbiased gradient assumptions, and delivers strong accuracy–efficiency trade-offs across diverse learning tasks.
 
 - [09/2025] The following papers are accepted to NeurIPS 2025. Congratulations to all collaborators and students.
-  * MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization
-  * Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads 
+  * [MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization](https://arxiv.org/abs/2510.16415)
+  * [Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads](https://www.arxiv.org/abs/2510.16807) 
   * MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling
 
 - [08/2025] We have a 90-min tutorial talk on our recent results for memory-efficient LLM pre-training. Slides are [here](./talks).
