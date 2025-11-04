@@ -36,6 +36,14 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration](https://arxiv.org/abs/2410.16561) <br>
+  T. Sun, X. Liu, and K. Yuan <br>
+  *Journal of Machine Learning Research*
+
+- [Optimal Complexity in Byzantine-Robust Distributed Stochastic Optimization with Data Heterogeneity](https://arxiv.org/abs/2503.16337)<br>
+  Q. Shi, J. Peng, K. Yuan, X. Wang, and Q. Ling <br>
+  *Journal of Machine Learning Research*
+
 - [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993) <br>
   B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
   *arXiv preprint: 2509.18993* <br>
