@@ -47,7 +47,7 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 - [09/2025] The following papers are accepted to NeurIPS 2025. Congratulations to all collaborators and students.
   * [MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization](https://arxiv.org/abs/2510.16415)
   * [Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads](https://www.arxiv.org/abs/2510.16807) 
-  * MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling
+  * [MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://openreview.net/forum?id=yISJGSdzdd)
 
 - [08/2025] We have a 90-min tutorial talk on our recent results for memory-efficient LLM pre-training. Slides are [here](./talks).
 
