@@ -44,15 +44,15 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
   B. Kong, X. Huang, Y. Xu, Y. Liang, B. Wang, and K. Yuan <br>
   *arXiv preprint: 2509.19029* <br>
 
-- MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization <br>
+- [MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization](https://arxiv.org/abs/2510.16415) <br>
   R. Hu, Y. He, R. Yan, M. Sun, B. Yuan, and K. Yuan <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
 
-- MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling <br>
+- [MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://openreview.net/forum?id=yISJGSdzdd) <br>
   Y. Liu, R. Deng, Y. He, X. Wang, T. Yao, and K. Yuan <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
 
-- Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads <br>
+- [Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads](https://www.arxiv.org/abs/2510.16807) <br>
   Z. Wu, Y. Zhang, Y. Dong, C. Zhang, C. Fang, K. Yuan, and Z. Lin <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
   
