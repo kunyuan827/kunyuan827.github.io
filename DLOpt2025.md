@@ -65,3 +65,12 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 8: Momentum and Adaptive SGD <br>
 - Momentum SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/10_ACC_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf) <br>
 - AdaGrad; RMSProp; Adam [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
+
+### Lecture 9: Midterm <br>
+
+### Lecture 10: FlashAttention <br>
+- Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
+
+### Lecture 11: Block Coordinate Descent <br>
+- Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
+- Block-wise training in LLMs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
