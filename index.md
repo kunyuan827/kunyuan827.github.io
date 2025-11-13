@@ -40,7 +40,8 @@ I was the recipient of the *2017 IEEE Signal Processing Society Young Author Bes
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
-- [11/2025] The following two papers are accepted to Journal of Machine Learning Research. Congratulations to all collaborators.
+- [11/2025] The following papers are accepted to Journal of Machine Learning Research. Congratulations to all students and collaborators.
+  * *[Decentralized Bilevel Optimization: A Perspective from Transient Iteration Complexity](https://arxiv.org/abs/2402.03167)*
   * *[Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration](https://arxiv.org/abs/2410.16561)*
   * *[Optimal Complexity in Byzantine-Robust Distributed Stochastic Optimization with Data Heterogeneity](https://arxiv.org/abs/2503.16337)*
 
