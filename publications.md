@@ -74,7 +74,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - [On the Trade-off between Flatness and Optimization in Distributed Learning](https://arxiv.org/pdf/2406.20006) <br>
   Y. Cao, Z. Wu, K. Yuan, and A. H. Sayed <br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* <br>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* <br>
 
 - [On the Linear Speedup of the Push-Pull Method for Decentralized Optimization over Digraphs](https://arxiv.org/pdf/2506.18075) <br>
   L. Liang, G. Luo, and K. Yuan <br>
@@ -106,7 +106,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 - [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179) <br>
 L. Yang, T. Tang, J. Li, K. Yuan, K. Wu, P. Chen, L. Wang, Y. Huang, L. Li, X. Zhang, K. Yu <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* <br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* <br>
 
 - [CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378) <br>
   G. Chen, Y. He, Y. Hu, K. Yuan, and B. Yuan <br>
