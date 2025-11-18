@@ -76,5 +76,10 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Block-wise training in LLMs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
 
 ### Lecture 12: Zeroth-Order Optimization <br>
-- Finite difference; linear interpolation; sphere smoothing [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/ZO_GD.pdf)
-- Memory-efficient zeroth-order optimization; Low-rank zeroth-order optimization [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/2025_LOZO.pdf)
+- Finite difference; linear interpolation; sphere smoothing [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/ZO_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Notes_ZO.pdf)
+- Memory-efficient zeroth-order optimization; Low-rank zeroth-order optimization [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/2025_LOZO.pdf)
+
+### Lecture 13: Distributed Optimization <br>
+- Data Parallelism; Pipeline Parallelism; Tensor Parallelism [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
+- Decentralized Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/20_Decentralized.pdf)
+- Communication Compression; Local Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/21_Local_Compressed.pdf)
