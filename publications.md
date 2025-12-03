@@ -37,7 +37,7 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 ### 2025
 
 - [Decentralized Bilevel Optimization: A Perspective from Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
-  Boao Kong, Shuchen Zhu, Songtao Lu, Xinmeng Huang, and Kun Yuan <br>
+  B. Kong, S. Zhu, S. Lu, X. Huang, and K. Yuan <br>
   *Journal of Machine Learning Research (JMLR)*
 
 - [Revisiting Gradient Normalization and Clipping for Nonconvex SGD under Heavy-Tailed Noise: Necessity, Sufficiency, and Acceleration](https://arxiv.org/abs/2410.16561) <br>
