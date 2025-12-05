@@ -36,6 +36,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2025
 
+- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700) <br>
+ Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
+ *IEEE Transactions on Signal Processing*
+
 - [Decentralized Bilevel Optimization: A Perspective from Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
   B. Kong, S. Zhu, S. Lu, X. Huang, and K. Yuan <br>
   *Journal of Machine Learning Research (JMLR)*
