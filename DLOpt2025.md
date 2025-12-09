@@ -93,3 +93,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 14: Mixed-Precision Training <br>
 - FP16; FP32; Mixed-Precision [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/13_mixed.pdf)
 - FP8; NVFP4 [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/mixed_precision_training_FP8.pdf)
+
+### Lecture 15: Advanced Optimizers <br>
+- Memory-efficient Optimizers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/GoLore+RSO_compressed.pdf)
+- Shampoo; SOAP; Muon
