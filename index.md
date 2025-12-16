@@ -9,7 +9,7 @@ title: ""
     <strong>Kun Yuan (袁 坤)</strong><br>
     Assistant Professor, Center for Machine Learning Research, Peking University<br>
     Email: kunyuan AT pku.edu.cn<br>
-    <a href="https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/Kun_CV.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en">Google scholar</a>
+    <a href="https://kunyuan827.github.io/resources/Kun_CV.pdf" target="_blank">CV</a> / <a href="https://scholar.google.com/citations?user=aMnHLz4AAAAJ&hl=en">Google scholar</a>
   </div>
 </div>
 
