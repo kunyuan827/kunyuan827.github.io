@@ -96,7 +96,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 
 ### Lecture 15: Advanced Optimizers <br>
 - Memory-efficient Optimizers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/GoLore+RSO_compressed.pdf)
-- Shampoo; SOAP; Muon
+- Adafactor; Adam-mini; Shampoo; SOAP; Muon  [[Slides]](https://kunyuan827.github.io/teaching/DLOpt2025/AdvancedOpt.pdf)
 
 ### Lecture 16: Efficient Fine-tuning and Inference <br>
 - Motivation; Adapter; LoRA; DoRA; LISA [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/23_fine_tune.pdf)
