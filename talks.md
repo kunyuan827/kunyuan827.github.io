@@ -4,8 +4,6 @@ permalink: "/talks/"
 layout: page
 ---
 
-MemoryEfficientLLM_MS.pdf
-
 - [Memory-Efficient LLM Training via Implicit Structures](https://kunyuan827.github.io/resources/talk/MemoryEfficientLLM_MS.pdf) <br>
   [Microsoft Research Asia ACE Talk](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-ace-talk/) <br>
   Microsoft Research Asia, Beijing, China <br>
