@@ -40,7 +40,7 @@ I was the recipient of the 2025 IEEE CloudCom Distinguished Paper Award,  the 20
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
-- [01/2026] Very honored to give an one-hour talk at [Microsoft Research Asia ACE Talk](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-ace-talk/) on [Memory-Efficient LLM Training via Implicit Structures](https://kunyuan827.github.io/resources/talk/MemoryEfficientLLM_MS.pdf).
+- [01/2026] Very honored to give an one-hour talk at [Microsoft Research Asia ACE Talk](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-ace-talk/invited-speakers/) on [Memory-Efficient LLM Training via Implicit Structures](https://kunyuan827.github.io/resources/talk/MemoryEfficientLLM_MS.pdf).
 
 - [12/2025] Our paper, *[A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700)*,
  is accepted to IEEE Transactions on Signal Processing. Congratulations to all students and collaborators.
