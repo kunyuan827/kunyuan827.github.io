@@ -4,18 +4,15 @@ permalink: "/llmopt2026/"
 layout: page
 ---
 
-## PKU Class 2025 Fall: Optimizaiton for Deep Learning
+## Lectures 2026: Optimization for Large Language Models
 
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
-Teaching assistants: 
-- **Yilong Song** (2301213059@pku.edu.cn) [Leading Teaching Assistant] <br> 
-- **Mian Xiao** (xiaom@stu.pku.edu.cn) <br>
-- **Ruoxi Yu** (2301111452@stu.pku.edu.cn) <br>
+This is a 10-hour intensive course on Optimization for Large Language Models. I would like to express my sincere gratitude to the [Operations Research Society of China](https://www.orsc.org.cn/article/detail?id=1007) for the invitation and excellent organization.
 
-Classroom: 3pm - 6pm Tuesday, 理教206
+Classroom: To be announced
 
-Office hour: 4pm - 5pm Thursday, 静园六院220
+Time: To be annouced
 
 ## References
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
@@ -23,23 +20,40 @@ Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/cou
 Zaiwen Wen, *[Optimization Methods](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)*, PKU 2024 Fall<br>
 Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 2025 Spring
 
-## Announcement
-
-<!--
-3. <span style="background-color:#f9f9c5;">The lecture scheduled for December 2 has been canceled. We will make it up on December 11, from 6:40 p.m. to 9:30 p.m., in Room 403 of the Third Teaching Building (三教403)
--->
-
-1. <span style="background-color:#f9f9c5;">The lecture scheduled for November 25 has been canceled. It will be rescheduled for November 28, from 3:10 p.m. to 6:00 p.m., in Room 403 of the Third Teaching Building (三教403).</span>
-
-2. <span style="background-color:#f9f9c5;">The Midterm Exam is scheduled on November 4.</span>
-
-3. <span style="background-color:#f9f9c5;">The lecture scheduled for October 28 has been canceled. It will be rescheduled for October 31, from 3:10 p.m. to 6:00 p.m., in Room 理教306.</span>
-
-4. <span style="background-color:#f9f9c5;">The lecture scheduled for September 9 has been canceled. It will be rescheduled for September 18, from 6:40 p.m. to 9:30 p.m., in Room 407 of the Third Teaching Building (三教407).</span>
 
 ## Materials
 
-### Lecture 1: Introduction <br>
+### Lecture 1: Gradient Descent <br>
+- Introduction; Gradient Descent; Forward-Backward Splitting [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_2.pdf)
+
+### Lecture 2: Stochastic Gradient Descent <br>
+- SGD; Momentum SGD; Adaptive SGD [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
+
+### Lecture 3: LLM Foundations - Part I
+- Word embedding; Language Models; RNN; Seq2Seq [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/02_MLBasics.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
+
+### Lecture 4: LLM Foundations - Part II
+- Attention; Transformers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf)
+
+### Lecture 5: Costs in LLM Pre-Training
+- Parameters, Computations, and Memory Costs [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_Parameter_analysis.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/12_memory_analysis.pdf)
+
+### Lecture 6: Perturbed SGD and Mixed-Precision Training
+- Perturbed SGD; Mixed-Precision Training [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/13_mixed.pdf)
+
+### Lecture 7: Coordinate Descent and Layer-wise Training
+- Coordinate Descent; Layer-wise Training; LISA; BAdam; MISA [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
+
+### Lecture 8: Subspace Optimization and Low-Rank Training
+- Subspace Optimization; Low-rank gradient projection
+
+### Lecture 9: Zeroth-order Optimization and Activation-Free LLM Training
+- Zeros-Order Optimization; MeZO; LoZO [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/ZO_GD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/2025_LOZO.pdf)
+
+### Lecture 10: Distributed Optimization for LLM Training
+- Distributed SGD; Decentralized SGD; Local SGD; Communication Compression [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/20_Decentralized.pdf) [[Slides03]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/21_Local_Compressed.pdf)
+
+<!-- 
 - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br>
 - Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) <br> 
 - Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Intro2.pdf)
@@ -104,3 +118,4 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 
 ### Lecture 17: Efficient Attention <br>
 - Mixture of Block Attention (MOBA); Natively Trainable Sparse Attention (NSA); Kernelized Attention; Linear Attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/EfficientAttn.pdf)
+-->
