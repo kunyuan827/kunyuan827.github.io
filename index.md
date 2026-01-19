@@ -23,6 +23,8 @@ Before joining Peking University, I was a staff algorithm engineer in the [Decis
 
 I was the recipient of the 2025 IEEE CloudCom Distinguished Paper Award,  the 2017 IEEE Signal Processing Society Young Author Best Paper Award (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the 2017 ICCM Distinguished Paper Award.
 
+I currently serve as an Associate Editor for IEEE Transactions on Signal Processing and an Area Chair for both NeurIPS and ICML.
+
 <mark> We are hiring PostDocs and Undergraduate Research Interns!!! </mark> <br> 
 
 <mark> Drop me an email if you are interested in machine learning, optimization, and AI systems. </mark> <br> 
@@ -39,6 +41,10 @@ I was the recipient of the 2025 IEEE CloudCom Distinguished Paper Award,  the 20
 <!-- - <mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br> -->
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
+
+- [01/2026] I will teach an intensive course on [Optimization for Large Language Models](https://kunyuan827.github.io/llmopt2026/). I would like to express my sincere gratitude to the [Operations Research Society of China](https://www.orsc.org.cn/article/detail?id=1007) for the invitation and excellent organization.
+
+- [01/2026] I will serve as an Associate Editor for IEEE Transactions on Signal Processing. 
 
 - [01/2026] Very honored to give an one-hour talk at [Microsoft Research Asia ACE Talk](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-ace-talk/invited-speakers/) on [Memory-Efficient LLM Training via Implicit Structures](https://kunyuan827.github.io/resources/talk/MemoryEfficientLLM_MS.pdf).
 
