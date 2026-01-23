@@ -18,13 +18,13 @@ Time: To be annouced
 Martin Jaggi and Nicolas Flammarion, *[Optimization for Machine Learning](https://github.com/epfml/OptML_course)*, EPFL Class CS-439 <br>
 Chris De Sa, *[Advanced Machine Learning Systems](https://www.cs.cornell.edu/courses/cs6787/2021fa/)*, Cornell CS6787 <br>
 Zaiwen Wen, *[Optimization Methods](http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2024-fall.html)*, PKU 2024 Fall<br>
-Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 2025 Spring
+Kun Yuan, *[Introduction to Large Language Models](https://kunyuan827.github.io/llm2025/)*, PKU 2025 Spring
 
 
 ## Materials
 
 ### Lecture 1: Gradient Descent <br>
-- Introduction; Gradient Descent; Forward-Backward Splitting [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_2.pdf)
+- Introduction; Gradient Descent; Forward-Backward Propagation [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_2.pdf)
 
 ### Lecture 2: Stochastic Gradient Descent <br>
 - SGD; Momentum SGD; Adaptive SGD [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
