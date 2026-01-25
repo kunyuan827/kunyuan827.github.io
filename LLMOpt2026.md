@@ -45,7 +45,7 @@ Kun Yuan, *[Introduction to Large Language Models](https://kunyuan827.github.io/
 - Coordinate Descent; Layer-wise Training; LISA; BAdam; MISA [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
 
 ### Lecture 8: Subspace Optimization and Low-Rank Training
-- Subspace Optimization; Low-rank gradient projection
+- Subspace Optimization; Low-rank gradient projection [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/17_Subspace.pdf)
 
 ### Lecture 9: Zeroth-order Optimization and Activation-Free LLM Training
 - Zeros-Order Optimization; MeZO; LoZO [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/ZO_GD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/2025_LOZO.pdf)
