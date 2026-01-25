@@ -30,7 +30,7 @@ Kun Yuan, *[Introduction to Large Language Models](https://kunyuan827.github.io/
 - SGD; Momentum SGD; Adaptive SGD [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
 
 ### Lecture 3: LLM Foundations - Part I
-- Word embedding; Language Models; RNN; Seq2Seq [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/02_MLBasics.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
+- Word embedding; Language Models; RNN; Seq2Seq [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
 
 ### Lecture 4: LLM Foundations - Part II
 - Attention; Transformers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf)
