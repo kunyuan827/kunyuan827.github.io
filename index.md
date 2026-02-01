@@ -42,6 +42,9 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [01/2026] Our paper, *[CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993)*,
+ is accepted to International Conference on Learning Representations. Congratulations to all students and collaborators.
+
 - [01/2026] I will teach an intensive course on [Optimization for Large Language Models](https://kunyuan827.github.io/llmopt2026/). I would like to express my sincere gratitude to the [Operations Research Society of China](https://www.orsc.org.cn/article/detail?id=1007) for the invitation and excellent organization.
 
 - [01/2026] I will serve as an Associate Editor for IEEE Transactions on Signal Processing. 
