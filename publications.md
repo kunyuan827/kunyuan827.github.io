@@ -34,9 +34,15 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 <!-- - [ODE analysis of stochastic gradient methods with optimism and anchoring for minimax problems](https://arxiv.org/abs/1905.10899) <br>
   E. K. Ryu, K. Yuan, and W. Yin -->
 
+### 2026
+
+- [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993) <br>
+B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
+*International Conference on Learning Representations (ICLR)* <br>
+
 ### 2025
 
-- [A Mathematics-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700) <br>
+- [A Convergence-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700) <br>
  Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
  *IEEE Transactions on Signal Processing*
 
