@@ -36,6 +36,10 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
+-  [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784) <br>
+C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
+*IEEE Transactions on Signal Processing*
+
 - [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993) <br>
 B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 *International Conference on Learning Representations (ICLR)* <br>
