@@ -42,6 +42,9 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [02/2026] Our paper, *[Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784)*,
+ is accepted to IEEE Transactions on Signal Processing. Congratulations to all our students.
+
 - [01/2026] Our paper, *[CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993)*,
  is accepted to International Conference on Learning Representations. Congratulations to all students and collaborators.
 
