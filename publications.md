@@ -36,9 +36,13 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
+- [Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483) <br>
+L. Liang, Y. Song, and K. Yuan <br>
+*arXiv preprint: 2512.24483* <br>
+
 -  [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784) <br>
 C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
-*IEEE Transactions on Signal Processing*
+*IEEE Transactions on Signal Processing (IEEE TSP)*
 
 - [CR-Net: Scaling Parameter-Efficient Training with Cross-Layer Low-Rank Structure](https://arxiv.org/abs/2509.18993) <br>
 B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
@@ -48,7 +52,7 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 
 - [A Convergence-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700) <br>
  Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
- *IEEE Transactions on Signal Processing*
+ *IEEE Transactions on Signal Processing  (IEEE TSP)*
 
 - [Decentralized Bilevel Optimization: A Perspective from Transient Iteration Complexity](https://arxiv.org/abs/2402.03167) <br>
   B. Kong, S. Zhu, S. Lu, X. Huang, and K. Yuan <br>
@@ -84,7 +88,7 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 
 - [On the Trade-off between Flatness and Optimization in Distributed Learning](https://arxiv.org/pdf/2406.20006) <br>
   Y. Cao, Z. Wu, K. Yuan, and A. H. Sayed <br>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* <br>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)* <br>
 
 - [On the Linear Speedup of the Push-Pull Method for Decentralized Optimization over Digraphs](https://arxiv.org/pdf/2506.18075) <br>
   L. Liang, G. Luo, and K. Yuan <br>
