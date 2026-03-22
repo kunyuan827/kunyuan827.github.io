@@ -15,13 +15,14 @@ title: ""
 
 I am an Assistant Professor at [Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/) in Peking University. 
 
-My research lies in the theoretical and algorithmic foundations in optimization, signal processing, machine learning, and data science. I currently focus on the development of fast, scalable, reliable, and distributed algorithms with applications in large-scale optimization, deep neural network training, federated learning, and Internet of things.  
-
+My research lies in the theoretical and algorithmic foundations in optimization, signal processing and machine learning. I currently focus on efficient pre-training and post-training for Large Langugae Models, and AI for Math.
+<!-- the development of fast, scalable, reliable, and distributed algorithms with applications in large-scale optimization, deep neural network training, federated learning, and Internet of things. -->
 <!-- I was the recipient of several academic awards, including the prestigious 2017 IEEE Signal Processing Society Young Author Best Paper Award, and the 2017 ICCM Distinguished Paper Award.  -->
+Before joining Peking University, I was a staff algorithm engineer in the [Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) in Alibaba (US) Group led by Prof. [Wotao Yin](https://wotaoyin.mathopt.com/). I completed my Ph.D. in Electrical and Computer Engineering from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) in 2019 under the supervision of Prof. [Ali H. Sayed](https://asl.epfl.ch/biography/). I was a visiting researcher at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) from 2018 January to 2018 June.
 
-Before joining Peking University, I was a staff algorithm engineer in the [Decision Intelligence Lab](https://damo.alibaba.com/labs/decision-intelligence) in Alibaba (US) Group led by Prof. [Wotao Yin](https://wotaoyin.mathopt.com/). I completed my Ph.D. in Electrical and Computer Engineering from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) in 2019 under the supervision of Prof. [Ali H. Sayed](https://asl.epfl.ch/biography/). I was a visiting researcher at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) from 2018 January to 2018 June, and a research intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) from 2018 June to 2018 October.
+<!-- , and a research intern at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) from 2018 June to 2018 October. -->
 
-I was the recipient of the 2025 IEEE CloudCom Distinguished Paper Award,  the 2017 IEEE Signal Processing Society Young Author Best Paper Award (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the 2017 ICCM Distinguished Paper Award.
+I was the recipient of the 2025 IEEE CloudCom Distinguished Paper Award,  the 2017 IEEE Signal Processing Society Young Author Best Paper Award (joint with Dr. [Wei Shi](https://sites.google.com/view/wilburshi/home)), and the 2017 ICCM Best Paper Award.
 
 I currently serve as an Associate Editor for IEEE Transactions on Signal Processing and an Area Chair for both NeurIPS and ICML.
 
