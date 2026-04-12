@@ -4,6 +4,11 @@ permalink: "/talks/"
 layout: page
 ---
 
+- [LLM Pretraining through Flat-Direction Dynamics Enhancement](https://kunyuan827.github.io/resources/talk/LITE-BIMSA-1.0.pdf) <br>
+  Workshop on Intelligent Optimization and Decision-Making <br>
+  Beijing, China <br>
+  March, 2026 <br>
+
 - [Memory-Efficient LLM Training via Implicit Structures](https://kunyuan827.github.io/resources/talk/MemoryEfficientLLM_MS.pdf) <br>
   [Microsoft Research Asia ACE Talk](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-asia-ace-talk/) <br>
   Microsoft Research Asia, Beijing, China <br>
