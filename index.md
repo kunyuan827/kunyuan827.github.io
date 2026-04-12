@@ -43,6 +43,8 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
+- [04/2026] Our new paper, *[Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681)*, is now available online. We come up with a unified framework to accelerate existing popular optimizers such as AdamW, Muon and SOAP. The slides can be found [here](https://kunyuan827.github.io/resources/talk/LITE-BIMSA-1.0.pdf).
+
 - [02/2026] Our new paper, *[Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483)*, is now available online. Traditional decentralized algorithms for time-varying digraphs require knowledge of the out-degree of each node, which is inaccessible in highly dynamic row-stochastic digraphs. We believe our work resolves the long-standing open question of developing decentralized algorithms over such graphs.
 
 - [02/2026] Our paper, *[Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784)*,
