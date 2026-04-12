@@ -36,9 +36,31 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
-- [Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483) <br>
-L. Liang, Y. Song, and K. Yuan <br>
-*arXiv preprint: 2512.24483* <br>
+- [DRAW: Domain Weight Randomization with Bayesian Updating for LLM Pre-Training](https://openreview.net/forum?id=tc8TyD7ZyD) <br>
+R. Wang, Y. Qiao, Z. Xie, and K. Yuan <br>
+*Transactions on Machine Learning Research (TMLR)*
+
+- [Automating Reformulation for Parallel ADMM](https://arxiv.org/pdf/2603.19417) <br>
+K. Sun, B. Wu, K. Yuan, and W. Yin <br>
+*arXiv preprint: 2603.19417* <br>
+
+- [Synergistic Intra-and Cross-Layer Regularization Losses for MoE Expert Specialization](https://arxiv.org/abs/2602.14159) <br>
+R. Hu, Y. Cao, B. Kong, M.Sun, and K. Yuan <br>
+*arXiv preprint: 2602.14159*
+
+- [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](https://arxiv.org/abs/2603.06626) <br>
+Y. Xu, R. Hu, Z. Liu, M. Sun, and K. Yuan <br>
+*arXiv preprint: 2603.06626*
+
+
+- [M2F: Automated Formalization of Mathematical Literature at Scale]() <br>
+Z. Wang, W. Ma, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
+*arXiv preprint: 2602.17016* <br>
+
+- [Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681) <br>
+S. Zhu, R. Hu, M. Wang, M. Sun, X. Wang, K. Yuan, and Z. Wen <br>
+*arXiv preprint: 2602.22681* <br>
+
 
 -  [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784) <br>
 C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
@@ -49,6 +71,10 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 *International Conference on Learning Representations (ICLR)* <br>
 
 ### 2025
+
+- [Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483) <br>
+L. Liang, Y. Song, and K. Yuan <br>
+*arXiv preprint: 2512.24483* <br>
 
 - [A Convergence-Inspired Learning-to-Optimize Framework for Decentralized Optimization](https://arxiv.org/abs/2410.01700) <br>
  Y. He, Q. Shang, X. Huang, J. Liu, and K. Yuan <br>
@@ -81,10 +107,6 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 - [Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads](https://www.arxiv.org/abs/2510.16807) <br>
   Z. Wu, Y. Zhang, Y. Dong, C. Zhang, C. Fang, K. Yuan, and Z. Lin <br>
   *The Conference on Neural Information Processing Systems (NeurIPS)* <br>
-  
-- [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/pdf/2507.08784) <br>
-  C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
-  *arXiv preprint: 2507.08784* <br>
 
 - [On the Trade-off between Flatness and Optimization in Distributed Learning](https://arxiv.org/pdf/2406.20006) <br>
   Y. Cao, Z. Wu, K. Yuan, and A. H. Sayed <br>
