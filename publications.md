@@ -36,6 +36,34 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
+- [OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](https://arxiv.org/abs/2604.23712) <br>
+C. Li, Y. Nie, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
+*International Conference on Machine Learning (ICML)*
+
+- [Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](https://arxiv.org/abs/2509.06493) <br>
+R. Xin, Z. Zheng, Y. Nie, K. Yuan, X. Xiao <br>
+*International Conference on Machine Learning (ICML)*
+
+- [Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](https://arxiv.org/abs/2602.14159) <br>
+R. Hu, Y. Cao, B. Kong, M. Sun, K. Yuan <br>
+*International Conference on Machine Learning (ICML)*
+
+- [Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641) <br>
+Y. Liu, Y. Hu, Z. Zhang, K. Jiang, K. Yuan <br>
+*International Conference on Machine Learning (ICML)*
+
+- [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](https://arxiv.org/abs/2603.06626) <br>
+Y. Xu, R. Hu, Z. Liu, M. Sun, K. Yuan <br>
+*International Conference on Machine Learning (ICML)*
+
+- [Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](https://arxiv.org/abs/2511.19513) <br>
+B. Liu, B. Kong, L. Lu, K. Yuan, C. Zhao <br>
+*International Conference on Machine Learning (ICML)*
+
+- Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity <br>
+T. Sun, B. Wu, X. Liu, and K. Yuan <br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*
+
 - [DRAW: Domain Weight Randomization with Bayesian Updating for LLM Pre-Training](https://openreview.net/forum?id=tc8TyD7ZyD) <br>
 R. Wang, Y. Qiao, Z. Xie, and K. Yuan <br>
 *Transactions on Machine Learning Research (TMLR)*
