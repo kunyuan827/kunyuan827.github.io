@@ -52,13 +52,22 @@ R. Hu, Y. Cao, B. Kong, M. Sun, K. Yuan <br>
 Y. Liu, Y. Hu, Z. Zhang, K. Jiang, K. Yuan <br>
 *International Conference on Machine Learning (ICML)*
 
+- DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation <br>
+J. Hu, Z. Gao, Y. He, K. Yuan <br>
+*International Conference on Machine Learning (ICML)*
+
 - [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](https://arxiv.org/abs/2603.06626) <br>
 Y. Xu, R. Hu, Z. Liu, M. Sun, K. Yuan <br>
+*International Conference on Machine Learning (ICML)*
+
+- OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization <br>
+H. Lin, Y. Gao, Y. Zhang, K. Yuan, G. Yan, S. Chen, L. Zhang, W. E <br>
 *International Conference on Machine Learning (ICML)*
 
 - [Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](https://arxiv.org/abs/2511.19513) <br>
 B. Liu, B. Kong, L. Lu, K. Yuan, C. Zhao <br>
 *International Conference on Machine Learning (ICML)*
+
 
 - Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity <br>
 T. Sun, B. Wu, X. Liu, and K. Yuan <br>
@@ -72,15 +81,6 @@ R. Wang, Y. Qiao, Z. Xie, and K. Yuan <br>
 K. Sun, B. Wu, K. Yuan, and W. Yin <br>
 *arXiv preprint: 2603.19417* <br>
 
-- [Synergistic Intra-and Cross-Layer Regularization Losses for MoE Expert Specialization](https://arxiv.org/abs/2602.14159) <br>
-R. Hu, Y. Cao, B. Kong, M.Sun, and K. Yuan <br>
-*arXiv preprint: 2602.14159*
-
-- [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](https://arxiv.org/abs/2603.06626) <br>
-Y. Xu, R. Hu, Z. Liu, M. Sun, and K. Yuan <br>
-*arXiv preprint: 2603.06626*
-
-
 - [M2F: Automated Formalization of Mathematical Literature at Scale]() <br>
 Z. Wang, W. Ma, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
 *arXiv preprint: 2602.17016* <br>
@@ -88,7 +88,6 @@ Z. Wang, W. Ma, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
 - [Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681) <br>
 S. Zhu, R. Hu, M. Wang, M. Sun, X. Wang, K. Yuan, and Z. Wen <br>
 *arXiv preprint: 2602.22681* <br>
-
 
 -  [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784) <br>
 C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
