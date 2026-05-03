@@ -42,20 +42,20 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 <!-- - <mark> We're hiring 2024 Summer Research Interns. Please check this [document](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).</mark> <br> -->
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
-
-- [05/2026] The following paper on *Optimization Theory and Algorithms* is accepted to ICML 2026. Congratulations to all collaborators and students. <br>
-  * *[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](https://arxiv.org/abs/2511.19513)* <br>
   
-- [05/2026] The following papers on *Efficient LLM Training and Inference* are accepted to ICML 2026. Congratulations to all collaborators and students. <br>
+- [05/2026] The following papers on *Efficient LLM Training and Inference* are accepted to ICML 2026.  <br>
   * *[Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](https://arxiv.org/abs/2602.14159)* <br>
   * *[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641)* <br>
   * *[Grouter: Decoupling Routing from Representation for Accelerated MoE Training](https://arxiv.org/abs/2603.06626)* <br>
   * *DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation* <br>
 
-- [05/2026] The following papers on *AI for Math* are accepted to ICML 2026. Congratulations to all collaborators and students. <br>
+- [05/2026] The following papers on *AI for Math* are accepted to ICML 2026.  <br>
   * *[OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](https://arxiv.org/abs/2604.23712)* <br>
   * *OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization* <br>
   * *[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](https://arxiv.org/abs/2509.06493)* <br>
+
+- [05/2026] The following paper on *Optimization Theory and Algorithms* is accepted to ICML 2026.  <br>
+  * *[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](https://arxiv.org/abs/2511.19513)* <br>
 
 - [04/2026] Our new paper, *Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity* has been accepted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*.
 
