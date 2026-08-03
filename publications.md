@@ -36,6 +36,15 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
+- CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization <br>
+C. Chen, P. Sun, K. Yuan <br>
+*European Conference on Computer Vision (ECCV)*
+
+- [CentroidKV: Efficient Long-Context LLM Inference via KV Cache Clustering](https://arxiv.org/abs/2506.11418) <br>
+J. Hu, S. Wang, Y. He, P. Gong, J. Yi, J. Zhang, Y. Bai, R. Chen, G. Zhang, C. Li, K. Yuan <br>
+*Transactions on Machine Learning Research (TMLR)*
+
+
 - [OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](https://arxiv.org/abs/2604.23712) <br>
 C. Li, Y. Nie, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
 *International Conference on Machine Learning (ICML)*
@@ -52,7 +61,7 @@ R. Hu, Y. Cao, B. Kong, M. Sun, K. Yuan <br>
 Y. Liu, Y. Hu, Z. Zhang, K. Jiang, K. Yuan <br>
 *International Conference on Machine Learning (ICML)*
 
-- DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation <br>
+- [DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation](https://arxiv.org/pdf/2605.23445) <br>
 J. Hu, Z. Gao, Y. He, K. Yuan <br>
 *International Conference on Machine Learning (ICML)*
 
@@ -60,7 +69,7 @@ J. Hu, Z. Gao, Y. He, K. Yuan <br>
 Y. Xu, R. Hu, Z. Liu, M. Sun, K. Yuan <br>
 *International Conference on Machine Learning (ICML)*
 
-- OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization <br>
+- [OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization](https://icml.cc/virtual/2026/poster/60475) <br>
 H. Lin, Y. Gao, Y. Zhang, K. Yuan, G. Yan, S. Chen, L. Zhang, W. E <br>
 *International Conference on Machine Learning (ICML)*
 
