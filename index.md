@@ -43,7 +43,7 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 
 <!-- - [06/2024] 正在招收2024年暑期实习生. 项目简介及要求请参看该 [文档](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/SummerIntern.pdf).  -->
 
-- [07/2026] Congratulations to our group members on their PhD offers: undergraduate student Gan Luo to Management Science and Engineering at Stanford University, undergraduate student Xinyi Chen to Computer Science and Engineering at the University of Washington, and graduate student Yi Song to Electrical and Electronic Engineering at Imperial College London!
+- [07/2026] Congratulations to our group members on their PhD offers: undergraduate student Gan Luo to Management Science and Engineering at Stanford University, undergraduate student Xinyi Chen to Computer Science and Engineering at the University of Washington, and graduate student Yilong Song to Electrical and Electronic Engineering at Imperial College London!
   
 - [05/2026] The following papers on *Efficient LLM Training and Inference* are accepted to ICML 2026.  <br>
   * *[Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](https://arxiv.org/abs/2602.14159)* <br>
