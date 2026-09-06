@@ -3,6 +3,7 @@ title: ""
 permalink: "/teaching/"
 layout: page
 ---
+### [Lectures 2026: Optimization for Deep Learning](./DLOpt2026.md)
 ### [PKU Class 2026 Spring: Introduction to Foundation Models](./llm2026.md)
 ### [Lectures 2026: Optimization for Large Language Models](./LLMOpt2026.md)
 ### [PKU Class 2025 Fall: Optimization for Deep Learning](./DLOpt2025.md)
