@@ -43,7 +43,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) <br> 
 - Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Intro2.pdf)
 
-### Lecture 1: Linear Algebra <br>
+### Lecture 2: Linear Algebra <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
 - Part   I: Gradient and Hessian [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes01_GradientHessian.pdf) <br> 
 
