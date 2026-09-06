@@ -4,7 +4,7 @@ permalink: "/dlopt2025/"
 layout: page
 ---
 
-## PKU Class 2025 Fall: Optimizaiton for Deep Learning
+## PKU Class 2025 Fall: Optimization for Deep Learning
 
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
