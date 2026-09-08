@@ -9,7 +9,7 @@ layout: page
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
 Teaching assistants: 
-- **Yilong Song** (2301213059@pku.edu.cn) [Leading Teaching Assistant] <br> 
+- **Yilong Song** (2301213059@pku.edu.cn) <span style="background-color:#eef1f5; color:#4a5568; border-radius:10px; padding:1px 8px; font-size:0.8em;">Lead TA</span> <br> 
 - **Mian Xiao** (xiaom@stu.pku.edu.cn) <br>
 - **Ruoxi Yu** (2301111452@stu.pku.edu.cn) <br>
 

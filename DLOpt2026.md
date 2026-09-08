@@ -9,7 +9,8 @@ layout: page
 Instructor: **Kun Yuan** (kunyuan@pku.edu.cn) <br>
 
 Teaching assistants: 
-- **Shuchen Zhu** (shuchenzhu@stu.pku.edu.cn) [Leading Teaching Assistant] <br> 
+- **Shuchen Zhu** (shuchenzhu@stu.pku.edu.cn) <span style="background-color:#eef1f5; color:#4a5568; border-radius:10px; padding:1px 8px; font-size:0.8em;">Lead TA</span> <br> 
+- **Ming Sun** (2401111521@stu.pku.edu.cn) <br>
 - **Feiyue Ye** (2501111527@stu.pku.edu.cn) <br>
 
 Classroom: 3pm - 6pm Tuesday, 三教203
