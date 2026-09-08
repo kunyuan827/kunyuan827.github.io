@@ -40,7 +40,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 
 ### Lecture 1: Introduction <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
-- Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Intro1.pdf) <br> 
+- Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Slides01_Intro_PKU.pdf) <br> 
 - Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Intro2.pdf)
 
 ### Lecture 2: Linear Algebra <br>
