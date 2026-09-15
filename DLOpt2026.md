@@ -47,6 +47,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 2: Linear Algebra <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
 - Part   I: Gradient and Hessian [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes01_GradientHessian.pdf) <br> 
+- Part  II: Linear Transform; Eigenvalue and Eigenvector; Jacobian matrix; Chain Rule [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes02_Jacobian.pdf) <br> 
 
 <!-- ### Lecture 2: Basics in Machine Learning and Langugae Models <br>
 - Part   I: Basics in Machine Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/02_MLBasics.pdf) <br>
