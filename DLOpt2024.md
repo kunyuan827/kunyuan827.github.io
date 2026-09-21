@@ -85,7 +85,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2024/)*, PKU
 - Communication Compression; Local Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/21_Local_Compressed.pdf)
 
 ### Lecture 14: Flash Attention <br>
-- Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
+- Memory access cost; Kernel fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
 
 ### Lecture 15: Fine-tuning <br>
 - Motivation; Adapter; LoRA; DoRA; LISA [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/23_fine_tune.pdf)

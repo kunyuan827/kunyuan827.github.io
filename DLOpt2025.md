@@ -75,7 +75,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 9: Midterm <br>
 
 ### Lecture 10: FlashAttention <br>
-- Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
+- Memory access cost; Kernel fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
 
 ### Lecture 11: Block Coordinate Descent <br>
 - Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
