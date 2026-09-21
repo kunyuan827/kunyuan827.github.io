@@ -44,12 +44,69 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Part   I: Introduction to Deep Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Slides01_Intro_PKU.pdf) <br> 
 - Part  II: Introduction to LLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Intro2.pdf)
 
-### Lecture 2: Linear Algebra <br>
+### Lecture 2: Linear Algebra I <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
 - Part   I: Gradient and Hessian [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes01_GradientHessian.pdf) <br> 
 - Part  II: Linear Transform; Eigenvalue and Eigenvector; Jacobian matrix; Chain Rule [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes02_Jacobian.pdf) <br> 
 
-<!-- ### Lecture 2: Basics in Machine Learning and Langugae Models <br>
+### Lecture 3: Linear Algebra II <br>
+<!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
+- Part   I: Jacobian matrix; Hessian matrix; Chain Rule <br> 
+- Part  II: Inner product; Positive-definite matrix; Matrix functions; Forward-backward Propagation <br> 
+- Part III: Norms; Singular-value decomposition
+
+### Lecture 4: Probability and Statistics <br>
+- Part   I: Probability; Random variables; Distribution
+- Part  II: Expectation; Variance; Marginal/Conditional distribution
+- Part III: Basics in Machine Learning
+
+### Lecture 5: Gradient Descent <br>
+- Convex set; Convex functions; Convex problems; Gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_1.pdf)
+- Momentum gradient descent; Nesterov acceleration; Anderson acceleration [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/08_ACC_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch3.pdf) <br>
+
+### Lecture 6: Stochastic Gradient Descent <br>
+- Stochastic gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/06_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/Notes_SGD.pdf)  <br>
+- Momentum SGD [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/10_ACC_SGD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch8_1.pdf) <br>
+- AdaGrad; RMSProp; Adam [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/11_Adaptive_SGD.pdf) 
+
+### Lecture 7: Basics in Transformer and LLM I <br>
+- Part I: Word Embedding; Seq2Seq; Attention; Transformer [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_transformer.pdf)
+
+### Lecture 8: Basics in Transformer and LLM II <br>
+- Parameters, Computations, and Memory Costs in Transformer [[Slides01]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/04_Parameter_analysis.pdf) [[Slides02]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/12_memory_analysis.pdf)
+- Memory access cost; Kernel fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
+
+
+### Lecture 9: Advanced Optimizer for LLM <br>
+- Shampoo; SOAP; Muon; Lite; MuonM  [[Slides]](https://kunyuan827.github.io/teaching/DLOpt2025/AdvancedOpt.pdf)
+
+### Lecture 10: Subspace Optimizer for LLM <br>
+- Adam-mini; Memory-efficient Optimizers [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/GoLore+RSO_compressed.pdf)
+- Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
+- Block-wise training in LLMs [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/15_LISA.pdf)
+
+### Lecture 11: Zeroth-Order Optimizer <br>
+- Finite difference; linear interpolation; sphere smoothing [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/ZO_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/Notes_ZO.pdf)
+- Memory-efficient zeroth-order optimization; Low-rank zeroth-order optimization [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/2025_LOZO.pdf)
+
+### Lecture 12: Distributed Optimizer <br>
+- Data Parallelism; Pipeline Parallelism; Tensor Parallelism [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/19_Parallesm.pdf)
+- Decentralized Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/20_Decentralized.pdf)
+- Communication Compression; Local Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/21_Local_Compressed.pdf)
+
+### Lecture 13: Mixed-Precision Training <br>
+- FP16; FP32; Mixed-Precision [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/13_mixed.pdf)
+- FP8; NVFP4 [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2025/mixed_precision_training_FP8.pdf)
+
+
+### Lecture 14: Efficient Fine-tuning and Inference <br>
+- Motivation; Adapter; LoRA; DoRA; LISA [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/23_fine_tune.pdf)
+- KV Cache; Streaming LLM; Quest; vLLM [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/24_efficient_inference.pdf)
+
+
+
+
+<!-- ### Lecture 2: Basics in Machine Learning and Language Models <br>
 - Part   I: Basics in Machine Learning [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/02_MLBasics.pdf) <br>
 - Part  II: Basics in Language models [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/03_langmodel.pdf)
 
@@ -80,7 +137,7 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 9: Midterm <br>
 
 ### Lecture 10: FlashAttention <br>
-- Memory access cost; Kernal fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
+- Memory access cost; Kernel fusion; Flash attention [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/22_FlashAttention.pdf)
 
 ### Lecture 11: Block Coordinate Descent <br>
 - Block coordinate descent; Coordinate friendly structure [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2024/14_CD.pdf)
