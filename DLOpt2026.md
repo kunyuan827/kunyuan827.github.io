@@ -47,13 +47,13 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 ### Lecture 2: Linear Algebra I <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
 - Part   I: Gradient and Hessian [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes01_GradientHessian.pdf) <br> 
-- Part  II: Linear Transform; Eigenvalue and Eigenvector; Jacobian matrix; Chain Rule [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes02_Jacobian.pdf) <br> 
+- Part  II: Linear Transform; Eigenvalue and Eigenvector [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/Notes02_Jacobian.pdf) <br> 
 
 ### Lecture 3: Linear Algebra II <br>
 <!-- - Warm up: Preliminary [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/resources/notes_ch0.pdf) <br> -->
-- Part   I: Jacobian matrix; Hessian matrix; Chain Rule <br> 
-- Part  II: Inner product; Positive-definite matrix; Matrix functions; Forward-backward Propagation <br> 
-- Part III: Norms; Singular-value decomposition
+- Part   I: Jacobian matrix; Hessian matrix; Chain Rule [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/02.%20Jacobian_Hessian.pdf) <br> 
+- Part  II: Inner product; Positive-definite matrix; Matrix functions; Forward-backward Propagation [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/03.%20Matrix_Functions.pdf) <br> 
+- Part III: Norms; Singular-value decomposition [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/04.%20Norms.pdf)
 
 ### Lecture 4: Probability and Statistics <br>
 - Part   I: Probability; Random variables; Distribution
