@@ -55,10 +55,9 @@ Kun Yuan, *[Introduction to LLM](https://kunyuan827.github.io/llm2025/)*, PKU 20
 - Part  II: Inner product; Positive-definite matrix; Matrix functions; Forward-backward Propagation [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/03.%20Matrix_Functions.pdf) <br> 
 - Part III: Norms; Singular-value decomposition [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/04.%20Norms.pdf)
 
-### Lecture 4: Probability and Statistics <br>
-- Part   I: Probability; Random variables; Distribution
-- Part  II: Expectation; Variance; Marginal/Conditional distribution
-- Part III: Basics in Machine Learning
+### Lecture 4: Probability and Statistics  <br>
+- Part   I: Probability; Random variables; Distribution [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/probability_chapter.pdf) <br> 
+- Part  II: Expectation; Variance; Marginal/Conditional distribution [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/DLOpt2026/probability_chapter.pdf)
 
 ### Lecture 5: Gradient Descent <br>
 - Convex set; Convex functions; Convex problems; Gradient descent [[Slides]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/03_GD.pdf) [[Notes]](https://github.com/kunyuan827/kunyuan827.github.io/raw/master/teaching/LLM2025/notes_1.pdf)
