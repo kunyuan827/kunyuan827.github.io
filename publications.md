@@ -36,9 +36,37 @@ W. Shi, Q. Ling, K. Yuan, G, Wu, and W. Yin <br>
 
 ### 2026
 
-- CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization <br>
+- [Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681) <br>
+S. Zhu, R. Hu, M. Wang, M. Sun, X. Wang, K. Yuan, and Z. Wen <br>
+*The Conference on Neural Information Processing Systems (NeurIPS)*
+
+- [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/abs/2509.19029) <br>
+B. Kong, X. Huang, Y. Xu, Y. Liang, B. Wang, and K. Yuan <br>
+*The Conference on Neural Information Processing Systems (NeurIPS)*
+
+- [BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](https://arxiv.org/abs/2605.10288) <br>
+H. Zhang, B. Kong, E. Zhang, and K. Yuan <br>
+*The Conference on Neural Information Processing Systems (NeurIPS)*
+
+- [GNMR: Runtime Stability Control for Low-Precision Large Language Model Training](https://arxiv.org/abs/2606.00539) <br>
+B. Kong, W. Jia, E. Zhang, G. Li, Y. Dong, Y. Wang, Y. Wang, Y. Peng, and K. Yuan <br>
+*The Conference on Empirical Methods in Natural Language Processing (EMNLP)*
+
+- [An Efficient Subspace Algorithm for Federated Learning on Heterogeneous Data](https://arxiv.org/abs/2509.05213) <br>
+J. Zhang, Y. Fan, Y. Xu, and K. Yuan <br>
+*IEEE Transactions on Signal Processing (IEEE TSP)*
+
+- [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](https://arxiv.org/abs/2608.02502) <br>
 C. Chen, P. Sun, K. Yuan <br>
 *European Conference on Computer Vision (ECCV)*
+
+- [ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System](https://arxiv.org/abs/2607.14178) <br>
+Y. He, D. Li, G. Li, J. Geng, Z. Huang, C. Ren, Z. Zhang, Y. Liu, S. Zhu, H. Zhang, B. Kong, M. Sun, S. Li, C. Li, J. Hu, K. Yuan, Z. Wen, and P. Zhang <br>
+*arXiv preprint: 2607.14178* <br>
+
+- [RoPeSLR: 3D RoPE-driven Sparse-LowRank Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2605.20659) <br>
+Y. Liu, Z. Zhang, Y. Cai, R. Deng, Y. He, and K. Yuan <br>
+*arXiv preprint: 2605.20659* <br>
 
 - [CentroidKV: Efficient Long-Context LLM Inference via KV Cache Clustering](https://arxiv.org/abs/2506.11418) <br>
 J. Hu, S. Wang, Y. He, P. Gong, J. Yi, J. Zhang, Y. Bai, R. Chen, G. Zhang, C. Li, K. Yuan <br>
@@ -94,10 +122,6 @@ K. Sun, B. Wu, K. Yuan, and W. Yin <br>
 Z. Wang, W. Ma, Z. Ming, G. Zhang, K. Yuan, Z. Wen <br>
 *arXiv preprint: 2602.17016* <br>
 
-- [Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681) <br>
-S. Zhu, R. Hu, M. Wang, M. Sun, X. Wang, K. Yuan, and Z. Wen <br>
-*arXiv preprint: 2602.22681* <br>
-
 -  [Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](https://arxiv.org/abs/2507.08784) <br>
 C. Chen, Y. He, P. Li, W. Jia, and K. Yuan <br>
 *IEEE Transactions on Signal Processing (IEEE TSP)*
@@ -107,6 +131,30 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
 *International Conference on Learning Representations (ICLR)* <br>
 
 ### 2025
+
+- [Mixture-of-Channels: Exploiting Sparse FFNs for Efficient LLMs Pre-Training and Inference](https://arxiv.org/abs/2511.09323) <br>
+  T. Wu, Y. He, B. Wang, and K. Yuan <br>
+  *arXiv preprint: 2511.09323* <br>
+
+- [From PowerSGD to PowerSGD+: Low-Rank Gradient Compression for Distributed Optimization with Convergence Guarantees](https://arxiv.org/abs/2509.11254) <br>
+  S. Xie, C. Chen, and K. Yuan <br>
+  *arXiv preprint: 2509.11254* <br>
+
+- [Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models](https://arxiv.org/abs/2508.12945) <br>
+  J. Zeng, Y. Liu, Y. Feng, C. Miao, Z. Gao, J. Qu, J. Zhang, B. Wang, and K. Yuan <br>
+  *arXiv preprint: 2508.12945* &nbsp; [[Project]](https://lumen-relight.github.io/) <br>
+
+- [TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network](https://arxiv.org/abs/2506.01352) <br>
+  G. He, Y. Cao, Y. He, T. Bai, K. Chen, K. Yuan, and B. Yuan <br>
+  *arXiv preprint: 2506.01352* <br>
+
+- An All-Reduce Compatible Top-k Compressor <br>
+  C. Chen, C. Ma, Z. Li, Y. He, Y. Dong, and K. Yuan <br>
+  *Chinese Conference on Communication, Control, and Technology for Smart Systems (CCCTS)*
+
+- Greedy Low-Rank Gradient Compression Provably Converges <br>
+  C. Chen, Y. He, P. Li, W. Jia, Y. Dong, and K. Yuan <br>
+  *Chinese Conference on Communication, Control, and Technology for Smart Systems (CCCTS)*
 
 - [Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483) <br>
 L. Liang, Y. Song, and K. Yuan <br>
@@ -127,10 +175,6 @@ L. Liang, Y. Song, and K. Yuan <br>
 - [Optimal Complexity in Byzantine-Robust Distributed Stochastic Optimization with Data Heterogeneity](https://arxiv.org/abs/2503.16337)<br>
   Q. Shi, J. Peng, K. Yuan, X. Wang, and Q. Ling <br>
   *Journal of Machine Learning Research (JMLR)*
-
-- [Clapping: Removing Per-sample Storage for Pipeline Parallel Distributed Optimization with Communication Compression](https://arxiv.org/abs/2509.19029) <br>
-  B. Kong, X. Huang, Y. Xu, Y. Liang, B. Wang, and K. Yuan <br>
-  *arXiv preprint: 2509.19029* <br>
 
 - [MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization](https://arxiv.org/abs/2510.16415) <br>
   R. Hu, Y. He, R. Yan, M. Sun, B. Yuan, and K. Yuan <br>
