@@ -70,7 +70,7 @@ I currently serve as an Associate Editor for IEEE Transactions on Signal Process
 - [05/2026] The following paper on *Optimization Theory and Algorithms* is accepted to ICML 2026.  <br>
   * *[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](https://arxiv.org/abs/2511.19513)* <br>
 
-- [04/2026] Our new paper, *Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity* has been accepted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*.
+- [04/2026] Our new paper, *[Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity](https://ieeexplore.ieee.org/document/11503442/)* has been accepted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*.
 
 - [04/2026] Our new paper, *[DRAW: Domain Weight Randomization with Bayesian Updating for LLM Pre-Training](https://openreview.net/forum?id=tc8TyD7ZyD)* has been accepted to *Transactions on Machine Learning Research (TMLR)*.
 

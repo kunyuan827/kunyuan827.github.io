@@ -56,6 +56,10 @@ B. Kong, W. Jia, E. Zhang, G. Li, Y. Dong, Y. Wang, Y. Wang, Y. Peng, and K. Yua
 J. Zhang, Y. Fan, Y. Xu, and K. Yuan <br>
 *IEEE Transactions on Signal Processing (IEEE TSP)*
 
+- [Diffusion Learning with Partial Agent Participation and Local Updates](https://arxiv.org/abs/2505.11307) <br>
+E. Rizk, S. Chen, K. Yuan, and A. H. Sayed <br>
+*IEEE Transactions on Signal Processing (IEEE TSP)*
+
 - [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](https://arxiv.org/abs/2608.02502) <br>
 C. Chen, P. Sun, K. Yuan <br>
 *European Conference on Computer Vision (ECCV)*
@@ -106,7 +110,7 @@ B. Liu, B. Kong, L. Lu, K. Yuan, C. Zhao <br>
 *International Conference on Machine Learning (ICML)*
 
 
-- Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity <br>
+- [Gradient Normalization Enables Communication-Efficient Distributed Learning under Arbitrary Data Heterogeneity](https://ieeexplore.ieee.org/document/11503442/) <br>
 T. Sun, B. Wu, X. Liu, and K. Yuan <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*
 
