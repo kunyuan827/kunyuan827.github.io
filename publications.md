@@ -110,6 +110,10 @@ B. Liu, B. Kong, L. Lu, K. Yuan, C. Zhao <br>
 T. Sun, B. Wu, X. Liu, and K. Yuan <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)*
 
+- [TAH-Quant: Effective Activation Quantization in Pipeline Parallelism over Slow Network](https://openreview.net/forum?id=6ysPGq2RVD) <br>
+G. He, Y. Cao, Y. He, T. Bai, K. Chen, K. Yuan, and B. Yuan <br>
+*Transactions on Machine Learning Research (TMLR)*
+
 - [DRAW: Domain Weight Randomization with Bayesian Updating for LLM Pre-Training](https://openreview.net/forum?id=tc8TyD7ZyD) <br>
 R. Wang, Y. Qiao, Z. Xie, and K. Yuan <br>
 *Transactions on Machine Learning Research (TMLR)*
@@ -136,25 +140,9 @@ B. Kong, J. Liang, Y. Liu, R. Deng, and K. Yuan <br>
   T. Wu, Y. He, B. Wang, and K. Yuan <br>
   *arXiv preprint: 2511.09323* <br>
 
-- [From PowerSGD to PowerSGD+: Low-Rank Gradient Compression for Distributed Optimization with Convergence Guarantees](https://arxiv.org/abs/2509.11254) <br>
-  S. Xie, C. Chen, and K. Yuan <br>
-  *arXiv preprint: 2509.11254* <br>
-
 - [Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models](https://arxiv.org/abs/2508.12945) <br>
   J. Zeng, Y. Liu, Y. Feng, C. Miao, Z. Gao, J. Qu, J. Zhang, B. Wang, and K. Yuan <br>
   *arXiv preprint: 2508.12945* &nbsp; [[Project]](https://lumen-relight.github.io/) <br>
-
-- [TAH-QUANT: Effective Activation Quantization in Pipeline Parallelism over Slow Network](https://arxiv.org/abs/2506.01352) <br>
-  G. He, Y. Cao, Y. He, T. Bai, K. Chen, K. Yuan, and B. Yuan <br>
-  *arXiv preprint: 2506.01352* <br>
-
-- An All-Reduce Compatible Top-k Compressor <br>
-  C. Chen, C. Ma, Z. Li, Y. He, Y. Dong, and K. Yuan <br>
-  *Chinese Conference on Communication, Control, and Technology for Smart Systems (CCCTS)*
-
-- Greedy Low-Rank Gradient Compression Provably Converges <br>
-  C. Chen, Y. He, P. Li, W. Jia, Y. Dong, and K. Yuan <br>
-  *Chinese Conference on Communication, Control, and Technology for Smart Systems (CCCTS)*
 
 - [Decentralized Optimization over Time-Varying Row-Stochastic Digraphs](https://arxiv.org/pdf/2512.24483) <br>
 L. Liang, Y. Song, and K. Yuan <br>
